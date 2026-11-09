@@ -39,6 +39,6 @@ The full log of every decision, check, departure and blocked source is [`london-
 
 ## Tools / AI assistance
 
-- Tool and request: Claude Code, an LLM coding assistant. I set the question, suggested each source, measure, comparison group and test, and interpreted each result. Claude Code wrote and ran the Python and R for each step and reported the output back for the next decision.
-- Contribution: Downloading and cleaning the data, coding the closure rules from legislation.gov.uk, building the access and variety-days-lost measures, estimating the event studies, triple differences and instrumental-variable regressions with the wild cluster bootstrap, and drafting the LaTeX for the report and summary, which I then revised.
+- Tool and request: Claude Code, an LLM coding assistant. The question, each source, measure, comparison group and test, and the interpretation of each result were set outside the tool, and Claude Code wrote and ran the Python and R for each step and reported the output back for the next decision.
+- Contribution: Downloading and cleaning the data, coding the closure rules from legislation.gov.uk, building the access and variety-days-lost measures, estimating the event studies, triple differences and instrumental-variable regressions with the wild cluster bootstrap, and drafting the LaTeX for the report and summary, which was then revised by hand.
 - Checks or changes: Decision rules were fixed in three checksummed pre-analysis plans before the relevant estimation, every judgement call was logged in the notes files as it arose, analyses chosen after the registered results are labelled in the write-up, and each figure in the write-up was checked against the estimation outputs.

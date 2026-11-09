@@ -1,4 +1,4 @@
-"""Step 2 check (departure from the pre-analysis plan, requested after Step 2): students.
+"""Step 2 check (departure from the pre-analysis plan, added after Step 2): students.
 
 1. Headline specification (f) (teleworkability and garden x young x year, region x young x year effects) plus the
    2011 full-time student share x young x year; ages 20-29 and 25-29 against the family proxy; all 316 LADs and the

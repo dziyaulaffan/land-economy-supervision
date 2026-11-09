@@ -97,13 +97,13 @@ There are 24 regressions in total. The K column reads baseline / one control / a
    - At 2.5, chefs (2.48) and cleaners (2.44) would count as teleworkable. One misclassification remains: nursery nurses (1.48) count as teleworkable at 1.5.
    - A 2.0 threshold version and an employment-weighted mean score are saved as alternatives in `controls_borough.csv`. Only the 1.5 version enters the regressions.
 5. **Control timing.** Census controls are from 2011, nine years before the shock. Garden access is from April 2020.
-6. **Pre-trend Wald test.** This is an extra, not requested. It is cluster-robust with F(q, 31) and is unreliable when q is large relative to 32 clusters, especially for rents (q = 19). Read the plotted coefficients rather than the p-value.
+6. **Pre-trend Wald test.** This is an addition to the specification. It is cluster-robust with F(q, 31) and is unreliable when q is large relative to 32 clusters, especially for rents (q = 19). Read the plotted coefficients rather than the p-value.
 7. **Small-sample convention.** Borough fixed effects are not counted in K, matching fixest's default. Counting them, the Stata `regress i.borough` convention, would widen SEs by about 6% in the migration model with all controls and by about 1% for rents.
 8. **Failures and workarounds.**
    - `wildboottest` failed with string cluster IDs (a numba typing error), so integer IDs are used for the check.
    - The first `contdid` install timed out on a dependency (BMisc) and was retried with a longer timeout.
    - Passing `clustervars = "id"` triggered a "two-way clustering not supported" warning, so the default clustering on `idname` is used instead.
-9. **Not done, as requested.** MSOA house-price analysis is left for the next stage. MSOA controls are built (`controls_msoa2011.csv`) but not used here.
+9. **Not done at this stage.** MSOA house-price analysis is left for the next stage. MSOA controls are built (`controls_msoa2011.csv`) but not used here.
 
 ## 7. Rent trend break (`82_rent_trend_break.py`)
 
@@ -178,7 +178,7 @@ y_bt = a_b + l_t + δ · D_b · τ_t + Σ_{k ≥ 2020Q1} θ_k · 1[t=k] · D_b +
   - Both are artefacts of the U-shaped pre-period. Neither restriction is clearly right for these data.
 
 **Judgement calls**
-- The targets were chosen by me; the request named none.
+- The targets were chosen at this stage, since none were set in advance.
 - `gridPoints` was cut from 1,000 to 250, and the relative-magnitudes grid is coarse plus bisection. At default settings one Mbar value took 25 s for migration and about 4 minutes for rents (19 pre-periods), which made a fine grid impractical.
 - The relative-magnitudes Mbar values run in parallel on 8 cores via `doParallel`.
 - At large Mbar (1.5 and 2 for rents), the robust CI's lower end sits at HonestDiD's default test-inversion grid boundary (about −15). Those intervals are truncated and really wider. The breakdown values are all below 0.75, inside the range where the bounds are interior, so they are unaffected.
@@ -280,7 +280,7 @@ All are estimates, with log-price effects per SD of log MSOA amenity density, wi
 
 ## 11. Things that failed or needed a workaround (round 2)
 
-1. **Current NSPL lacks 2011 MSOAs.** I used the 2011 Census edition (section 10).
+1. **Current NSPL lacks 2011 MSOAs.** The 2011 Census edition is used (section 10).
 2. **Nomis small-area population.** Querying London MSOAs through the region parent (NM_2010_1) returned an empty file. The script pulls all England and Wales 2011 MSOAs (7,201 rows) and filters to London.
 3. **HonestDiD run time.** The first attempt (61 Mbar values, default grid points) was stopped after about 10 minutes on the first migration target. It was replaced by the coarse grid with parallel runs and bisection (section 8).
 4. **Shared estimator code.** The estimator now lives in `scripts/es_core.py`, shared by `80`, `82` and `87`. Rerunning `80_event_study.py` through it reproduces the earlier regression table: coefficients within 1e-10 and bootstrap p-values identical.
@@ -306,7 +306,7 @@ Run 29 October 2026. This round supersedes the section 10 results. Those files a
   | 2026Q3 | 10,750 | 0.45 | 0.1% |
 
   - In 2024-25 the new-build share was 3-8%. New builds are registered late, so the 2026 quarters are both thinner and tilted towards resales.
-  - 2026Q3 is kept as the "latest quarter", as requested. **Treat 2026 coefficients as provisional.** The summary table also shows 2025Q4 as the last well-covered quarter.
+  - 2026Q3 is kept as the "latest quarter", as specified. **Treat 2026 coefficients as provisional.** The summary table also shows 2025Q4 as the last well-covered quarter.
   - Separately, 2025Q1 has a spike in sales (ratio 1.76) and 2025Q2 a dip (ratio 0.72). This reflects the stamp duty threshold change of 1 April 2025, a timing effect absorbed by the borough-by-quarter fixed effects.
 
 ### New controls (each MSOA-level, standardised across the 982 MSOAs, interacted with quarter)
@@ -388,7 +388,7 @@ There are 14 regressions. Checked against `pyfixest` (baseline): coefficients ag
 
 ### Judgement calls (round 3)
 
-1. **Sample end.** It runs through 2026Q3, the latest calendar-complete quarter, as requested, despite the registration lag (above). 2025Q4 is reported alongside it.
+1. **Sample end.** It runs through 2026Q3, the latest calendar-complete quarter, as specified, despite the registration lag (above). 2025Q4 is reported alongside it.
 2. **New postcodes.** Post-August-2024 postcodes are placed by nearest NSPL-2011 postcode, rather than by an OA21-to-OA11 lookup. A boundary-polygon match would be more exact but needs another download; 0.24% of sales are affected.
 3. **2019 median price.** It is unweighted, uses all Category A D/S/T/F sales, and comes from the same sample as the outcome (see the caveat above).
 4. **Charing Cross point and distance.** Charing Cross is the statue of Charles I. Distance is straight-line, not travel time.
@@ -405,7 +405,7 @@ There are 14 regressions. Checked against `pyfixest` (baseline): coefficients ag
 
 Run 29 October 2026. Only the changed scripts were run: `82_rent_trend_break.py`, `87_msoa_house_prices.py`, the new `88_price_to_rent.py` and `89_pound_values.py`, and the shared helpers `es_core.py` and `plot_events.py`. There was no full rebuild; HonestDiD is unchanged and cached.
 
-**Division of roles (your framing).**
+**Division of roles.**
 - House prices measure the closure-period effect, before interest rates began rising.
 - Rents measure the return once venues reopened, because rents price the use of a home with financing largely stripped out.
 
@@ -617,17 +617,17 @@ Values are log points × 100 per SD of the treatment, with MSOA-clustered 95% CI
 
 ### 14.5 Judgement calls (round 5)
 
-1. **Geography.** MSOA counts at population-weighted centroids, not point data. OpenStreetMap was not used because Nomis has MSOA counts (as the request allowed). Point data could sharpen the 0-1 km ring, but would bring its own coverage and classification problems.
+1. **Geography.** MSOA counts at population-weighted centroids, not point data. OpenStreetMap was not used because Nomis has MSOA counts (as the specification allowed). Point data could sharpen the 0-1 km ring, but would bring its own coverage and classification problems.
 2. **Sources from all of England and Wales.** This avoids edge effects at the GLA boundary.
 3. **Log forms.** Standardised log access and log(1 + ring count), for skewness and comparability with the log own-density treatment.
-4. **Lagged window.** One quarter (2020Q2-2022Q1), as requested. The completion lag varies by sale, and no exchange-date data are available to estimate it.
+4. **Lagged window.** One quarter (2020Q2-2022Q1), as specified. The completion lag varies by sale, and no exchange-date data are available to estimate it.
 5. **Distance stays in the model.** The headline controls keep log distance to Charing Cross, as specified, despite the −0.85 correlation. Dropping it would make the access coefficient largely a centrality coefficient.
 
 ## 15. Round 6: age heterogeneity in migration and the reversal decomposition (`94_migration_age.py`, `95_reversal.py`)
 
 Run 29 October 2026. Only the two new scripts were run, and `run_all.py` lists them.
 
-**Thesis focus (your framing).** The thesis measures the value of consumption variety, identified through the reversal after reopening.
+**Thesis focus.** The thesis measures the value of consumption variety, identified through the reversal after reopening.
 
 ### 15.1 Age groups (`94_migration_age.py`)
 
@@ -642,7 +642,7 @@ Run 29 October 2026. Only the two new scripts were run, and `run_all.py` lists t
 
 **Check:** summed over ages, the borough-year net equals `nonlondon_net` in `migration_panel_borough_year.csv` for all 352 borough-years. The all-ages event study reproduces section 2 exactly (2020: −2.83, p = 0.002).
 
-**Group definitions (as requested)**
+**Group definitions**
 
 | Group | Ages included |
 |---|---|
@@ -700,7 +700,7 @@ y_it = a_i + l_t + b_C D_i 1[t ∈ C] + b_R D_i 1[t ∈ R] + b_L D_i 1[t ∈ L] 
 **Specifications**
 - **Migration (all ages and the four groups):** borough-year, N = 352, CR1 clustered by borough.
 - **Rents:** 100 × log quarterly PIPR index, borough-quarter, N = 1,504, CR1 clustered by borough.
-  - Also shown, as a secondary row **not requested**: a version with D × linear time added, which projects the pre-2020 trend forward as in section 7.
+  - Also shown, as a secondary row: a version with D × linear time added, which projects the pre-2020 trend forward as in section 7.
 - **MSOA house prices:** the section 13.1 headline specification, with the D × quarter terms replaced by the three D × period terms.
   - Distance, teleworkability, garden and property type stay interacted with every quarter, plus MSOA and borough-by-quarter fixed effects.
   - N = 843,269. SEs CR1 clustered by MSOA (982); bootstrap clustered by borough (32).
@@ -732,7 +732,7 @@ y_it = a_i + l_t + b_C D_i 1[t ∈ C] + b_R D_i 1[t ∈ R] + b_L D_i 1[t ∈ L] 
 1. **Pooled reference.** The reference is the pooled pre-period, as the three-period model implies. For migration the pre-period is not flat: 2015-2016 coefficients are negative for 30-39, the family proxy and 50+, and +5.1 for 20-29 in 2015. Pooling shifts the reference level relative to the single-base-year event studies.
 2. **Rents and 2020Q1.** 2020Q1 sits in the reference period because the closure period starts 2020Q2 (lockdown began 23 March 2020).
 3. **Mixed years in the migration periods.** The year to June 2020 is in the closure period but contains about 9 pre-pandemic months. The year to June 2022 (reopening) contains July-December 2021 as well as 2022.
-4. **Trend-adjusted rent row.** It is extra and not requested. It is reported because the no-trend rent result is dominated by the pre-2020 trend.
+4. **Trend-adjusted rent row.** It is an addition to the specification. It is reported because the no-trend rent result is dominated by the pre-2020 trend.
 5. **Units.** House-price coefficients are in log points; the table shows them × 100. The house-price treatment SD (MSOA) differs from the borough SD used for migration and rents (section 13.5).
 
 ## 16. Round 7: triple difference, student checks and hospitality-worker control (`96_age_ddd.py`)
@@ -962,7 +962,7 @@ Built 29 October 2026.
 - **Figures.** The pgfplots width is 0.95\linewidth.
 - **Page numbering and bibliography.** The front matter uses roman page numbers, which removes the hyperref duplicate `page.1` anchor. The bibliography is set ragged-right.
 
-**Compilation.** The report was compiled with pdflatex from TinyTeX (TeX Live 2026), installed this round at `%APPDATA%\TinyTeX`. After two passes it produces 26 pages and the log shows zero overfull boxes, zero underfull boxes and zero warnings. The PDF is copied to `outputs/report/report.pdf`.
+**Compilation.** The report was compiled with pdflatex (TeX Live 2026). After two passes it produces 26 pages and the log shows zero overfull boxes, zero underfull boxes and zero warnings. The PDF is copied to `outputs/report/report.pdf`.
 
 **Word count.** About 8,100 words of prose (8,390 including the 271-word abstract and front matter) (script count, excluding tables, captions, equations and references). This is above the 7,000 target.
 
@@ -1085,7 +1085,7 @@ This step runs only `98_rent_tests.py` (`python run_all.py --only 98_rent_tests.
 - The paragraphs state that net flows measure demand among young adults as a group, which is the object of the thesis, and that the same individuals need not return for the reversal to reflect that demand.
 - Test 1 reports that the control more than halves the 2022 coefficient against both comparison groups. The squared correlation of the rent change with D, 0.58, is reported as the share of variation in amenity density that the rent change accounts for.
 - Test 2 reports the implied upper scale of about 1.7 per 1,000 as an approximate figure with wide uncertainty.
-- Judgement call: the scale is the upper 95 per cent bound of the lagged triple difference times the cross-borough SD of the 2019Q4-2021Q4 rent change, as requested. Scaling by the rent change associated with one SD of amenity density, 0.76 × 4.64 ≈ 3.5 log points, would give about 1.3. The text uses the requested, larger figure.
+- Judgement call: the scale is the upper 95 per cent bound of the lagged triple difference times the cross-borough SD of the 2019Q4-2021Q4 rent change, as specified. Scaling by the rent change associated with one SD of amenity density, 0.76 × 4.64 ≈ 3.5 log points, would give about 1.3. The text uses the specified, larger figure.
 - Test 3 notes that the age group covers all residents aged 30-39 and that, in the framework, this group faces higher moving costs.
 
 **Limitations.** A paragraph is added stating that aggregate flows cannot identify whether returners were the same individuals. It names Understanding Society under special licence, SN 6666, as the data that could test this.
@@ -1118,7 +1118,7 @@ This step runs only `98_rent_tests.py` (`python run_all.py --only 98_rent_tests.
 
 **Section 6.7.** The sentence on counting one move per mover, and on the return move doubling the bound, is deleted.
 
-**Hard facts flagged to the user**
+**Hard facts flagged**
 - The statement that there was "no entry or exit response during the closure" is not tested in the data. Business Counts are used for March 2019 only.
 - The reopening coefficients compare boroughs after reopening, when the number of venues may differ from 2019. The supply term is therefore held fixed in the treatment measure, not necessarily in the reopening outcome.
 
@@ -1144,7 +1144,7 @@ This step runs only `98_rent_tests.py` (`python run_all.py --only 98_rent_tests.
 - **Introduction, contribution.** The paragraph now describes the contribution as a measure of the demand-side term of the household-side sharing mechanism, identified from a reversal within boroughs and years with the supply of varieties held fixed, together with the lower bound on the total loss from staying for movers. The clause on the variety component under the attribution assumption is dropped here but remains in Section 6.7.
 - **Introduction, qualifications.** "The first qualification is that" is removed. A new sentence points to the rent tests in Section 6.4 (no detectable pre-pandemic rent response, upper scale of about 1.7 per 1,000) and to the identity limitation in the Limitations subsection.
 - **Title page.** The subtitle is now "Evidence on agglomeration from the COVID-19 closures in London". At \LARGE it wraps onto two lines.
-- **Lists.** The preamble loads `enumitem` with `\setlist[enumerate]{label=(\roman*)}`. The package was installed into TinyTeX with `tlmgr install enumitem`. It was not in the earlier package list, so the user's request adds it. The one ordinal reference now reads "prediction (iv)".
+- **Lists.** The preamble loads `enumitem` with `\setlist[enumerate]{label=(\roman*)}`. It was not in the earlier package list and is added here. The one ordinal reference now reads "prediction (iv)".
 - **Compilation.** The report compiles to 27 pages with zero overfull boxes, underfull boxes or warnings. The prose word count is 9,771, including 274 words of abstract and front matter.
 
 ## 27. Within-London moves and a time-varying student control (`98_within_london.py`; student control pending)
@@ -1152,7 +1152,7 @@ This step runs only `98_rent_tests.py` (`python run_all.py --only 98_rent_tests.
 **Test 1. Within-London moves (`98_within_london.py`)**
 - Registered in `run_all.py` after `98_rent_tests.py`. Outputs: `outputs/event_study/within_london.csv` and `within_london.md`, `within_london_gross_20_29.csv`, and the panel `data/clean/migration_within_london_by_age_group.csv`. The report is unchanged.
 - **Outcome.** For each of the 32 boroughs, moves in from the other 31 boroughs minus moves out to them, from the ONS detailed origin-destination estimates (the same parquet files as `96_age_ddd.py`). The outcome is expressed per 1,000 mid-2019 residents of the age group. Age groups follow `96_age_ddd.py`.
-- **Judgement call.** Flows to and from the City of London are excluded, so the system is closed over the 32 analysis boroughs, following "the other 31 boroughs" in the request. Within-borough moves (inla equal to outla) are excluded.
+- **Judgement call.** Flows to and from the City of London are excluded, so the system is closed over the 32 analysis boroughs, following "the other 31 boroughs" in the specification. Within-borough moves (inla equal to outla) are excluded.
 - **Models.** The event study and triple difference of `96_age_ddd.py` with standardised log amenity density, years to June 2016-2025, 2019 omitted, and the WCR bootstrap with B = 9,999 and 32 clusters.
 
 | Model | 2016 | 2017 | 2018 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | R − C |
@@ -1166,7 +1166,7 @@ This step runs only `98_rent_tests.py` (`python run_all.py --only 98_rent_tests.
 - The 2016 coefficients are large and significant (−7.11 for 20-29), so the within-London pre-period is not flat.
 - **Gross 20-29 flows.** Boroughs are split at the median D, 16 above and 16 below. Moves from high to low were 28,723 in the year to June 2020, against a 2016-2019 average of 29,135 (−1.4%). Moves from low to high were 25,195 against 26,265 (−4.1%). Net high-to-low moves were 3,528 in 2020, against an average of 2,869, then 523 in 2021 and 2,792 in 2022.
 
-**Test 2. Time-varying student control: pending.** The HESA open-data pages (hesa.ac.uk) return HTTP 403 behind a Cloudflare bot check to curl, WebFetch and the in-app browser. The check was not bypassed. The provider enrolment file needs a manual download by the user.
+**Test 2. Time-varying student control: pending.** The HESA open-data pages (hesa.ac.uk) return HTTP 403 behind a Cloudflare bot check to automated downloads. The check was not bypassed. The provider enrolment file needs a manual download.
 
 ## 28. Ages 25-29 as the young group; HESA student control pending (`98_students_25_29.py`)
 
@@ -1184,7 +1184,7 @@ This step runs only `98_rent_tests.py` (`python run_all.py --only 98_rent_tests.
   - Against the family proxy: closure −1.09 (0.117), reopening +2.81 (0.017), later −1.78 (0.019), R − C 3.91 (0.008).
   - Against ages 50+: closure −1.37 (0.392), reopening +2.54 (0.031), later −1.51 (0.086), R − C 3.90 (0.022).
 - **Hard fact.** The 2017 coefficient for 25-29 (both comparisons) and the 2018 coefficient against the family proxy are negative, with p below 0.05, so the 25-29 pre-period is less flat than the 20-29 one.
-- **HESA control: pending.** The user reported saving HESA Table 1 to `raw\hesa\`, but no HESA file was found. The search covered `C:\Users\dziya\research-data\london-variety\raw\`, the project, OneDrive `3-MT\data\raw` and Downloads. The HESA parts and the 25-29 repeat with the HESA control will run once the file location is confirmed.
+- **HESA control: pending.** HESA Table 1 was expected in `raw/hesa/`, but no HESA file was found in the raw data folder, the project folder or the downloads folder. The HESA parts and the 25-29 repeat with the HESA control will run once the file is in place.
 
 **Section 28 addendum. Ages 25-29 with a linear pre-trend (`98_students_25_29.py`)**
 - **Specification.** Use the yearly 25-29 triple difference without the HESA control, 2016-2025. Fit a linear trend by unweighted OLS through the pre-period coefficients θ_2016, θ_2017, θ_2018 and θ_2019 = 0. Report θ_2020 and θ_2022 minus the projected trend.
@@ -1198,7 +1198,7 @@ This step runs only `98_rent_tests.py` (`python run_all.py --only 98_rent_tests.
 | ages 50+ | −0.09 (0.795) | −5.26 (0.002) | −4.56 (0.004) | 2.05 (0.104) | 2.92 (0.173) |
 
 - The trend rests on four points, with 2016 at +1.82, so the projection is imprecise. The slope p-values are 0.109 and 0.795.
-- **HESA tests: still pending.** On the second check, `C:\Users\dziya\research-data\london-variety\raw\hesa\` does not exist (PowerShell Test-Path is False). No HESA file was found anywhere under the user profile.
+- **HESA tests: still pending.** On the second check, `raw/hesa/` does not exist, and no HESA file was found elsewhere.
 
 ## 29. Report revision round 8: 25-29 and within-London tests, lower bound removed
 
@@ -1228,7 +1228,7 @@ This step runs only `98_rent_tests.py` (`python run_all.py --only 98_rent_tests.
 - **Introduction.** The 1.7 per 1,000 figure is removed from the opening qualifications sentence. It remains in the conclusion and in Section 6.4.
 - **Abstract.** One sentence is added: among 25 to 29 year olds, who are mostly past undergraduate age, the 2020 outflow is the same size as for ages 20 to 29 and the 2022 recovery is smaller. In the 2020 triple difference the figures are −5.25 for 25-29 against −5.24 for 20-29.
 - **Compilation.** The report compiles to 29 pages with zero overfull boxes, underfull boxes or warnings. The prose word count is 9,976.
-- **Style lint.** It flags "small shift" and "far smaller" as vague. Both are the user's requested wording, and the sentence carries the 660 figure.
+- **Style lint.** It flags "small shift" and "far smaller" as vague. Both are the chosen wording, and the sentence carries the 660 figure.
 
 ## 31. Part A: final robustness round (`98_robustness_final.py`, `98_international.py`)
 
@@ -1342,7 +1342,7 @@ Without the extra control the coefficients reproduce `report_migration_2016.csv`
 
 ## 32. Report restructured around the full results (report round 10)
 
-- **New thesis.** The introduction, abstract and conclusion use the user's thesis. One wording change: "ranks tourist areas highest" became "ranks tourist areas among the highest outside London", because inner London boroughs top the per-resident measure.
+- **New thesis.** The introduction, abstract and conclusion use the revised thesis. One wording change: "ranks tourist areas highest" became "ranks tourist areas among the highest outside London", because inner London boroughs top the per-resident measure.
 - **London's role.** London is presented as the application of a design that extends to other cities and to England and Wales. No text describes it as a pilot.
 - **Structure.**
   - Sections 1-5 are revised, and section 5 gains 5.4, "National designs and the pre-analysis plan", which describes the departure labelling.
@@ -1365,11 +1365,11 @@ Without the extra control the coefficients reproduce `report_migration_2016.csv`
 
 ## 33. Report rewritten around the final results (report round 11)
 
-- **Title and thesis.** The title is "Valuing urban density: evidence from the COVID-19 closures in London and England and Wales". The abstract, introduction and conclusion carry the user's thesis. London is the main application of a design that extends to other cities, never a pilot.
+- **Title and thesis.** The title is "Valuing urban density: evidence from the COVID-19 closures in London and England and Wales". The abstract, introduction and conclusion carry the revised thesis. London is the main application of a design that extends to other cities, never a pilot.
 - **Structure.** Results are 6.1 London migration, 6.2 Robustness in London, 6.3 Identification limits in London, 6.4 The response to density across England and Wales, 6.5 Separating consumption variety, 6.6 Recovery after reopening, 6.7 Prices. New subsections are 2.5 (spatial equilibrium, multiple equilibria and recovery) and 3.2 (single and multiple spatial equilibria, with the Davis and Weinstein coefficient). Methods gain 5.3 (three pre-analysis plans), 5.4 (venue-mix design) and 5.5 (recovery design).
 - **Transparency.** For each registered design (national triple difference, tier design, venue-mix design, recovery design) the registered rule and verdict come before any secondary analysis. Measures (a) to (c), the density controls and the student check are labelled as chosen after the registered results. The recovery heterogeneity and the headline-minus-pseudo difference are labelled as registered further estimates outside the decision rule. The London analyses are stated to be unregistered, and the 2016 sample start is stated to have been chosen after the 2015 coefficient was seen.
-- **Hard fact flagged.** The thesis text says "Four designs, two registered before estimation". Three of the four separation designs were registered (national triple difference and tier design in the national plan, venue mix in its own plan), in two plans. The report says "four designs, three of them registered in two pre-analysis plans". The user can change this wording.
-- **Judgement call, Census design.** The national plan's Census MSOA design is reported inside 6.5 as the predecessor of the venue-mix design, with its opposite-signed placebo, because the user's four designs did not list it.
+- **Hard fact flagged.** The thesis text says "Four designs, two registered before estimation". Three of the four separation designs were registered (national triple difference and tier design in the national plan, venue mix in its own plan), in two plans. The report says "four designs, three of them registered in two pre-analysis plans".
+- **Judgement call, Census design.** The national plan's Census MSOA design is reported inside 6.5 as the predecessor of the venue-mix design, with its opposite-signed placebo, because the list of four designs omits it.
 - **Judgement call, rounding.** Tables are built from the CSVs. The 50+ placebo lower bound is −0.7246, so the report shows −0.72. RECOVERY_NOTES.md had −0.73 and was corrected. The venue-mix headline interval is shown as [−2.25, −0.31], from −2.2549.
 - **Removed.** The pound-value appendix, `TAB_POUND`, `pound_table` and `CITE` in `99_report.py`, and the references cited only there (Diamond 2016, Piyapromdee 2021, Suárez Serrato and Zidar 2016, Monte, Redding and Rossi-Hansberg 2015, Ahlfeldt et al. 2014, Rabe and Taylor 2010). The PIPR methodology reference was dropped with the sentence that cited it.
 - **Condensed.** London robustness and prices. Dropped from the report: Figure of all-age migration, `tab:decomp`, `tab:ddd2529`, `tab:renttests`, `tab:honest`, `tab:rentret`, `tab:hp`, `fig:hp`, `fig:ptr`. Their key numbers stay in the text. The builder functions remain in `99_report.py` and are unused by the template.
@@ -1385,14 +1385,14 @@ Without the extra control the coefficients reproduce `report_migration_2016.csv`
 - **Framing.** Findings are stated as contributions: a behavioural valuation of density by young adults; the residential value of density in Britain as one bundle, with local variety mostly food and drink; recovery of young residents outside London. Limits sit in the same sentences. Registered verdicts are in Table 4 of the working.
 - **Judgement call, derived figure.** "About a quarter of the average net inflow" is 5.24 / 21.05 = 0.25, from the London 2020 triple-difference coefficient and the 2016 to 2019 mean net inflow of residents aged 20 to 29.
 - **Judgement call, scope.** Prices are left out except the national rent test in Table 4.
-- **User revisions.** Section 1 opens with the variety story (London against Stirling), then the closures as a switch on access, then the ranking of boroughs by amenity density and the migration comparison; Rosen and Roback, Dixit and Stiglitz, the Black Death and Miyauchi, Nakajima and Redding are dropped from it. Finding 4 now states only the workflow: the user suggested each source, measure and test, and Claude Code wrote and ran the Python. The sentence on exceeding the suggested hours is removed.
-- **Packages.** `microtype` and `placeins` were installed in local TinyTeX with tlmgr; both are standard on Overleaf.
+- **Revisions.** Section 1 opens with the variety story (London against Stirling), then the closures as a switch on access, then the ranking of boroughs by amenity density and the migration comparison; Rosen and Roback, Dixit and Stiglitz, the Black Death and Miyauchi, Nakajima and Redding are dropped from it. Finding 4 now states only the division of labour with Claude Code. The sentence on exceeding the suggested hours is removed.
+- **Packages.** `microtype` and `placeins` are loaded; both are standard on Overleaf.
 - **No new estimation.** Every figure comes from the notes files or the CSVs behind them.
 - **Compilation.** 7 pages, zero warnings, zero overfull or underfull boxes, about 3,400 words including tables.
-- **User revisions, round 2.** The opening paragraph of Section 1 is rewritten in a formal register, and the recovery paragraph drops "got back" and "stayed down". Finding 4 is expanded to three paragraphs: the division of labour (the user set the question, suggested each step and interpreted results; Claude Code wrote and ran the Python), three safeguards (checksummed plans, the notes file with labelled post hoc choices, and checks that each closure rule matches its regulation and that the national code reproduces the London estimates exactly), and why the plans mattered when specifications are cheap. The PDF stays at 7 pages with no warnings.
-- **User revisions, round 3.** Section 1 now opens with agglomeration benefits for producers and consumers, explains that some residents left large cities when the first lockdown was announced, often to be nearer family, and frames the outflow as the price of giving up family proximity for city consumption and employment. The recovery paragraph asks whether young residents returned once variety was restored, and explains the choice of ages 25 to 34 as mostly past university age (student census measurement, RECOVERY_NOTES.md). Terms are explained at first use (registered test, teleworkability, the instrument, the pseudo-shock test). The section 4 safeguards and the 3.6 plans are each one sentence with a "namely" list, and the closing paragraph of section 4 is dropped. Section 3.7 (reproduction) is removed, since the worksheet asks for sources and code to be recorded in the GitHub repository and no section in the write-up. The working now follows section 4 without a page break; the PDF is 7 pages with no warnings.
-- **User revisions, round 4 (final fixes, `outputs/supervision/Paper7_Supo3.tex`).** Built from the user's own edited tex, outside the template pipeline.
-  - **Code note.** Added, then removed at the user's request; the reader has no access to the local folder.
+- **Revisions, round 2.** The opening paragraph of Section 1 is rewritten in a formal register, and the recovery paragraph drops "got back" and "stayed down". Finding 4 is expanded to three paragraphs: the division of labour with Claude Code, three safeguards (checksummed plans, the notes file with labelled post hoc choices, and checks that each closure rule matches its regulation and that the national code reproduces the London estimates exactly), and why the plans mattered when specifications are cheap. The PDF stays at 7 pages with no warnings.
+- **Revisions, round 3.** Section 1 now opens with agglomeration benefits for producers and consumers, explains that some residents left large cities when the first lockdown was announced, often to be nearer family, and frames the outflow as the price of giving up family proximity for city consumption and employment. The recovery paragraph asks whether young residents returned once variety was restored, and explains the choice of ages 25 to 34 as mostly past university age (student census measurement, RECOVERY_NOTES.md). Terms are explained at first use (registered test, teleworkability, the instrument, the pseudo-shock test). The section 4 safeguards and the 3.6 plans are each one sentence with a "namely" list, and the closing paragraph of section 4 is dropped. Section 3.7 (reproduction) is removed, since the worksheet asks for sources and code to be recorded in the GitHub repository and no section in the write-up. The working now follows section 4 without a page break; the PDF is 7 pages with no warnings.
+- **Revisions, round 4 (final fixes, `outputs/supervision/Paper7_Supo3.tex`).** Built from the hand-edited tex, outside the template pipeline.
+  - **Code note.** Added, then removed, since a local folder is inaccessible to the reader.
   - **MSOA counts, checked against the code.** 7,264 MSOAs in England and Wales. The recovery sample is 7,262 in 316 LAs, since the City of London and Isles of Scilly MSOAs are singletons dropped with their districts (`r2_msoa.csv`, `r4_estimation.csv` n_obs). The venue-mix sample is 6,856 English MSOAs, of which 57 lack `dy_2534` (Census 2021 age detail withheld or coarse) and 2 are singleton-LA MSOAs, leaving 6,797 in 294 LAs (`vm_core.msoa_frame`, `drop_singletons`). Section 1 and 3.1 now say 7,262, with a footnote; Table 3 says "6,797 English MSOAs".
   - **Amenity density wording.** The 2.49 to 32.75 range is attributed to the per-1,000 rate, which enters as a standardised log.
   - **FHRS vintage.** Added as a third limit in finding 1, with checks: the 2026 FHRS district counts correlate in logs at 0.94 to 0.96 with UK Business Counts 2019 (B1 validation), and an OSM 2019 version of access gives −6.27 (Census design, against −6.18) and −0.96 (venue mix, against −1.28). The national triple difference has not been rerun with a 2019 source, and the text says so.

@@ -9,7 +9,7 @@ Scripts (in `extension/scripts/`):
 - `s4_download_lookups.py`: ONS Open Geography Portal lookups.
 - `s4_build_census_inflows.py`: builds the S4 files, lookups and checks.
 
-Raw files are in `C:\Users\dziya\research-data\london-variety-extension\raw\`: `covid_cases\ukhsa\` (one JSON per LTLA and year), `covid_cases\archive\cases.zip`, `nomis\s4\`, `nomis\mye_population_mid2020_la2023.csv` and `ons_geography\s4_lookups\`.
+Raw files are in `~/research-data/london-variety-extension/raw/`: `covid_cases\ukhsa\` (one JSON per LTLA and year), `covid_cases\archive\cases.zip`, `nomis\s4\`, `nomis\mye_population_mid2020_la2023.csv` and `ons_geography\s4_lookups\`.
 
 ---
 
@@ -119,7 +119,7 @@ How good the estimate is (it carries real uncertainty):
 - National totals by band match ST008 England and Wales to within 0.4% for ages 5 to 79 (20-24: 361.8 per 1,000 estimated against 360.5; 25-29: 277.6 against 276.6). They are within 1.4% for 15 to 19, and are lower by 3.8% at 85-89 and 6.6% at 90+.
 - The scaling factor has median 1.00 and 5th to 95th percentile 0.85 to 1.14; the extremes are 0.58 and 2.03. Large factors mark MSOAs whose wards' age profile of moving does not match their own.
 - Out-of-sample test on 2011, where true MSOA values exist. The same method was run with **district** rates, a harder test than ward rates. Correlation between estimated and true MSOA rates: 0.90 at 20-24 and 0.90 at 25-34. Median absolute error: 32.6 per 1,000 at 20-24 (true median 253) and 17.4 per 1,000 at 25-34 (true median 212).
-  - Ward rates should do better, but I could not test them.
+  - Ward rates should do better, but could not be tested.
   - Treat 2001 band-level MSOA rates as model estimates. Differences of a few tens per 1,000 between nearby MSOAs are within the error.
 
 **Route to measured 2001 MSOA data by age:**
@@ -199,7 +199,7 @@ How good the estimate is (it carries real uncertainty):
 - The 2001 estimator was tested on 2011 truth using district rates only, a harder test than the ward rates used for 2001.
 - Six Nomis district codes recoded in 2013-14 (Gateshead, Northumberland and four Hertfordshire districts) are mapped from their LAD11 codes.
 - Harmonised bands follow 2011, the coarsest census: 0-4, 5-15, 16-19, 20-24, 25-34, 35-49, 50-64, 65-74, 75+, plus "20-34" and "All ages".
-- 20-24 and 20-34 stand in for the requested 20-29, which 2011 does not publish.
+- 20-24 and 20-34 stand in for 20-29, which 2011 does not publish.
 - The 2021 0-4 band is ages 1-4, and 2021 "All ages" is ages 1+.
 - 2021 "All ages" comes from ODMG01EW (all 7,264 MSOAs), so it is not the sum of the 2021 bands, which miss 59 blocked MSOAs.
 - The two 2021 MSOAs with only 8 coarse bands are left out of the 2021 band rows.

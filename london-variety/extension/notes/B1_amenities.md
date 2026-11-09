@@ -31,7 +31,7 @@ Small files, `extension/data/clean/`:
 | b1_validation_correlations_la.csv | 45 | Correlations against Business Counts (see below) |
 | fhrs_geocode_summary.csv, fhrs_business_type_counts_ew.csv, fhrs_authority_to_la2023.csv, b1_ukbc_sic_subclasses_used.csv | small | FHRS geocoding counts, all FHRS business types, FHRS authority -> LA map, SIC subclass labels |
 
-Point files (large), `C:\Users\dziya\research-data\london-variety-extension\clean\`:
+Point files (large), `~/research-data/london-variety-extension/clean/`:
 
 | File | Rows |
 |---|---|
@@ -55,8 +55,8 @@ Column names: `fhrs_*` = FHRS; `osm2019_*`, `osm2022_*` = OSM snapshot; `access_
 
 - Source: ohsome API v1, https://api.ohsome.org/v1/elements/bbox, time=2019-12-31 and 2022-12-31 (00:00 UTC). Filter `(amenity in (restaurant,cafe,bar,pub,nightclub,cinema,theatre,arts_centre,fast_food) or leisure=fitness_centre) and (geometry:point or geometry:polygon)`, properties tags and metadata, clipGeometry=false.
 - Blocked or failed: https://api.ohsome.org/v1/elements/centroid and /v1/elements/geometry returned HTTP 403 Forbidden (Apache) on 29 Oct 2026, for both POST and GET. /elements/count and /elements/bbox still worked.
-- The ohsome documentation (https://docs.ohsome.org/ohsome-api/v2/migration_guide.html) says v1 will be shut down on 30 November 2026. v2 (https://api.heigit.org/ohsome-api/v2-rc/) needs an API key, and getting one means signing up for an account, which I did not do. To rerun after v1 closes: sign up for a free key at the link in the v2 docs, then port b1_osm_ohsome.py to the v2 extraction endpoint (JSON POST body, `aoi` in place of `bboxes`, key in the request).
-- I did not try Geofabrik history files, because ohsome worked. Geofabrik's full-history files need an OSM login (https://osm-internal.download.geofabrik.de).
+- The ohsome documentation (https://docs.ohsome.org/ohsome-api/v2/migration_guide.html) says v1 will be shut down on 30 November 2026. v2 (https://api.heigit.org/ohsome-api/v2-rc/) needs an API key, and getting one means signing up for an account, which was not done. To rerun after v1 closes: sign up for a free key at the link in the v2 docs, then port b1_osm_ohsome.py to the v2 extraction endpoint (JSON POST body, `aoi` in place of `bboxes`, key in the request).
+- Geofabrik history files were not tried, because ohsome worked. Geofabrik's full-history files need an OSM login (https://osm-internal.download.geofabrik.de).
 - Tiling: 0.5 degree tiles; 118 tiles contain at least one England and Wales postcode, times 2 snapshots = 236 requests, all HTTP 200, 3 s apart. Responses took 8-140 s each. Raw features: 119,206 (2019) and 139,831 (2022), de-duplicated by OSM id to 119,158 and 139,770.
 - Counts, 2019 -> 2022: restaurant 24,271 -> 28,781; cafe 23,428 -> 29,070; fast_food 26,397 -> 33,766; pub 36,263 -> 36,662; bar 4,292 -> 5,374; nightclub 936 -> 963; cinema 648 -> 697; theatre 1,124 -> 1,287; arts_centre 415 -> 498; fitness_centre 1,384 -> 2,672 (counts before assignment).
 - Geometry: 64% nodes, 35% ways, 0.2% relations (2019). No way or relation bounding box is more than 2 km across (one in 2022 is over 0.5 km), so the bbox-centre approximation is harmless. 33% (2019) and 46% (2022) of features carry an `fhrs:id` tag, which links them to FHRS.
@@ -124,24 +124,24 @@ Supplementary comparisons (full table in b1_validation_correlations_la.csv):
 
 ## Judgement calls
 
-- I used the FHRS English-language XML open data files rather than paging the API: they give the same records in fewer, larger requests.
-- I kept only the three named FHRS business types; "Other catering premises", "Mobile caterer" and hotels are left out but counted in fhrs_business_type_counts_ew.csv.
+- The FHRS English-language XML open data files are used in place of paging the API, since they give the same records in fewer, larger requests.
+- Only the three named FHRS business types are kept; "Other catering premises", "Mobile caterer" and hotels are left out but counted in fhrs_business_type_counts_ew.csv.
 - FHRS coordinates outside a 49.8-56.0 N, 6.5 W-2.0 E box were treated as missing (none or almost none were).
-- I filled missing FHRS coordinates by exact postcode from NSPL Aug 2026, preferring live postcodes and falling back to terminated ones.
-- I did not geocode FHRS records that have no address; they are kept in the point file without coordinates.
-- I added amenity=fast_food to the OSM filter, so there is an OSM counterpart to FHRS takeaways and SIC 56103.
-- Because the centroid and geometry endpoints returned 403, I used ohsome /elements/bbox and took the bounding-box centre as the point for ways and relations. That endpoint is openly served; no authentication or bot check was involved.
-- I counted OSM nodes, closed ways and multipolygon relations (geometry:point or geometry:polygon); unclosed ways were left out.
+- Missing FHRS coordinates are filled by exact postcode from NSPL Aug 2026, preferring live postcodes and falling back to terminated ones.
+- FHRS records with no address are not geocoded and are kept in the point file without coordinates.
+- amenity=fast_food is added to the OSM filter, so there is an OSM counterpart to FHRS takeaways and SIC 56103.
+- Because the centroid and geometry endpoints returned 403, ohsome /elements/bbox is used, with the bounding-box centre taken as the point for ways and relations. That endpoint is openly served; no authentication or bot check was involved.
+- OSM nodes, closed ways and multipolygon relations are counted (geometry:point or geometry:polygon); unclosed ways were left out.
 - The OSM snapshot timestamps are 00:00 UTC on 31 Dec 2019 and 31 Dec 2022.
-- Where an OSM feature has both an amenity and leisure=fitness_centre, I classified it by its amenity tag.
-- I ran the two OSM snapshots as two concurrent processes, so there were at most two simultaneous requests. One process crashed on a file-lock clash on a tile both were writing; the other completed every tile, and nothing was lost.
-- I used 2021 MSOA BFE (full extent) boundaries rather than BFC, so riverside and coastal venues fall inside an MSOA, and snapped points within 500 m of an MSOA to the nearest one.
-- I took LA from the MSOA, not from the FHRS inspecting authority. Inspecting-authority counts are given as an alternative.
-- I report LAs on 2023 codes (pilot vintage), recoding the two 2024 code changes for Barnsley and Sheffield back.
-- I computed access to the exact points (`pt`) and also the pilot-style MSOA-centroid version (`pwc`). The `pt` sum is truncated at 30 km.
+- Where an OSM feature has both an amenity and leisure=fitness_centre, it is classified by its amenity tag.
+- The two OSM snapshots were run as two concurrent processes, so there were at most two simultaneous requests. One process crashed on a file-lock clash on a tile both were writing; the other completed every tile, and nothing was lost.
+- 2021 MSOA BFE (full extent) boundaries are used in place of BFC, so riverside and coastal venues fall inside an MSOA, and points within 500 m of an MSOA are snapped to the nearest one.
+- LA is taken from the MSOA, not from the FHRS inspecting authority. Inspecting-authority counts are given as an alternative.
+- LAs are reported on 2023 codes (pilot vintage), with the two 2024 code changes for Barnsley and Sheffield recoded back.
+- Access is computed to the exact points (`pt`) and also as the pilot-style MSOA-centroid version (`pwc`). The `pt` sum is truncated at 30 km.
 - Grouping for access indices: restaurant + cafe, pub + bar + nightclub, theatre + arts_centre.
 - Business Counts match for restaurants is 56101+56102, leaving out 56210 (event catering) and 56290 (other food service, which includes canteens).
 - Arts venues are matched to 90010+90040, leaving out 90020 and 90030 (support activities and artistic creation, which are rarely venues).
-- I used mid-2019 population for per-1k measures (mid-2022 for the 2022 comparisons), and Census 2021 residents at MSOA level.
+- Mid-2019 population is used for per-1k measures (mid-2022 for the 2022 comparisons), and Census 2021 residents at MSOA level.
 - The per-1k log correlations use log(per1k + 0.01) to keep zeros. City of London is reported both with and without, because it dominates per-resident levels.
 - No regressions were run.

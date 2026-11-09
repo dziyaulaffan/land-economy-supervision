@@ -92,7 +92,7 @@ a gap of about 25 days that Google left in most series.
 
 ## Judgement calls (one per line)
 
-- National outcome is net moves with all other LAs including Scotland and Northern Ireland (`all_net`), as the brief asked; `ew_net` (excluding them) is also given.
+- National outcome is net moves with all other LAs including Scotland and Northern Ireland (`all_net`), as specified; `ew_net` (excluding them) is also given.
 - The London measure "moves crossing the Greater London boundary" is generalised to "moves crossing the LA's own region boundary" (`xregion_*`), so London boroughs keep the pilot's outcome exactly; this is not the London-only counterfactual for other LAs.
 - Scotland and Northern Ireland count as outside every English and Welsh region in `xregion_*`, as in the pilot's `nonlondon_*`.
 - Wales is treated as one region for `xregion_*`, following the ONS lookup.

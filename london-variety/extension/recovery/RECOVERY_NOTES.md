@@ -199,5 +199,5 @@ None. Every registered estimate was run as written.
 - `scripts/rc_common.py` (paths), `scripts/rc_core.py` (2SLS, Anderson-Rubin, classification rule)
 - `scripts/r1_population.py` (Step 1), `scripts/r2_shock_exposure.py` (Step 2), `scripts/r4_estimation.py`
   (Step 4), `scripts/r5_heterogeneity.py` (Step 5), `scripts/r6_placebos.py` (Step 6)
-- Raw MSOA downloads: `C:\Users\dziya\research-data\london-variety-extension\raw\recovery\nm2014_msoa21_<year>.csv`
+- Raw MSOA downloads: `~/research-data/london-variety-extension/raw/recovery/nm2014_msoa21_<year>.csv`
 - All steps are registered at the end of `extension/run_all.py`.

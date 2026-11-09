@@ -107,7 +107,7 @@ the downloaded legislation.gov.uk text, all passing), `data/v1_closure_daily_ltl
 1 March 2020 to 31 December 2021), `data/v1_closure_daily_lad23.csv.gz`, `data/v1_closure_shares_lad23.csv`,
 `data/v1_validation.csv` (16 spot checks, all passing). Scripts: `scripts/v1_fetch_regs.py`,
 `scripts/v1_closure_calendar.py`. Extra texts saved under
-`C:\Users\dziya\research-data\london-variety-extension\raw\venue_mix\legislation\`.
+`~/research-data/london-variety-extension/raw/venue_mix/legislation/`.
 
 Closure value per venue type and day: 1 closed to the public for the main service (takeaway or delivery only for
 food venues); 0.5 partial (indoor closed with outdoor service allowed for pubs, bars, restaurants and cafes; or, for

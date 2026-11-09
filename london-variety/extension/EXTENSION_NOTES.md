@@ -173,7 +173,7 @@ Across 316 LAs, amenity density correlates with teleworkability at .41. Among th
    - Two pairs of LAs share combined rates.
 6. **Design 4 sample.** Restricted to quarters with three published months and to quarters in which at least 300 LAs report. That gives 2015Q1-2026Q3, with no quarters lost.
 
-7. **Student check (requested after Step 2, not in the plan).** Script: `scripts/s2b_student_check.py`. Output: `data/clean/s2b_student_check.md`, `.csv` and `s2b_loo_2020_outside_london.csv`.
+7. **Student check (added after Step 2, not in the plan).** Script: `scripts/s2b_student_check.py`. Output: `data/clean/s2b_student_check.md`, `.csv` and `s2b_loo_2020_outside_london.csv`.
    - The headline specification (f) is ages 20-29 against the family proxy, with teleworkability and garden × young × year and region × young × year effects.
    - The check adds the 2011 full-time student share × young × year, drops the 30 LADs with the highest student share, and runs a leave-one-out of the 2020 coefficient outside London.
 
@@ -573,5 +573,5 @@ The figures below come from `scripts/b6_feasibility.py` and `data/clean/b6_feasi
   - `b6_feasibility.py`: correlations above.
   - `s1_*.py`: national controls. `s3_download_cases.py` and `s3_build_case_rates.py`: case rates. `s4_download_*.py` and `s4_build_census_inflows.py`: census movers.
   - `e_core.py`: estimators. `s2_national_ddd.py`, `s3_tier_design.py`, `s4_census_msoa.py`, `s5_national_rents.py`: pre-registered estimation.
-- **Clean data** (`extension/data/clean/`, plus large files in `C:\Users\dziya\research-data\london-variety-extension\clean\`): see the file tables in each notes file.
-- **Raw downloads:** `C:\Users\dziya\research-data\london-variety-extension\raw\`.
+- **Clean data** (`extension/data/clean/`, plus large files in `~/research-data/london-variety-extension/clean/`): see the file tables in each notes file.
+- **Raw downloads:** `~/research-data/london-variety-extension/raw/`.

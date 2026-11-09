@@ -94,7 +94,7 @@ def main():
     od_tot.loc[od_tot.cp_in_london, "cp_type"] = "London"
     od_tot["period"] = (od_tot.year_ending_june - 1).map("mid-{}".format) + " to mid-" + od_tot.year_ending_june.astype(str)
     od_tot.to_csv(CLEAN / "migration_od_london_boroughs.csv", index=False)
-    # out-flow destinations only (requested deliverable)
+    # out-flow destinations only
     od_tot[od_tot.direction == "out"].rename(columns=lambda c: c.replace("cp_", "dest_")).to_csv(
         CLEAN / "migration_outflow_destinations.csv", index=False)
 

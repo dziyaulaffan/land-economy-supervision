@@ -8,7 +8,7 @@ Scripts (in `extension/scripts/`):
 - `b2_build_census_migration.py`: builds the tidy long files.
 - `b2_validate_census_migration.py`: totals and identity checks; writes `data/clean/b2_validation_summary.csv`.
 
-Raw files: `C:\Users\dziya\research-data\london-variety-extension\raw\census2021_migration\`.
+Raw files: `~/research-data/london-variety-extension/raw/census2021_migration/`.
 
 ## 1. Tables found
 
@@ -60,8 +60,8 @@ Migration and student tables listed as secure:
 | `extension/data/clean/b2_la_migration_by_age.csv` | 164,197 | LAD 2021 (331, Census LTLA) and LAD 2023 (318) | 22 bands (ODMG02EW) plus "All ages 1+" (ODMG01EW) | inflows split same LA / other E&W LA / Scotland / NI / outside UK; outflows to other E&W LAs; net |
 | `extension/data/clean/b2_la_inflows_single_year.csv` | 323,500 | LAD 2021 (330) and LAD 2023 (317); Isles of Scilly blocked by the API | single year 1 to 99, then 100+ | inflows only: from UK (split student-address / other), from outside UK |
 | `extension/data/clean/b2_msoa_migration_all_ages.csv` | 79,904 | MSOA 2021 (7,264) | all ages 1+ only (ODMG01EW) | inflows split same MSOA / other E&W MSOA / Scotland / NI / outside UK; outflows to other E&W MSOAs; net |
-| `C:\Users\dziya\research-data\london-variety-extension\clean\b2_msoa_inflows_by_age.csv` (68 MB) | 792,410 | MSOA 2021 (7,205 of 7,264) | 22 bands (7,188 MSOAs from the 23-band API query; 15 from the single-year query collapsed to 22 bands; 2 in 8 bands) | inflows only, as in the LA single-year file |
-| `C:\Users\dziya\research-data\london-variety-extension\clean\b2_msoa_inflows_single_year.csv.gz` (26 MB gzipped) | 3,042,150 | MSOA 2021 (7,158; 106 blocked) | single year 1 to 84, then 85+ | inflows only |
+| `~/research-data/london-variety-extension/clean/b2_msoa_inflows_by_age.csv` (68 MB) | 792,410 | MSOA 2021 (7,205 of 7,264) | 22 bands (7,188 MSOAs from the 23-band API query; 15 from the single-year query collapsed to 22 bands; 2 in 8 bands) | inflows only, as in the LA single-year file |
+| `~/research-data/london-variety-extension/clean/b2_msoa_inflows_single_year.csv.gz` (26 MB gzipped) | 3,042,150 | MSOA 2021 (7,158; 106 blocked) | single year 1 to 84, then 85+ | inflows only |
 | `extension/data/clean/b2_lookup_msoa21_lad21_lad23.csv` | 7,264 | MSOA 2021 to LAD 2021 and LAD 2023 | | lookup |
 | `extension/data/clean/b2_msoa_no_age_data.csv` | 59 | MSOAs with no by-age migration data from the API | | list |
 | `extension/data/clean/b2_validation_summary.csv` | 26 | | | validation checks |

@@ -127,7 +127,7 @@ def main():
     periods = sorted(r.period.unique())
     r["tau"] = r.period.map({p: i for i, p in enumerate(periods)}) - periods.index("2019Q4")
     for trend, lab in ((False, "Rents (PIPR), no trend"),
-                       (True, "Rents (PIPR), pre-trend projected (secondary, not requested)")):
+                       (True, "Rents (PIPR), pre-trend projected (secondary)")):
         tab = borough_fit(r, "P", w, extra_trend=trend)
         out.append(tab.assign(outcome=lab, unit="borough-quarter", periods="C 2020Q2-2021Q2, R 2021Q3-2022Q4, L 2023Q1-2026Q3",
                               clusters_se="borough (32)", clusters_boot="borough (32)"))

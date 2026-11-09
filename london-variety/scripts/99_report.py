@@ -218,7 +218,7 @@ def decomp_table() -> str:
         out.append(prow([t.loc[k, "p_wcb"] for k in keys]))
     out.append("\\multicolumn{5}{@{}l}{\\textit{Prices, log points}} \\\\")
     for o, lab, sc in (("Rents (PIPR), no trend", "Rents", 1),
-                       ("Rents (PIPR), pre-trend projected (secondary, not requested)", "Rents, trend projected", 1),
+                       ("Rents (PIPR), pre-trend projected (secondary)", "Rents, trend projected", 1),
                        ("MSOA house prices, headline spec", "House prices, headline", 100)):
         t = r[r.outcome == o].set_index("name")
         out.append(crow(lab, [t.loc[k, "coef"] * sc for k in keys]))

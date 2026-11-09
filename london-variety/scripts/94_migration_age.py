@@ -7,7 +7,7 @@ Net moves with the rest of the UK = moves into the borough from outside Greater 
 incl. the City) minus moves out to outside Greater London, Scotland and Northern Ireland included,
 matching nonlondon_net in migration_panel_borough_year.csv.
 
-Groups (as requested): 20-29; 30-39; family proxy = ages 0-15 and 30-49 together; 50+.
+Groups: 20-29; 30-39; family proxy = ages 0-15 and 30-49 together; 50+.
 The family proxy overlaps the 30-39 group. Rates: net moves per 1,000 mid-2019 residents of the same group
 (ONS mid-2019 estimates rebased to Census 2021, Nomis NM_2002_1, single year of age).
 Event study: baseline continuous specification of 80_event_study.py (borough and year FE, standardised log

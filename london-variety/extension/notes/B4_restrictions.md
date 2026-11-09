@@ -16,7 +16,7 @@ Data assembly only. No regressions were run.
 
 Scripts (extension/scripts/, run in order): `b4_01_fetch_legislation.py`, `b4_02_fetch_compiled.py`,
 `b4_03_parse_legislation.py`, `b4_04_build_panel.py`, `b4_05_validate.py`; shared helpers in `b4_common.py`.
-Raw downloads: `C:\Users\dziya\research-data\london-variety-extension\raw\restrictions\`.
+Raw downloads: `~/research-data/london-variety-extension/raw/restrictions/`.
 
 ## 2. Sources checked
 
@@ -159,18 +159,18 @@ projection; the projections are on pre-2019 districts, so Somerset West and Taun
 3. **Private-dwelling gatherings bans count as 0.5.** The task's rule puts "household mixing ban indoors" at 0.5.
    The English local bans of Aug - Sep 2020 (SIs 822, 824, 828, 988, 1010) and the Leicester (No. 2) ban applied in
    law to private dwellings; hospitality was covered by guidance until 30 Sep 2020, when SI 2020/1057 extended the
-   ban to all indoor places in the North of England, North East and North West areas. I code all of them 0.5, as
+   ban to all indoor places in the North of England, North East and North West areas. All of them are coded 0.5, as
    the rule says. The Birmingham, Sandwell, Solihull, Wolverhampton and Leicester bans stayed private-dwelling-only
    in law. Anyone wanting the stricter reading can recode with `mix_ban` and the source column (0.25 instead).
 4. **October Very High = 0.5**, the same as High. It had both a substantial-meal requirement and the mixing ban,
-   so it is more restrictive than High. I kept the five-level scale as stated rather than inventing an extra step;
+   so it is more restrictive than High. The five-level scale is kept as stated, with no extra step added;
    `meal_req` separates the two.
 5. **Wales extended households (3 Aug - 13 Sep 2020) = 0.25**: indoor gatherings were legally limited to an
    extended household of up to four households. That is a group limit, not a ban on mixing; the local health
    protection areas, which removed extended households, are 0.5.
 6. **Rule of six = 0.25** (14 Sep 2020 in England). It is a legal group limit that applied in pubs and restaurants.
 7. **Wales 4-19 Dec 2020 (18:00 closing, no alcohol) = 0.5**: venues could open, but evening and drinking trade was
-   removed, which I judged closest to the substantial-meal level.
+   removed, which is closest to the substantial-meal level.
 8. **Partial areas.** The Leicester postcode area (4-17 Jul 2020) included suburban fringes of Blaby and Charnwood.
    The postcode lists were not converted to population, so those two LAs are not coded as covered (they stay at the
    national level, which was 1 until 3 Jul and 0 afterwards). All ward / electoral-division areas are weighted by

@@ -3,13 +3,13 @@
 Stage: data gathering and cleaning only. No modelling.
 Data pulled 28 October 2026. Every script is in `scripts/`. Run `python scripts/run_all.py` to rebuild from scratch. Each script skips a download when the raw file already exists.
 
-Raw downloads (about 2.5 GB) are kept **outside OneDrive**, in `C:\Users\dziya\research-data\london-variety\raw\`. Only cleaned data, scripts and outputs live in this synced folder. To use another raw location, set the `LONDON_VARIETY_RAW` environment variable.
+Raw downloads (about 2.5 GB) are kept **outside OneDrive**, in `~/research-data/london-variety/raw/`. Only cleaned data, scripts and outputs live in this synced folder. To use another raw location, set the `LONDON_VARIETY_RAW` environment variable.
 
 ## Folder layout
 
 | Folder | Contents |
 |---|---|
-| `C:\Users\dziya\research-data\london-variety\raw\` (outside OneDrive) | Untouched downloads, one subfolder per source. Paths below written `raw/...` are relative to this folder |
+| `~/research-data/london-variety/raw/` (outside OneDrive) | Untouched downloads, one subfolder per source. Paths below written `raw/...` are relative to this folder |
 | `data/clean/` | Tidy CSVs built by the scripts |
 | `scripts/` | Python. `config.py` holds paths, borough lists and the Inner/Outer definitions |
 | `outputs/figures/` | Exploratory charts |

@@ -31,7 +31,7 @@ Verified, but not converted (they appear in the CSV with a blank conversion):
   translates this into a partial elasticity of state employment with respect to after-tax real wages of 1.1.
   Housing is not in the model (footnote 12) and real wages are deflated by the regional CPI. A rent elasticity
   would need an assumed housing share of that index (for example 0.3 x 1.1 = -0.33). It would also need a choice
-  about whether the CPI deflator on public services counts too, so I left it blank.
+  about whether the CPI deflator on public services counts too, so it is left blank.
 * Bayer, McMillan, Murphy and Timmins (2016 Econometrica), NBER WP 17250, Table 3: financial moving-cost coefficient
   0.03515 (0.00148) minus 0.00008 (0.00001) x income, in $1000s. Note that the text on p.35 prints the constant as
   0.0315, which is inconsistent with the table. At mean income ($106.9k), the per-period marginal utility of
@@ -52,17 +52,17 @@ Verified, but not converted (they appear in the CSV with a blank conversion):
   "implied rent" is the real-wage elasticity times a housing expenditure share. Diamond's numbers come from
   decadal changes, so they are long-run elasticities.
 * **Dispersion parameter (Suárez Serrato and Zidar).** Utility is ln w - alpha ln r + amenities, with taste dispersion
-  sigma_W. So d ln N / d ln r = -alpha / sigma_W. I used alpha = 0.30, the housing share calibrated in the same
-  column. A delta-method SE of about 0.12 is my derivation, not a reported figure.
+  sigma_W. So d ln N / d ln r = -alpha / sigma_W. alpha = 0.30 is used, the housing share calibrated in the same
+  column. A delta-method SE of about 0.12 is derived here and is not a reported figure.
 * **Fréchet commuting models (Monte et al.; Ahlfeldt et al. 2015).** Residence probability is proportional to
   (rent^(1-alpha))^(-epsilon), so d ln residents / d ln rent = -epsilon x (1 - alpha), holding the workplace
   distribution fixed. These are choices of where to live given where people work. They fit within-London borough
   choice more closely than migration between local authorities, and they are much larger than migration
   elasticities.
 * **Probit migration (Rabe and Taylor).** The regressor is log destination price minus log origin price, so a 1 per
-  cent rise in origin prices raises the out-migration probability. I took the marginal effect at the 1.4 per cent
-  annual move rate (518 moves in 35,808 household-years, data section), giving phi(Phi^-1(0.014)) = 0.0357. I rescaled the
-  random-effects coefficient by sqrt(1 - rho), with rho = 0.23. That gives 0.0147 per log point, so about **0.015
+  cent rise in origin prices raises the out-migration probability. The marginal effect is taken at the 1.4 per cent
+  annual move rate (518 moves in 35,808 household-years, data section), giving phi(Phi^-1(0.014)) = 0.0357. The
+  random-effects coefficient is rescaled by sqrt(1 - rho), with rho = 0.23. That gives 0.0147 per log point, so about **0.015
   percentage points more of the origin population leaving per year per 1 per cent higher house prices** (about a
   1 per cent rise in the out-migration rate). If in-migration fell by the same amount, the net figure would roughly
   double to -0.03 pp a year. This uses house prices, not rents, and covers only long-distance moves between
@@ -71,13 +71,13 @@ Verified, but not converted (they appear in the CSV with a blank conversion):
 ## 3. TODO (excluded from the usable list)
 
 1. Bayer, Ferreira and McMillan (2007 JPE), read as NBER WP 13236: the open version reports dollar willingness to pay
-   only (Tables 6-7). I did not find the raw price coefficient or a choice elasticity; the published JPE was not
+   only (Tables 6-7). The raw price coefficient was not found, or a choice elasticity; the published JPE was not
    opened.
 2. Rabe and Taylor (2012, Oxford Bulletin of Economics and Statistics 74(6), doi:10.1111/j.1468-0084.2011.00682.x):
    paywalled. The published coefficient has not been seen. The 1993-2008 slides (row 18) suggest it may be smaller
    and not significant.
 3. Murphy, Muellbauer and Cameron (2006), CEPR DP 5832, a British regional net- and gross-migration panel with house
-   prices: I found no open full text. RePEc marks it restricted, and the Oxford WP 275 links are dead.
+   prices: no open full text was found. RePEc marks it restricted, and the Oxford WP 275 links are dead.
 4. Cameron and Muellbauer (1998, Scottish Journal of Political Economy 45(4)): not opened.
 5. Jackman and Savouri (1992, Economic Journal): not located.
 

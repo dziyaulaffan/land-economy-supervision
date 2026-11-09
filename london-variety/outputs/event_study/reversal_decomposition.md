@@ -8,5 +8,5 @@ Coefficient per SD of standardised log amenity density (borough density for migr
 | Migration, family proxy (0-15 and 30-49) | -1.256 (0.213) | 0.471 (0.587) | 1.090 (0.013) | **1.727 (0.002)** | 352 |
 | Migration, ages 50+ | -1.150 (0.000) | 0.581 (0.221) | 0.652 (0.082) | **1.730 (0.004)** | 352 |
 | Rents (PIPR), no trend | -1.931 (0.003) | -3.501 (0.000) | -1.672 (0.008) | **-1.570 (0.000)** | 1,504 |
-| Rents (PIPR), pre-trend projected (secondary, not requested) | 0.013 (0.985) | -0.735 (0.272) | 2.664 (0.042) | **-0.748 (0.085)** | 1,504 |
+| Rents (PIPR), pre-trend projected (secondary) | 0.013 (0.985) | -0.735 (0.272) | 2.664 (0.042) | **-0.748 (0.085)** | 1,504 |
 | MSOA house prices, headline spec | 0.002 (0.751) | -0.004 (0.276) | 0.000 (0.959) | **-0.005 (0.257)** | 843,269 |
