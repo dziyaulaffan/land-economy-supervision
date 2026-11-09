@@ -1,0 +1,27 @@
+migration: 4 pre, 6 post periods; smoothness grid 0..10.071
+  first_post done in 149s; RM breakdown 0.71875 (bracketed in (0.703, 0.719]); SD breakdown 2.014198
+  avg_2020_2021 done in 142s; RM breakdown 0.15625 (bracketed in (0.141, 0.156]); SD breakdown 0.5035496
+rents: 19 pre, 27 post periods; smoothness grid 0..1.177
+  q4_2021 done in 1002s; RM breakdown 0.375 (bracketed in (0.359, 0.375]); SD breakdown 0.1470845
+  avg_2020Q1_2022Q4 done in 863s; RM breakdown 0.234375 (bracketed in (0.219, 0.234]); SD breakdown 0.1176676
+There were 50 or more warnings (use warnings() to see the first 50)
+    outcome            target
+1 migration        first_post
+2 migration     avg_2020_2021
+3     rents           q4_2021
+4     rents avg_2020Q1_2022Q4
+                                                                              periods
+1                                                                                2020
+2                                                                           2020+2021
+3                                                                              2021Q4
+4 2020Q1+2020Q2+2020Q3+2020Q4+2021Q1+2021Q2+2021Q3+2021Q4+2022Q1+2022Q2+2022Q3+2022Q4
+   estimate   orig_lb    orig_ub breakdown_Mbar_RM                     RM_note
+1 -2.832235 -4.045726 -1.6187440          0.718750 bracketed in (0.703, 0.719]
+2 -2.250992 -4.071866 -0.4301193          0.156250 bracketed in (0.141, 0.156]
+3 -3.533402 -4.997382 -2.0694221          0.375000 bracketed in (0.359, 0.375]
+4 -2.122127 -3.311103 -0.9331508          0.234375 bracketed in (0.219, 0.234]
+  breakdown_M_SD SD_grid_step SD_grid_max  SD_M0_lb  SD_M0_ub
+1      2.0141985   0.25177481   10.070992 -3.573038 -2.003925
+2      0.5035496   0.25177481   10.070992 -4.517368 -2.026647
+3      0.1470845   0.02941691    1.176676 -5.164958 -4.039105
+4      0.1176676   0.02941691    1.176676 -3.018362 -2.252159

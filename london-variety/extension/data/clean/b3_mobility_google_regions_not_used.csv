@@ -1,0 +1,49 @@
+sub_region_1,sub_region_2,iso_3166_2_code,rr_valid,wp_valid,reason
+Buckinghamshire,Aylesbury Vale,,970,971,pre-2023 district inside a county-level series that equals the 2023 unitary
+Buckinghamshire,Chiltern District,,949,968,pre-2023 district inside a county-level series that equals the 2023 unitary
+Buckinghamshire,South Bucks District,,949,968,pre-2023 district inside a county-level series that equals the 2023 unitary
+Buckinghamshire,Wycombe District,,970,971,pre-2023 district inside a county-level series that equals the 2023 unitary
+Cambridgeshire,,GB-CAM,974,974,county or metropolitan-county aggregate
+Cornwall,Penryn,,0,703,sub-LA area (town)
+Cumbria,,GB-CMA,974,974,county or metropolitan-county aggregate
+Derbyshire,,GB-DBY,974,974,county or metropolitan-county aggregate
+Devon,,GB-DEV,974,974,county or metropolitan-county aggregate
+Dorset,,GB-DOR,974,974,county or metropolitan-county aggregate
+East Sussex,,GB-ESX,974,974,county or metropolitan-county aggregate
+Essex,,GB-ESS,974,974,county or metropolitan-county aggregate
+Gloucestershire,,GB-GLS,974,974,county or metropolitan-county aggregate
+Greater London,,,974,974,county or metropolitan-county aggregate
+Greater Manchester,,,974,974,county or metropolitan-county aggregate
+Hampshire,,GB-HAM,974,974,county or metropolitan-county aggregate
+Hertfordshire,,GB-HRT,974,974,county or metropolitan-county aggregate
+Kent,,GB-KEN,974,974,county or metropolitan-county aggregate
+Lancashire,,GB-LAN,974,974,county or metropolitan-county aggregate
+Leicestershire,,GB-LEC,974,974,county or metropolitan-county aggregate
+Lincolnshire,,GB-LIN,974,974,county or metropolitan-county aggregate
+Merseyside,,,974,974,county or metropolitan-county aggregate
+Norfolk,,GB-NFK,974,974,county or metropolitan-county aggregate
+North Yorkshire,Borough of Harrogate,,955,968,pre-2023 district inside a county-level series that equals the 2023 unitary
+North Yorkshire,Craven District,,949,968,pre-2023 district inside a county-level series that equals the 2023 unitary
+North Yorkshire,Hambleton District,,949,968,pre-2023 district inside a county-level series that equals the 2023 unitary
+North Yorkshire,Richmondshire District,,949,950,pre-2023 district inside a county-level series that equals the 2023 unitary
+North Yorkshire,Ryedale District,,933,958,pre-2023 district inside a county-level series that equals the 2023 unitary
+North Yorkshire,Scarborough District,,952,968,pre-2023 district inside a county-level series that equals the 2023 unitary
+North Yorkshire,Selby,,949,968,pre-2023 district inside a county-level series that equals the 2023 unitary
+Northamptonshire,,GB-NTH,974,974,county or metropolitan-county aggregate
+Nottinghamshire,,GB-NTT,974,974,county or metropolitan-county aggregate
+Oxfordshire,,GB-OXF,974,974,county or metropolitan-county aggregate
+Somerset,Mendip District,,952,968,pre-2023 district inside a county-level series that equals the 2023 unitary
+Somerset,Sedgemoor,,949,968,pre-2023 district inside a county-level series that equals the 2023 unitary
+Somerset,South Somerset District,,955,971,pre-2023 district inside a county-level series that equals the 2023 unitary
+Somerset,Taunton Deane,,952,968,pre-2023 district inside a county-level series that equals the 2023 unitary
+Somerset,West Somerset District,,332,934,pre-2023 district inside a county-level series that equals the 2023 unitary
+South Yorkshire,,,974,974,county or metropolitan-county aggregate
+Staffordshire,,GB-STS,974,974,county or metropolitan-county aggregate
+Suffolk,,GB-SFK,974,974,county or metropolitan-county aggregate
+Surrey,,GB-SRY,974,974,county or metropolitan-county aggregate
+Tyne and Wear,,,974,974,county or metropolitan-county aggregate
+Warwickshire,,GB-WAR,974,974,county or metropolitan-county aggregate
+West Midlands,,,974,974,county or metropolitan-county aggregate
+West Sussex,,GB-WSX,974,974,county or metropolitan-county aggregate
+West Yorkshire,,,974,974,county or metropolitan-county aggregate
+Worcestershire,,GB-WOR,974,974,county or metropolitan-county aggregate

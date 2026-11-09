@@ -1,0 +1,325 @@
+
+=== 10_migration.py
+                    all_in    all_out   all_net  nonlondon_net
+year_ending_june                                              
+2015              680965.0   759823.0  -78858.0       -78887.0
+2016              664657.0   765103.0 -100446.0      -100576.0
+2017              725523.0   845238.0 -119715.0      -119746.0
+2018              729427.0   839663.0 -110236.0      -110309.0
+2019              769584.0   869109.0  -99525.0       -99454.0
+2020              679365.0   793316.0 -113951.0      -113990.0
+2021              848198.0  1034473.0 -186275.0      -186089.0
+2022              792603.0   919854.0 -127251.0      -127372.0
+2023              772052.0   908831.0 -136779.0      -137187.0
+2024              826988.0   955028.0 -128040.0      -128493.0
+2025              857838.0   989616.0 -131778.0      -132046.0
+
+=== 20_rents.py
+region           geo_level      
+East of England  local authority    45
+                 region              1
+London           local authority    32
+                 region              1
+South East       local authority    64
+                 region              1
+Name: la_code, dtype: int64 2015-01-01 00:00:00 2026-09-01 00:00:00
+
+=== 30_house_prices.py
+region
+East of England    45
+London             32
+South East         64
+Name: la_code, dtype: int64 (71064, 9)
+transactions kept: 2774079
+
+=== 40_amenity_density.py
+MSOA 2011: 983 London MSOAs, I+R units = 52225
+MSOA vs LA I+R totals, max abs gap: 90
+London-wide median I+R per 1k = 4.31
+london_zone
+Inner London    7.17
+Outer London    3.83
+amenity_group  High amenity  Low amenity
+london_zone                             
+Inner London             12            1
+Outer London              4           15
+zone_amenity_group
+Outer, low amenity     10
+Outer, high amenity     9
+Inner, low amenity      7
+Inner, high amenity     6
+               la_name  london_zone  per1k_IR amenity_group  zone_amenity_group
+           Westminster Inner London 32.747163  High amenity Inner, high amenity
+                Camden Inner London 18.191364  High amenity Inner, high amenity
+Kensington and Chelsea Inner London 12.227104  High amenity Inner, high amenity
+             Islington Inner London 10.788580  High amenity Inner, high amenity
+Hammersmith and Fulham Inner London  8.564822  High amenity Inner, high amenity
+               Hackney Inner London  8.332550  High amenity Inner, high amenity
+  Richmond upon Thames Outer London  7.291167  High amenity Outer, high amenity
+             Southwark Inner London  7.165913  High amenity  Inner, low amenity
+         Tower Hamlets Inner London  6.490399  High amenity  Inner, low amenity
+               Lambeth Inner London  6.069563  High amenity  Inner, low amenity
+            Wandsworth Inner London  5.664190  High amenity  Inner, low amenity
+              Haringey Inner London  5.553201  High amenity  Inner, low amenity
+  Kingston upon Thames Outer London  4.711508  High amenity Outer, high amenity
+              Hounslow Outer London  4.591717  High amenity Outer, high amenity
+              Lewisham Inner London  4.396775  High amenity  Inner, low amenity
+                Barnet Outer London  4.352390  High amenity Outer, high amenity
+                Ealing Outer London  4.261008   Low amenity Outer, high amenity
+                Merton Outer London  4.235357   Low amenity Outer, high amenity
+               Bromley Outer London  4.076185   Low amenity Outer, high amenity
+                 Brent Outer London  4.029658   Low amenity Outer, high amenity
+             Greenwich Outer London  3.868774   Low amenity Outer, high amenity
+            Hillingdon Outer London  3.828020   Low amenity  Outer, low amenity
+        Waltham Forest Outer London  3.736455   Low amenity  Outer, low amenity
+               Croydon Outer London  3.545437   Low amenity  Outer, low amenity
+                Harrow Outer London  3.434262   Low amenity  Outer, low amenity
+                Sutton Outer London  3.333078   Low amenity  Outer, low amenity
+               Enfield Outer London  3.222428   Low amenity  Outer, low amenity
+              Havering Outer London  3.176474   Low amenity  Outer, low amenity
+                Newham Inner London  3.144780   Low amenity  Inner, low amenity
+                Bexley Outer London  3.020817   Low amenity  Outer, low amenity
+             Redbridge Outer London  2.966836   Low amenity  Outer, low amenity
+  Barking and Dagenham Outer London  2.490541   Low amenity  Outer, low amenity
+
+=== 50_mobility.py
+                            start        end    n  rr_na  wp_na
+la_name                                                        
+Barking and Dagenham   2020-02-15 2022-10-15  974      0      0
+Barnet                 2020-02-15 2022-10-15  974      0      0
+Bexley                 2020-02-15 2022-10-15  974      0      0
+Brent                  2020-02-15 2022-10-15  974      0      0
+Bromley                2020-02-15 2022-10-15  974      0      0
+Camden                 2020-02-15 2022-10-15  974      0      3
+Croydon                2020-02-15 2022-10-15  974      0      0
+Ealing                 2020-02-15 2022-10-15  974      0      0
+Enfield                2020-02-15 2022-10-15  974      0      0
+Greater London         2020-02-15 2022-10-15  974      0      0
+Greenwich              2020-02-15 2022-10-15  974      0      0
+Hackney                2020-02-15 2022-10-15  974      0      0
+Hammersmith and Fulham 2020-02-15 2022-10-15  974      0      3
+Haringey               2020-02-15 2022-10-15  974      0      0
+Harrow                 2020-02-15 2022-10-15  974      1      0
+Havering               2020-02-15 2022-10-15  974      0      0
+Hillingdon             2020-02-15 2022-10-15  974      0      0
+Hounslow               2020-02-15 2022-10-15  974      0      0
+Islington              2020-02-15 2022-10-15  974      0      3
+Kensington and Chelsea 2020-02-15 2022-10-15  974      0      6
+Kingston upon Thames   2020-02-15 2022-10-15  974      0      3
+Lambeth                2020-02-15 2022-10-15  974      0      0
+Lewisham               2020-02-15 2022-10-15  974      0      0
+Merton                 2020-02-15 2022-10-15  974      0      0
+Newham                 2020-02-15 2022-10-15  974      0      0
+Redbridge              2020-02-15 2022-10-15  974      0      0
+Richmond upon Thames   2020-02-15 2022-10-15  974      1      6
+Southwark              2020-02-15 2022-10-15  974      0      0
+Sutton                 2020-02-15 2022-10-15  974     16      3
+Tower Hamlets          2020-02-15 2022-10-15  974      0      0
+Waltham Forest         2020-02-15 2022-10-15  974      0      0
+Wandsworth             2020-02-15 2022-10-15  974      0      0
+Westminster            2020-02-15 2022-10-15  974      0      3
+
+=== 60_charts.py
+figures written to C:\Users\dziya\OneDrive\3-MT\london-variety\outputs\figures
+
+=== 70_controls.py
+MSOAs: 983, missing garden: 0
+               la_name  london_zone  garden_share  telework_share  age20_39_share  private_rent_share
+  Barking and Dagenham Outer London         0.845           0.334           0.311               0.177
+                Barnet Outer London         0.800           0.511           0.316               0.256
+                Bexley Outer London         0.885           0.432           0.251               0.114
+                 Brent Outer London         0.818           0.413           0.364               0.301
+               Bromley Outer London         0.854           0.520           0.250               0.133
+                Camden Inner London         0.610           0.614           0.415               0.322
+               Croydon Outer London         0.833           0.461           0.293               0.210
+                Ealing Outer London         0.828           0.458           0.356               0.275
+               Enfield Outer London         0.841           0.439           0.298               0.222
+             Greenwich Outer London         0.801           0.447           0.348               0.198
+               Hackney Inner London         0.686           0.535           0.434               0.290
+Hammersmith and Fulham Inner London         0.810           0.601           0.452               0.317
+              Haringey Inner London         0.841           0.488           0.385               0.315
+                Harrow Outer London         0.852           0.484           0.302               0.217
+              Havering Outer London         0.897           0.429           0.248               0.106
+            Hillingdon Outer London         0.877           0.423           0.308               0.181
+              Hounslow Outer London         0.814           0.441           0.360               0.234
+             Islington Inner London         0.707           0.611           0.449               0.270
+Kensington and Chelsea Inner London         0.817           0.668           0.382               0.358
+  Kingston upon Thames Outer London         0.865           0.526           0.329               0.225
+               Lambeth Inner London         0.751           0.547           0.442               0.293
+              Lewisham Inner London         0.818           0.490           0.363               0.243
+                Merton Outer London         0.880           0.511           0.353               0.248
+                Newham Inner London         0.821           0.354           0.417               0.341
+             Redbridge Outer London         0.878           0.487           0.313               0.229
+  Richmond upon Thames Outer London         0.879           0.621           0.295               0.218
+             Southwark Inner London         0.663           0.517           0.417               0.237
+                Sutton Outer London         0.877           0.451           0.278               0.159
+         Tower Hamlets Inner London         0.603           0.572           0.494               0.326
+        Waltham Forest Outer London         0.860           0.416           0.358               0.259
+            Wandsworth Inner London         0.729           0.619           0.463               0.317
+           Westminster Inner London         0.630           0.640           0.421               0.397migration: 4 pre, 6 post periods; smoothness grid 0..10.071
+  first_post done in 132s; RM breakdown 0.71875 (bracketed in (0.703, 0.719]); SD breakdown 2.014198
+  avg_2020_2021 done in 146s; RM breakdown 0.15625 (bracketed in (0.141, 0.156]); SD breakdown 0.5035496
+rents: 19 pre, 27 post periods; smoothness grid 0..1.177
+  q4_2021 done in 1341s; RM breakdown 0.375 (bracketed in (0.359, 0.375]); SD breakdown 0.1470845
+  avg_2020Q1_2022Q4 done in 1400s; RM breakdown 0.234375 (bracketed in (0.219, 0.234]); SD breakdown 0.1176676
+There were 50 or more warnings (use warnings() to see the first 50)
+    outcome            target
+1 migration        first_post
+2 migration     avg_2020_2021
+3     rents           q4_2021
+4     rents avg_2020Q1_2022Q4
+                                                                              periods
+1                                                                                2020
+2                                                                           2020+2021
+3                                                                              2021Q4
+4 2020Q1+2020Q2+2020Q3+2020Q4+2021Q1+2021Q2+2021Q3+2021Q4+2022Q1+2022Q2+2022Q3+2022Q4
+   estimate   orig_lb    orig_ub breakdown_Mbar_RM                     RM_note
+1 -2.832235 -4.045726 -1.6187440          0.718750 bracketed in (0.703, 0.719]
+2 -2.250992 -4.071866 -0.4301193          0.156250 bracketed in (0.141, 0.156]
+3 -3.533402 -4.997382 -2.0694221          0.375000 bracketed in (0.359, 0.375]
+4 -2.122127 -3.311103 -0.9331508          0.234375 bracketed in (0.219, 0.234]
+  breakdown_M_SD SD_grid_step SD_grid_max  SD_M0_lb  SD_M0_ub
+1      2.0141985   0.25177481   10.070992 -3.573038 -2.003925
+2      0.5035496   0.25177481   10.070992 -4.517368 -2.026647
+3      0.1470845   0.02941691    1.176676 -5.164958 -4.039105
+4      0.1176676   0.02941691    1.176676 -3.018362 -2.252159
+units: 22 treated, 10 comparison; periods: 47 (2020Q1 = t21)
+es_level ok
+es_slope ok
+dose_level ok
+dose_slope ok
+
+
+=== 75_msoa_amenity.py
+              control           variable  corr_overall  corr_within_borough  flag_within_above_0_6  n_msoa
+      Teleworkability     telework_share         0.586                0.439                  False     982
+        Garden access       garden_share        -0.429               -0.320                  False     982
+     Share aged 20-39     age20_39_share         0.459                0.378                  False     982
+Private renting share private_rent_share         0.494                0.420                  False     982
+Within-borough correlation between amenity density and teleworkability is 0.44 (not above 0.6)
+
+=== 80_event_study.py
+migration continuous baseline   N=352 K=52
+migration continuous +garden    N=352 K=62
+migration continuous +telework  N=352 K=62
+migration continuous +age2039   N=352 K=62
+migration continuous +privrent  N=352 K=62
+migration continuous +all       N=352 K=92
+migration binned     baseline   N=352 K=62
+migration binned     +garden    N=352 K=72
+migration binned     +telework  N=352 K=72
+migration binned     +age2039   N=352 K=72
+migration binned     +privrent  N=352 K=72
+migration binned     +all       N=352 K=102
+rents     continuous baseline   N=1504 K=124
+rents     continuous +garden    N=1504 K=170
+rents     continuous +telework  N=1504 K=170
+rents     continuous +age2039   N=1504 K=170
+rents     continuous +privrent  N=1504 K=170
+rents     continuous +all       N=1504 K=308
+rents     binned     baseline   N=1504 K=170
+rents     binned     +garden    N=1504 K=216
+rents     binned     +telework  N=1504 K=216
+rents     binned     +age2039   N=1504 K=216
+rents     binned     +privrent  N=1504 K=216
+rents     binned     +all       N=1504 K=354
+written C:\Users\dziya\OneDrive\3-MT\london-variety\outputs\event_study\regression_table.csv 1008
+
+=== 82_rent_trend_break.py
+pre-trend slope -0.199 per quarter (se 0.042, WCB p 0.0036)
+period   coef  se_cluster  p_cluster  p_wcb
+2020Q1  1.730       0.259      0.000  0.003
+2020Q2  1.302       0.428      0.005  0.041
+2020Q3  1.055       0.697      0.140  0.290
+2020Q4  0.882       0.761      0.255  0.363
+2021Q1  0.454       0.704      0.524  0.560
+2021Q2 -0.018       0.705      0.980  0.983
+2021Q3 -0.448       0.683      0.516  0.518
+2021Q4 -0.534       0.782      0.500  0.508
+2022Q1  0.003       0.740      0.997  0.997
+2022Q2  0.521       0.732      0.481  0.489
+2022Q3  0.677       0.858      0.436  0.446
+2022Q4  1.329       0.931      0.163  0.199
+2023Q1  2.277       0.938      0.021  0.064
+2023Q2  3.216       0.973      0.002  0.021
+2023Q3  4.131       0.968      0.000  0.005
+2023Q4  3.901       1.021      0.001  0.007
+2024Q1  3.785       1.154      0.003  0.021
+2024Q2  4.041       1.284      0.004  0.028
+2024Q3  4.053       1.436      0.008  0.053
+2024Q4  4.616       1.341      0.002  0.016
+2025Q1  5.400       1.242      0.000  0.005
+2025Q2  4.965       1.209      0.000  0.005
+2025Q3  4.499       1.212      0.001  0.010
+2025Q4  4.431       1.319      0.002  0.020
+2026Q1  3.858       1.530      0.017  0.071
+2026Q2  4.448       1.457      0.005  0.022
+2026Q3  4.988       1.545      0.003  0.015
+trend intercept on event-study scale: -1.410
+
+=== 83_honestdid.R
+
+=== 85_contdid.R
+
+=== 87_msoa_house_prices.py
+                                                        step      n
+London district sales 2017-2023 (all categories, incl. City) 798102
+                                                  Category A 634527
+                                       Property type D/S/T/F 634527
+                                             Price >= 10,000 634525
+  Postcode matched in NSPL to a 2011 MSOA in the 32 boroughs 632938
+                         Merged to MSOA amenity and controls 632938
+                                     Tenure F or L (drops U) 632938
+NSPL LA vs MSOA LA mismatch share: 0.00000; MSOAs with sales: 982
+all_quarters    baseline   N=632,938 K=32
+all_quarters    +telework  N=632,938 K=59
+all_quarters    +garden    N=632,938 K=59
+all_quarters    +age2039   N=632,938 K=59
+all_quarters    +privrent  N=632,938 K=59
+all_quarters    +all       N=632,938 K=140
+drop_2021Q2_Q3  baseline   N=569,916 K=30
+drop_2021Q2_Q3  +telework  N=569,916 K=55
+drop_2021Q2_Q3  +garden    N=569,916 K=55
+drop_2021Q2_Q3  +age2039   N=569,916 K=55
+drop_2021Q2_Q3  +privrent  N=569,916 K=55
+drop_2021Q2_Q3  +all       N=569,916 K=130
+pyfixest check: max |coef diff| 2.00e-14, max relative SE diff 0.0000
+
+=== 90_event_study_plots.py
+  outcome  treatment      spec   term  n_obs  n_clusters   k  pretrend_q  pretrend_F   pretrend_p
+migration continuous  baseline D_cont    352          32  52         4.0    4.173415 8.088329e-03
+migration continuous   +garden D_cont    352          32  62         4.0    5.631180 1.584509e-03
+migration continuous +telework D_cont    352          32  62         4.0    2.097322 1.050364e-01
+migration continuous  +age2039 D_cont    352          32  62         4.0    3.760731 1.317791e-02
+migration continuous +privrent D_cont    352          32  62         4.0    3.527431 1.745583e-02
+migration continuous      +all D_cont    352          32  92         4.0    6.751532 4.976712e-04
+migration     binned  baseline     T2    352          32  62         4.0    2.254228 8.586697e-02
+migration     binned  baseline     T3    352          32  62         4.0    3.930705 1.076250e-02
+migration     binned   +garden     T2    352          32  72         4.0    1.228891 3.188406e-01
+migration     binned   +garden     T3    352          32  72         4.0    3.236888 2.490013e-02
+migration     binned +telework     T2    352          32  72         4.0    1.290383 2.951959e-01
+migration     binned +telework     T3    352          32  72         4.0    2.357454 7.523505e-02
+migration     binned  +age2039     T2    352          32  72         4.0    1.295032 2.934752e-01
+migration     binned  +age2039     T3    352          32  72         4.0    3.715142 1.391805e-02
+migration     binned +privrent     T2    352          32  72         4.0    1.344865 2.756093e-01
+migration     binned +privrent     T3    352          32  72         4.0    3.224731 2.527601e-02
+migration     binned      +all     T2    352          32 102         4.0    1.160814 3.470142e-01
+migration     binned      +all     T3    352          32 102         4.0    1.838127 1.466410e-01
+    rents continuous  baseline D_cont   1504          32 124        19.0   28.335695 1.639325e-14
+    rents continuous   +garden D_cont   1504          32 170        19.0   20.416587 1.615823e-12
+    rents continuous +telework D_cont   1504          32 170        19.0   17.635575 1.191434e-11
+    rents continuous  +age2039 D_cont   1504          32 170        19.0   48.515734 6.729401e-18
+    rents continuous +privrent D_cont   1504          32 170        19.0   22.118958 5.338275e-13
+    rents continuous      +all D_cont   1504          32 308        19.0   33.646766 1.399947e-15
+    rents     binned  baseline     T2   1504          32 170        19.0    1.996566 4.231738e-02
+    rents     binned  baseline     T3   1504          32 170        19.0    9.089946 5.746156e-08
+    rents     binned   +garden     T2   1504          32 216        19.0    4.390020 1.357879e-04
+    rents     binned   +garden     T3   1504          32 216        19.0   12.245281 1.444092e-09
+    rents     binned +telework     T2   1504          32 216        19.0    1.781053 7.455360e-02
+    rents     binned +telework     T3   1504          32 216        19.0    3.387125 1.267004e-03
+    rents     binned  +age2039     T2   1504          32 216        19.0    5.798746 8.842349e-06
+    rents     binned  +age2039     T3   1504          32 216        19.0    7.940516 2.808775e-07
+    rents     binned +privrent     T2   1504          32 216        19.0    2.183165 2.590641e-02
+    rents     binned +privrent     T3   1504          32 216        19.0    4.818900 5.642670e-05
+    rents     binned      +all     T2   1504          32 354        19.0   12.703098 9.029173e-10
+    rents     binned      +all     T3   1504          32 354        19.0  131.413653 2.145829e-24

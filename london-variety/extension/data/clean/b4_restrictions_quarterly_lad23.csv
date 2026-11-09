@@ -1,0 +1,2545 @@
+lad23_code,lad23_name,region,nation,quarter,n_days_panel,days_full_closure,days_any_restriction,n_days_quarter,hosp_intensity_q,hosp_intensity_panel_days
+E06000001,Hartlepool,North East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000001,Hartlepool,North East,E,2020Q2,91,91,91,91,1.0,1.0
+E06000001,Hartlepool,North East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000001,Hartlepool,North East,E,2020Q4,92,57,92,92,0.8043,0.8043
+E06000001,Hartlepool,North East,E,2021Q1,90,90,90,90,1.0,1.0
+E06000001,Hartlepool,North East,E,2021Q2,91,11,91,91,0.533,0.533
+E06000001,Hartlepool,North East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000001,Hartlepool,North East,E,2021Q4,92,0,0,92,0.0,0.0
+E06000002,Middlesbrough,North East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000002,Middlesbrough,North East,E,2020Q2,91,91,91,91,1.0,1.0
+E06000002,Middlesbrough,North East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000002,Middlesbrough,North East,E,2020Q4,92,57,92,92,0.8043,0.8043
+E06000002,Middlesbrough,North East,E,2021Q1,90,90,90,90,1.0,1.0
+E06000002,Middlesbrough,North East,E,2021Q2,91,11,91,91,0.533,0.533
+E06000002,Middlesbrough,North East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000002,Middlesbrough,North East,E,2021Q4,92,0,0,92,0.0,0.0
+E06000003,Redcar and Cleveland,North East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000003,Redcar and Cleveland,North East,E,2020Q2,91,91,91,91,1.0,1.0
+E06000003,Redcar and Cleveland,North East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000003,Redcar and Cleveland,North East,E,2020Q4,92,57,92,92,0.7745,0.7745
+E06000003,Redcar and Cleveland,North East,E,2021Q1,90,90,90,90,1.0,1.0
+E06000003,Redcar and Cleveland,North East,E,2021Q2,91,11,91,91,0.533,0.533
+E06000003,Redcar and Cleveland,North East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000003,Redcar and Cleveland,North East,E,2021Q4,92,0,0,92,0.0,0.0
+E06000004,Stockton-on-Tees,North East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000004,Stockton-on-Tees,North East,E,2020Q2,91,91,91,91,1.0,1.0
+E06000004,Stockton-on-Tees,North East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000004,Stockton-on-Tees,North East,E,2020Q4,92,57,92,92,0.7745,0.7745
+E06000004,Stockton-on-Tees,North East,E,2021Q1,90,90,90,90,1.0,1.0
+E06000004,Stockton-on-Tees,North East,E,2021Q2,91,11,91,91,0.533,0.533
+E06000004,Stockton-on-Tees,North East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000004,Stockton-on-Tees,North East,E,2021Q4,92,0,0,92,0.0,0.0
+E06000005,Darlington,North East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000005,Darlington,North East,E,2020Q2,91,91,91,91,1.0,1.0
+E06000005,Darlington,North East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000005,Darlington,North East,E,2020Q4,92,57,92,92,0.7745,0.7745
+E06000005,Darlington,North East,E,2021Q1,90,90,90,90,1.0,1.0
+E06000005,Darlington,North East,E,2021Q2,91,11,91,91,0.533,0.533
+E06000005,Darlington,North East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000005,Darlington,North East,E,2021Q4,92,0,0,92,0.0,0.0
+E06000006,Halton,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000006,Halton,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E06000006,Halton,North West,E,2020Q3,92,3,20,92,0.1033,0.1033
+E06000006,Halton,North West,E,2020Q4,92,28,92,92,0.6522,0.6522
+E06000006,Halton,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E06000006,Halton,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E06000006,Halton,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000006,Halton,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E06000007,Warrington,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000007,Warrington,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E06000007,Warrington,North West,E,2020Q3,92,3,20,92,0.1033,0.1033
+E06000007,Warrington,North West,E,2020Q4,92,33,92,92,0.6793,0.6793
+E06000007,Warrington,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E06000007,Warrington,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E06000007,Warrington,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000007,Warrington,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E06000008,Blackburn with Darwen,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000008,Blackburn with Darwen,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E06000008,Blackburn with Darwen,North West,E,2020Q3,92,3,64,92,0.3,0.3
+E06000008,Blackburn with Darwen,North West,E,2020Q4,92,57,92,92,0.8098,0.8098
+E06000008,Blackburn with Darwen,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E06000008,Blackburn with Darwen,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E06000008,Blackburn with Darwen,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000008,Blackburn with Darwen,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E06000009,Blackpool,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000009,Blackpool,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E06000009,Blackpool,North West,E,2020Q3,92,3,20,92,0.0924,0.0924
+E06000009,Blackpool,North West,E,2020Q4,92,57,92,92,0.8098,0.8098
+E06000009,Blackpool,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E06000009,Blackpool,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E06000009,Blackpool,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000009,Blackpool,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E06000010,"Kingston upon Hull, City of",Yorkshire and The Humber,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000010,"Kingston upon Hull, City of",Yorkshire and The Humber,E,2020Q2,91,91,91,91,1.0,1.0
+E06000010,"Kingston upon Hull, City of",Yorkshire and The Humber,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000010,"Kingston upon Hull, City of",Yorkshire and The Humber,E,2020Q4,92,57,92,92,0.7283,0.7283
+E06000010,"Kingston upon Hull, City of",Yorkshire and The Humber,E,2021Q1,90,90,90,90,1.0,1.0
+E06000010,"Kingston upon Hull, City of",Yorkshire and The Humber,E,2021Q2,91,11,91,91,0.533,0.533
+E06000010,"Kingston upon Hull, City of",Yorkshire and The Humber,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000010,"Kingston upon Hull, City of",Yorkshire and The Humber,E,2021Q4,92,0,0,92,0.0,0.0
+E06000011,East Riding of Yorkshire,Yorkshire and The Humber,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000011,East Riding of Yorkshire,Yorkshire and The Humber,E,2020Q2,91,91,91,91,1.0,1.0
+E06000011,East Riding of Yorkshire,Yorkshire and The Humber,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000011,East Riding of Yorkshire,Yorkshire and The Humber,E,2020Q4,92,57,92,92,0.7283,0.7283
+E06000011,East Riding of Yorkshire,Yorkshire and The Humber,E,2021Q1,90,90,90,90,1.0,1.0
+E06000011,East Riding of Yorkshire,Yorkshire and The Humber,E,2021Q2,91,11,91,91,0.533,0.533
+E06000011,East Riding of Yorkshire,Yorkshire and The Humber,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000011,East Riding of Yorkshire,Yorkshire and The Humber,E,2021Q4,92,0,0,92,0.0,0.0
+E06000012,North East Lincolnshire,Yorkshire and The Humber,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000012,North East Lincolnshire,Yorkshire and The Humber,E,2020Q2,91,91,91,91,1.0,1.0
+E06000012,North East Lincolnshire,Yorkshire and The Humber,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000012,North East Lincolnshire,Yorkshire and The Humber,E,2020Q4,92,57,92,92,0.7283,0.7283
+E06000012,North East Lincolnshire,Yorkshire and The Humber,E,2021Q1,90,90,90,90,1.0,1.0
+E06000012,North East Lincolnshire,Yorkshire and The Humber,E,2021Q2,91,11,91,91,0.533,0.533
+E06000012,North East Lincolnshire,Yorkshire and The Humber,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000012,North East Lincolnshire,Yorkshire and The Humber,E,2021Q4,92,0,0,92,0.0,0.0
+E06000013,North Lincolnshire,Yorkshire and The Humber,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000013,North Lincolnshire,Yorkshire and The Humber,E,2020Q2,91,91,91,91,1.0,1.0
+E06000013,North Lincolnshire,Yorkshire and The Humber,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000013,North Lincolnshire,Yorkshire and The Humber,E,2020Q4,92,57,92,92,0.7283,0.7283
+E06000013,North Lincolnshire,Yorkshire and The Humber,E,2021Q1,90,90,90,90,1.0,1.0
+E06000013,North Lincolnshire,Yorkshire and The Humber,E,2021Q2,91,11,91,91,0.533,0.533
+E06000013,North Lincolnshire,Yorkshire and The Humber,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000013,North Lincolnshire,Yorkshire and The Humber,E,2021Q4,92,0,0,92,0.0,0.0
+E06000014,York,Yorkshire and The Humber,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000014,York,Yorkshire and The Humber,E,2020Q2,91,91,91,91,1.0,1.0
+E06000014,York,Yorkshire and The Humber,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000014,York,Yorkshire and The Humber,E,2020Q4,92,28,92,92,0.6087,0.6087
+E06000014,York,Yorkshire and The Humber,E,2021Q1,90,90,90,90,1.0,1.0
+E06000014,York,Yorkshire and The Humber,E,2021Q2,91,11,91,91,0.533,0.533
+E06000014,York,Yorkshire and The Humber,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000014,York,Yorkshire and The Humber,E,2021Q4,92,0,0,92,0.0,0.0
+E06000015,Derby,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000015,Derby,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E06000015,Derby,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000015,Derby,East Midlands,E,2020Q4,92,57,92,92,0.7283,0.7283
+E06000015,Derby,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E06000015,Derby,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E06000015,Derby,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000015,Derby,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E06000016,Leicester,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000016,Leicester,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E06000016,Leicester,East Midlands,E,2020Q3,92,33,92,92,0.6793,0.6793
+E06000016,Leicester,East Midlands,E,2020Q4,92,57,92,92,0.8098,0.8098
+E06000016,Leicester,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E06000016,Leicester,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E06000016,Leicester,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000016,Leicester,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E06000017,Rutland,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000017,Rutland,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E06000017,Rutland,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000017,Rutland,East Midlands,E,2020Q4,92,28,92,92,0.5571,0.5571
+E06000017,Rutland,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E06000017,Rutland,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E06000017,Rutland,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000017,Rutland,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E06000018,Nottingham,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000018,Nottingham,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E06000018,Nottingham,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000018,Nottingham,East Midlands,E,2020Q4,92,57,92,92,0.7745,0.7745
+E06000018,Nottingham,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E06000018,Nottingham,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E06000018,Nottingham,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000018,Nottingham,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E06000019,"Herefordshire, County of",West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000019,"Herefordshire, County of",West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E06000019,"Herefordshire, County of",West Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000019,"Herefordshire, County of",West Midlands,E,2020Q4,92,28,92,92,0.538,0.538
+E06000019,"Herefordshire, County of",West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E06000019,"Herefordshire, County of",West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E06000019,"Herefordshire, County of",West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000019,"Herefordshire, County of",West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E06000020,Telford and Wrekin,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000020,Telford and Wrekin,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E06000020,Telford and Wrekin,West Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000020,Telford and Wrekin,West Midlands,E,2020Q4,92,28,92,92,0.5707,0.5707
+E06000020,Telford and Wrekin,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E06000020,Telford and Wrekin,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E06000020,Telford and Wrekin,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000020,Telford and Wrekin,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E06000021,Stoke-on-Trent,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000021,Stoke-on-Trent,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E06000021,Stoke-on-Trent,West Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000021,Stoke-on-Trent,West Midlands,E,2020Q4,92,57,92,92,0.7473,0.7473
+E06000021,Stoke-on-Trent,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E06000021,Stoke-on-Trent,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E06000021,Stoke-on-Trent,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000021,Stoke-on-Trent,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E06000022,Bath and North East Somerset,South West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000022,Bath and North East Somerset,South West,E,2020Q2,91,91,91,91,1.0,1.0
+E06000022,Bath and North East Somerset,South West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000022,Bath and North East Somerset,South West,E,2020Q4,92,28,92,92,0.5571,0.5571
+E06000022,Bath and North East Somerset,South West,E,2021Q1,90,90,90,90,1.0,1.0
+E06000022,Bath and North East Somerset,South West,E,2021Q2,91,11,91,91,0.533,0.533
+E06000022,Bath and North East Somerset,South West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000022,Bath and North East Somerset,South West,E,2021Q4,92,0,0,92,0.0,0.0
+E06000023,"Bristol, City of",South West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000023,"Bristol, City of",South West,E,2020Q2,91,91,91,91,1.0,1.0
+E06000023,"Bristol, City of",South West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000023,"Bristol, City of",South West,E,2020Q4,92,50,92,92,0.6766,0.6766
+E06000023,"Bristol, City of",South West,E,2021Q1,90,90,90,90,1.0,1.0
+E06000023,"Bristol, City of",South West,E,2021Q2,91,11,91,91,0.533,0.533
+E06000023,"Bristol, City of",South West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000023,"Bristol, City of",South West,E,2021Q4,92,0,0,92,0.0,0.0
+E06000024,North Somerset,South West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000024,North Somerset,South West,E,2020Q2,91,91,91,91,1.0,1.0
+E06000024,North Somerset,South West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000024,North Somerset,South West,E,2020Q4,92,50,92,92,0.6766,0.6766
+E06000024,North Somerset,South West,E,2021Q1,90,90,90,90,1.0,1.0
+E06000024,North Somerset,South West,E,2021Q2,91,11,91,91,0.533,0.533
+E06000024,North Somerset,South West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000024,North Somerset,South West,E,2021Q4,92,0,0,92,0.0,0.0
+E06000025,South Gloucestershire,South West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000025,South Gloucestershire,South West,E,2020Q2,91,91,91,91,1.0,1.0
+E06000025,South Gloucestershire,South West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000025,South Gloucestershire,South West,E,2020Q4,92,57,92,92,0.7147,0.7147
+E06000025,South Gloucestershire,South West,E,2021Q1,90,90,90,90,1.0,1.0
+E06000025,South Gloucestershire,South West,E,2021Q2,91,11,91,91,0.533,0.533
+E06000025,South Gloucestershire,South West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000025,South Gloucestershire,South West,E,2021Q4,92,0,0,92,0.0,0.0
+E06000026,Plymouth,South West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000026,Plymouth,South West,E,2020Q2,91,91,91,91,1.0,1.0
+E06000026,Plymouth,South West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000026,Plymouth,South West,E,2020Q4,92,28,92,92,0.5571,0.5571
+E06000026,Plymouth,South West,E,2021Q1,90,90,90,90,1.0,1.0
+E06000026,Plymouth,South West,E,2021Q2,91,11,91,91,0.533,0.533
+E06000026,Plymouth,South West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000026,Plymouth,South West,E,2021Q4,92,0,0,92,0.0,0.0
+E06000027,Torbay,South West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000027,Torbay,South West,E,2020Q2,91,91,91,91,1.0,1.0
+E06000027,Torbay,South West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000027,Torbay,South West,E,2020Q4,92,28,92,92,0.5571,0.5571
+E06000027,Torbay,South West,E,2021Q1,90,90,90,90,1.0,1.0
+E06000027,Torbay,South West,E,2021Q2,91,11,91,91,0.533,0.533
+E06000027,Torbay,South West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000027,Torbay,South West,E,2021Q4,92,0,0,92,0.0,0.0
+E06000030,Swindon,South West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000030,Swindon,South West,E,2020Q2,91,91,91,91,1.0,1.0
+E06000030,Swindon,South West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000030,Swindon,South West,E,2020Q4,92,33,92,92,0.5842,0.5842
+E06000030,Swindon,South West,E,2021Q1,90,90,90,90,1.0,1.0
+E06000030,Swindon,South West,E,2021Q2,91,11,91,91,0.533,0.533
+E06000030,Swindon,South West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000030,Swindon,South West,E,2021Q4,92,0,0,92,0.0,0.0
+E06000031,Peterborough,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000031,Peterborough,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E06000031,Peterborough,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000031,Peterborough,East of England,E,2020Q4,92,40,92,92,0.6223,0.6223
+E06000031,Peterborough,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E06000031,Peterborough,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E06000031,Peterborough,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000031,Peterborough,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E06000032,Luton,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000032,Luton,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E06000032,Luton,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000032,Luton,East of England,E,2020Q4,92,40,92,92,0.6359,0.6359
+E06000032,Luton,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E06000032,Luton,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E06000032,Luton,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000032,Luton,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E06000033,Southend-on-Sea,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000033,Southend-on-Sea,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E06000033,Southend-on-Sea,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000033,Southend-on-Sea,East of England,E,2020Q4,92,43,92,92,0.6386,0.6386
+E06000033,Southend-on-Sea,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E06000033,Southend-on-Sea,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E06000033,Southend-on-Sea,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000033,Southend-on-Sea,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E06000034,Thurrock,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000034,Thurrock,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E06000034,Thurrock,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000034,Thurrock,East of England,E,2020Q4,92,43,92,92,0.6386,0.6386
+E06000034,Thurrock,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E06000034,Thurrock,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E06000034,Thurrock,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000034,Thurrock,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E06000035,Medway,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000035,Medway,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E06000035,Medway,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000035,Medway,South East,E,2020Q4,92,57,92,92,0.7147,0.7147
+E06000035,Medway,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E06000035,Medway,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E06000035,Medway,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000035,Medway,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E06000036,Bracknell Forest,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000036,Bracknell Forest,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E06000036,Bracknell Forest,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000036,Bracknell Forest,South East,E,2020Q4,92,40,92,92,0.6223,0.6223
+E06000036,Bracknell Forest,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E06000036,Bracknell Forest,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E06000036,Bracknell Forest,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000036,Bracknell Forest,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E06000037,West Berkshire,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000037,West Berkshire,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E06000037,West Berkshire,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000037,West Berkshire,South East,E,2020Q4,92,40,92,92,0.6223,0.6223
+E06000037,West Berkshire,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E06000037,West Berkshire,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E06000037,West Berkshire,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000037,West Berkshire,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E06000038,Reading,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000038,Reading,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E06000038,Reading,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000038,Reading,South East,E,2020Q4,92,40,92,92,0.6223,0.6223
+E06000038,Reading,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E06000038,Reading,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E06000038,Reading,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000038,Reading,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E06000039,Slough,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000039,Slough,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E06000039,Slough,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000039,Slough,South East,E,2020Q4,92,57,92,92,0.7473,0.7473
+E06000039,Slough,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E06000039,Slough,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E06000039,Slough,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000039,Slough,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E06000040,Windsor and Maidenhead,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000040,Windsor and Maidenhead,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E06000040,Windsor and Maidenhead,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000040,Windsor and Maidenhead,South East,E,2020Q4,92,40,92,92,0.6223,0.6223
+E06000040,Windsor and Maidenhead,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E06000040,Windsor and Maidenhead,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E06000040,Windsor and Maidenhead,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000040,Windsor and Maidenhead,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E06000041,Wokingham,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000041,Wokingham,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E06000041,Wokingham,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000041,Wokingham,South East,E,2020Q4,92,40,92,92,0.6223,0.6223
+E06000041,Wokingham,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E06000041,Wokingham,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E06000041,Wokingham,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000041,Wokingham,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E06000042,Milton Keynes,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000042,Milton Keynes,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E06000042,Milton Keynes,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000042,Milton Keynes,South East,E,2020Q4,92,40,92,92,0.6223,0.6223
+E06000042,Milton Keynes,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E06000042,Milton Keynes,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E06000042,Milton Keynes,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000042,Milton Keynes,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E06000043,Brighton and Hove,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000043,Brighton and Hove,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E06000043,Brighton and Hove,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000043,Brighton and Hove,South East,E,2020Q4,92,33,92,92,0.5842,0.5842
+E06000043,Brighton and Hove,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E06000043,Brighton and Hove,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E06000043,Brighton and Hove,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000043,Brighton and Hove,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E06000044,Portsmouth,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000044,Portsmouth,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E06000044,Portsmouth,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000044,Portsmouth,South East,E,2020Q4,92,40,92,92,0.6223,0.6223
+E06000044,Portsmouth,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E06000044,Portsmouth,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E06000044,Portsmouth,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000044,Portsmouth,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E06000045,Southampton,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000045,Southampton,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E06000045,Southampton,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000045,Southampton,South East,E,2020Q4,92,33,92,92,0.5842,0.5842
+E06000045,Southampton,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E06000045,Southampton,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E06000045,Southampton,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000045,Southampton,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E06000046,Isle of Wight,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000046,Isle of Wight,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E06000046,Isle of Wight,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000046,Isle of Wight,South East,E,2020Q4,92,33,92,92,0.519,0.519
+E06000046,Isle of Wight,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E06000046,Isle of Wight,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E06000046,Isle of Wight,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000046,Isle of Wight,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E06000047,County Durham,North East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000047,County Durham,North East,E,2020Q2,91,91,91,91,1.0,1.0
+E06000047,County Durham,North East,E,2020Q3,92,3,20,92,0.1141,0.1141
+E06000047,County Durham,North East,E,2020Q4,92,57,92,92,0.8098,0.8098
+E06000047,County Durham,North East,E,2021Q1,90,90,90,90,1.0,1.0
+E06000047,County Durham,North East,E,2021Q2,91,11,91,91,0.533,0.533
+E06000047,County Durham,North East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000047,County Durham,North East,E,2021Q4,92,0,0,92,0.0,0.0
+E06000049,Cheshire East,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000049,Cheshire East,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E06000049,Cheshire East,North West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000049,Cheshire East,North West,E,2020Q4,92,33,92,92,0.644,0.644
+E06000049,Cheshire East,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E06000049,Cheshire East,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E06000049,Cheshire East,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000049,Cheshire East,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E06000050,Cheshire West and Chester,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000050,Cheshire West and Chester,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E06000050,Cheshire West and Chester,North West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000050,Cheshire West and Chester,North West,E,2020Q4,92,33,92,92,0.644,0.644
+E06000050,Cheshire West and Chester,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E06000050,Cheshire West and Chester,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E06000050,Cheshire West and Chester,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000050,Cheshire West and Chester,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E06000051,Shropshire,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000051,Shropshire,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E06000051,Shropshire,West Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000051,Shropshire,West Midlands,E,2020Q4,92,28,92,92,0.5571,0.5571
+E06000051,Shropshire,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E06000051,Shropshire,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E06000051,Shropshire,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000051,Shropshire,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E06000052,Cornwall,South West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000052,Cornwall,South West,E,2020Q2,91,91,91,91,1.0,1.0
+E06000052,Cornwall,South West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000052,Cornwall,South West,E,2020Q4,92,28,92,92,0.4918,0.4918
+E06000052,Cornwall,South West,E,2021Q1,90,90,90,90,1.0,1.0
+E06000052,Cornwall,South West,E,2021Q2,91,11,91,91,0.533,0.533
+E06000052,Cornwall,South West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000052,Cornwall,South West,E,2021Q4,92,0,0,92,0.0,0.0
+E06000053,Isles of Scilly,South West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000053,Isles of Scilly,South West,E,2020Q2,91,91,91,91,1.0,1.0
+E06000053,Isles of Scilly,South West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000053,Isles of Scilly,South West,E,2020Q4,92,27,92,92,0.4701,0.4701
+E06000053,Isles of Scilly,South West,E,2021Q1,90,85,90,90,0.9583,0.9583
+E06000053,Isles of Scilly,South West,E,2021Q2,91,11,91,91,0.533,0.533
+E06000053,Isles of Scilly,South West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000053,Isles of Scilly,South West,E,2021Q4,92,0,0,92,0.0,0.0
+E06000054,Wiltshire,South West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000054,Wiltshire,South West,E,2020Q2,91,91,91,91,1.0,1.0
+E06000054,Wiltshire,South West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000054,Wiltshire,South West,E,2020Q4,92,28,92,92,0.5571,0.5571
+E06000054,Wiltshire,South West,E,2021Q1,90,90,90,90,1.0,1.0
+E06000054,Wiltshire,South West,E,2021Q2,91,11,91,91,0.533,0.533
+E06000054,Wiltshire,South West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000054,Wiltshire,South West,E,2021Q4,92,0,0,92,0.0,0.0
+E06000055,Bedford,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000055,Bedford,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E06000055,Bedford,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000055,Bedford,East of England,E,2020Q4,92,40,92,92,0.6223,0.6223
+E06000055,Bedford,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E06000055,Bedford,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E06000055,Bedford,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000055,Bedford,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E06000056,Central Bedfordshire,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000056,Central Bedfordshire,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E06000056,Central Bedfordshire,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000056,Central Bedfordshire,East of England,E,2020Q4,92,40,92,92,0.6223,0.6223
+E06000056,Central Bedfordshire,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E06000056,Central Bedfordshire,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E06000056,Central Bedfordshire,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000056,Central Bedfordshire,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E06000057,Northumberland,North East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000057,Northumberland,North East,E,2020Q2,91,91,91,91,1.0,1.0
+E06000057,Northumberland,North East,E,2020Q3,92,3,20,92,0.1141,0.1141
+E06000057,Northumberland,North East,E,2020Q4,92,57,92,92,0.8098,0.8098
+E06000057,Northumberland,North East,E,2021Q1,90,90,90,90,1.0,1.0
+E06000057,Northumberland,North East,E,2021Q2,91,11,91,91,0.533,0.533
+E06000057,Northumberland,North East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000057,Northumberland,North East,E,2021Q4,92,0,0,92,0.0,0.0
+E06000058,"Bournemouth, Christchurch and Poole",South West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000058,"Bournemouth, Christchurch and Poole",South West,E,2020Q2,91,91,91,91,1.0,1.0
+E06000058,"Bournemouth, Christchurch and Poole",South West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000058,"Bournemouth, Christchurch and Poole",South West,E,2020Q4,92,28,92,92,0.5571,0.5571
+E06000058,"Bournemouth, Christchurch and Poole",South West,E,2021Q1,90,90,90,90,1.0,1.0
+E06000058,"Bournemouth, Christchurch and Poole",South West,E,2021Q2,91,11,91,91,0.533,0.533
+E06000058,"Bournemouth, Christchurch and Poole",South West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000058,"Bournemouth, Christchurch and Poole",South West,E,2021Q4,92,0,0,92,0.0,0.0
+E06000059,Dorset,South West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000059,Dorset,South West,E,2020Q2,91,91,91,91,1.0,1.0
+E06000059,Dorset,South West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000059,Dorset,South West,E,2020Q4,92,28,92,92,0.5571,0.5571
+E06000059,Dorset,South West,E,2021Q1,90,90,90,90,1.0,1.0
+E06000059,Dorset,South West,E,2021Q2,91,11,91,91,0.533,0.533
+E06000059,Dorset,South West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000059,Dorset,South West,E,2021Q4,92,0,0,92,0.0,0.0
+E06000060,Buckinghamshire,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000060,Buckinghamshire,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E06000060,Buckinghamshire,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000060,Buckinghamshire,South East,E,2020Q4,92,40,92,92,0.6223,0.6223
+E06000060,Buckinghamshire,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E06000060,Buckinghamshire,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E06000060,Buckinghamshire,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000060,Buckinghamshire,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E06000061,North Northamptonshire,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000061,North Northamptonshire,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E06000061,North Northamptonshire,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000061,North Northamptonshire,East Midlands,E,2020Q4,92,33,92,92,0.5842,0.5842
+E06000061,North Northamptonshire,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E06000061,North Northamptonshire,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E06000061,North Northamptonshire,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000061,North Northamptonshire,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E06000062,West Northamptonshire,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000062,West Northamptonshire,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E06000062,West Northamptonshire,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000062,West Northamptonshire,East Midlands,E,2020Q4,92,33,92,92,0.5842,0.5842
+E06000062,West Northamptonshire,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E06000062,West Northamptonshire,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E06000062,West Northamptonshire,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000062,West Northamptonshire,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E06000063,Cumberland,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000063,Cumberland,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E06000063,Cumberland,North West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000063,Cumberland,North West,E,2020Q4,92,28,92,92,0.5624,0.5624
+E06000063,Cumberland,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E06000063,Cumberland,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E06000063,Cumberland,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000063,Cumberland,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E06000064,Westmorland and Furness,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000064,Westmorland and Furness,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E06000064,Westmorland and Furness,North West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000064,Westmorland and Furness,North West,E,2020Q4,92,28,92,92,0.5724,0.5724
+E06000064,Westmorland and Furness,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E06000064,Westmorland and Furness,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E06000064,Westmorland and Furness,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000064,Westmorland and Furness,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E06000065,North Yorkshire Council,Yorkshire and The Humber,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000065,North Yorkshire Council,Yorkshire and The Humber,E,2020Q2,91,91,91,91,1.0,1.0
+E06000065,North Yorkshire Council,Yorkshire and The Humber,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000065,North Yorkshire Council,Yorkshire and The Humber,E,2020Q4,92,28,92,92,0.5571,0.5571
+E06000065,North Yorkshire Council,Yorkshire and The Humber,E,2021Q1,90,90,90,90,1.0,1.0
+E06000065,North Yorkshire Council,Yorkshire and The Humber,E,2021Q2,91,11,91,91,0.533,0.533
+E06000065,North Yorkshire Council,Yorkshire and The Humber,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000065,North Yorkshire Council,Yorkshire and The Humber,E,2021Q4,92,0,0,92,0.0,0.0
+E06000066,Somerset Council,South West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E06000066,Somerset Council,South West,E,2020Q2,91,91,91,91,1.0,1.0
+E06000066,Somerset Council,South West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E06000066,Somerset Council,South West,E,2020Q4,92,33,92,92,0.5842,0.5842
+E06000066,Somerset Council,South West,E,2021Q1,90,90,90,90,1.0,1.0
+E06000066,Somerset Council,South West,E,2021Q2,91,11,91,91,0.533,0.533
+E06000066,Somerset Council,South West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E06000066,Somerset Council,South West,E,2021Q4,92,0,0,92,0.0,0.0
+E07000008,Cambridge,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000008,Cambridge,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000008,Cambridge,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000008,Cambridge,East of England,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000008,Cambridge,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000008,Cambridge,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000008,Cambridge,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000008,Cambridge,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000009,East Cambridgeshire,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000009,East Cambridgeshire,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000009,East Cambridgeshire,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000009,East Cambridgeshire,East of England,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000009,East Cambridgeshire,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000009,East Cambridgeshire,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000009,East Cambridgeshire,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000009,East Cambridgeshire,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000010,Fenland,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000010,Fenland,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000010,Fenland,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000010,Fenland,East of England,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000010,Fenland,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000010,Fenland,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000010,Fenland,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000010,Fenland,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000011,Huntingdonshire,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000011,Huntingdonshire,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000011,Huntingdonshire,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000011,Huntingdonshire,East of England,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000011,Huntingdonshire,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000011,Huntingdonshire,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000011,Huntingdonshire,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000011,Huntingdonshire,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000012,South Cambridgeshire,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000012,South Cambridgeshire,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000012,South Cambridgeshire,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000012,South Cambridgeshire,East of England,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000012,South Cambridgeshire,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000012,South Cambridgeshire,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000012,South Cambridgeshire,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000012,South Cambridgeshire,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000032,Amber Valley,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000032,Amber Valley,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000032,Amber Valley,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000032,Amber Valley,East Midlands,E,2020Q4,92,57,92,92,0.7283,0.7283
+E07000032,Amber Valley,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000032,Amber Valley,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000032,Amber Valley,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000032,Amber Valley,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000033,Bolsover,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000033,Bolsover,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000033,Bolsover,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000033,Bolsover,East Midlands,E,2020Q4,92,57,92,92,0.7283,0.7283
+E07000033,Bolsover,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000033,Bolsover,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000033,Bolsover,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000033,Bolsover,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000034,Chesterfield,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000034,Chesterfield,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000034,Chesterfield,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000034,Chesterfield,East Midlands,E,2020Q4,92,57,92,92,0.7663,0.7663
+E07000034,Chesterfield,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000034,Chesterfield,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000034,Chesterfield,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000034,Chesterfield,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000035,Derbyshire Dales,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000035,Derbyshire Dales,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000035,Derbyshire Dales,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000035,Derbyshire Dales,East Midlands,E,2020Q4,92,57,92,92,0.7283,0.7283
+E07000035,Derbyshire Dales,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000035,Derbyshire Dales,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000035,Derbyshire Dales,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000035,Derbyshire Dales,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000036,Erewash,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000036,Erewash,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000036,Erewash,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000036,Erewash,East Midlands,E,2020Q4,92,57,92,92,0.7663,0.7663
+E07000036,Erewash,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000036,Erewash,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000036,Erewash,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000036,Erewash,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000037,High Peak,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000037,High Peak,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000037,High Peak,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000037,High Peak,East Midlands,E,2020Q4,92,57,92,92,0.745,0.745
+E07000037,High Peak,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000037,High Peak,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000037,High Peak,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000037,High Peak,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000038,North East Derbyshire,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000038,North East Derbyshire,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000038,North East Derbyshire,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000038,North East Derbyshire,East Midlands,E,2020Q4,92,57,92,92,0.7663,0.7663
+E07000038,North East Derbyshire,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000038,North East Derbyshire,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000038,North East Derbyshire,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000038,North East Derbyshire,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000039,South Derbyshire,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000039,South Derbyshire,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000039,South Derbyshire,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000039,South Derbyshire,East Midlands,E,2020Q4,92,57,92,92,0.7283,0.7283
+E07000039,South Derbyshire,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000039,South Derbyshire,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000039,South Derbyshire,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000039,South Derbyshire,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000040,East Devon,South West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000040,East Devon,South West,E,2020Q2,91,91,91,91,1.0,1.0
+E07000040,East Devon,South West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000040,East Devon,South West,E,2020Q4,92,28,92,92,0.5571,0.5571
+E07000040,East Devon,South West,E,2021Q1,90,90,90,90,1.0,1.0
+E07000040,East Devon,South West,E,2021Q2,91,11,91,91,0.533,0.533
+E07000040,East Devon,South West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000040,East Devon,South West,E,2021Q4,92,0,0,92,0.0,0.0
+E07000041,Exeter,South West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000041,Exeter,South West,E,2020Q2,91,91,91,91,1.0,1.0
+E07000041,Exeter,South West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000041,Exeter,South West,E,2020Q4,92,28,92,92,0.5571,0.5571
+E07000041,Exeter,South West,E,2021Q1,90,90,90,90,1.0,1.0
+E07000041,Exeter,South West,E,2021Q2,91,11,91,91,0.533,0.533
+E07000041,Exeter,South West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000041,Exeter,South West,E,2021Q4,92,0,0,92,0.0,0.0
+E07000042,Mid Devon,South West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000042,Mid Devon,South West,E,2020Q2,91,91,91,91,1.0,1.0
+E07000042,Mid Devon,South West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000042,Mid Devon,South West,E,2020Q4,92,28,92,92,0.5571,0.5571
+E07000042,Mid Devon,South West,E,2021Q1,90,90,90,90,1.0,1.0
+E07000042,Mid Devon,South West,E,2021Q2,91,11,91,91,0.533,0.533
+E07000042,Mid Devon,South West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000042,Mid Devon,South West,E,2021Q4,92,0,0,92,0.0,0.0
+E07000043,North Devon,South West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000043,North Devon,South West,E,2020Q2,91,91,91,91,1.0,1.0
+E07000043,North Devon,South West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000043,North Devon,South West,E,2020Q4,92,28,92,92,0.5571,0.5571
+E07000043,North Devon,South West,E,2021Q1,90,90,90,90,1.0,1.0
+E07000043,North Devon,South West,E,2021Q2,91,11,91,91,0.533,0.533
+E07000043,North Devon,South West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000043,North Devon,South West,E,2021Q4,92,0,0,92,0.0,0.0
+E07000044,South Hams,South West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000044,South Hams,South West,E,2020Q2,91,91,91,91,1.0,1.0
+E07000044,South Hams,South West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000044,South Hams,South West,E,2020Q4,92,28,92,92,0.5571,0.5571
+E07000044,South Hams,South West,E,2021Q1,90,90,90,90,1.0,1.0
+E07000044,South Hams,South West,E,2021Q2,91,11,91,91,0.533,0.533
+E07000044,South Hams,South West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000044,South Hams,South West,E,2021Q4,92,0,0,92,0.0,0.0
+E07000045,Teignbridge,South West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000045,Teignbridge,South West,E,2020Q2,91,91,91,91,1.0,1.0
+E07000045,Teignbridge,South West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000045,Teignbridge,South West,E,2020Q4,92,28,92,92,0.5571,0.5571
+E07000045,Teignbridge,South West,E,2021Q1,90,90,90,90,1.0,1.0
+E07000045,Teignbridge,South West,E,2021Q2,91,11,91,91,0.533,0.533
+E07000045,Teignbridge,South West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000045,Teignbridge,South West,E,2021Q4,92,0,0,92,0.0,0.0
+E07000046,Torridge,South West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000046,Torridge,South West,E,2020Q2,91,91,91,91,1.0,1.0
+E07000046,Torridge,South West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000046,Torridge,South West,E,2020Q4,92,28,92,92,0.5571,0.5571
+E07000046,Torridge,South West,E,2021Q1,90,90,90,90,1.0,1.0
+E07000046,Torridge,South West,E,2021Q2,91,11,91,91,0.533,0.533
+E07000046,Torridge,South West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000046,Torridge,South West,E,2021Q4,92,0,0,92,0.0,0.0
+E07000047,West Devon,South West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000047,West Devon,South West,E,2020Q2,91,91,91,91,1.0,1.0
+E07000047,West Devon,South West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000047,West Devon,South West,E,2020Q4,92,28,92,92,0.5571,0.5571
+E07000047,West Devon,South West,E,2021Q1,90,90,90,90,1.0,1.0
+E07000047,West Devon,South West,E,2021Q2,91,11,91,91,0.533,0.533
+E07000047,West Devon,South West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000047,West Devon,South West,E,2021Q4,92,0,0,92,0.0,0.0
+E07000061,Eastbourne,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000061,Eastbourne,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000061,Eastbourne,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000061,Eastbourne,South East,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000061,Eastbourne,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000061,Eastbourne,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000061,Eastbourne,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000061,Eastbourne,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000062,Hastings,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000062,Hastings,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000062,Hastings,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000062,Hastings,South East,E,2020Q4,92,40,92,92,0.6223,0.6223
+E07000062,Hastings,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000062,Hastings,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000062,Hastings,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000062,Hastings,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000063,Lewes,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000063,Lewes,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000063,Lewes,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000063,Lewes,South East,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000063,Lewes,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000063,Lewes,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000063,Lewes,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000063,Lewes,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000064,Rother,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000064,Rother,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000064,Rother,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000064,Rother,South East,E,2020Q4,92,40,92,92,0.6223,0.6223
+E07000064,Rother,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000064,Rother,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000064,Rother,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000064,Rother,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000065,Wealden,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000065,Wealden,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000065,Wealden,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000065,Wealden,South East,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000065,Wealden,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000065,Wealden,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000065,Wealden,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000065,Wealden,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000066,Basildon,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000066,Basildon,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000066,Basildon,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000066,Basildon,East of England,E,2020Q4,92,43,92,92,0.6902,0.6902
+E07000066,Basildon,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000066,Basildon,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000066,Basildon,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000066,Basildon,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000067,Braintree,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000067,Braintree,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000067,Braintree,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000067,Braintree,East of England,E,2020Q4,92,43,92,92,0.6902,0.6902
+E07000067,Braintree,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000067,Braintree,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000067,Braintree,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000067,Braintree,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000068,Brentwood,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000068,Brentwood,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000068,Brentwood,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000068,Brentwood,East of England,E,2020Q4,92,43,92,92,0.6902,0.6902
+E07000068,Brentwood,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000068,Brentwood,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000068,Brentwood,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000068,Brentwood,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000069,Castle Point,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000069,Castle Point,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000069,Castle Point,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000069,Castle Point,East of England,E,2020Q4,92,43,92,92,0.6902,0.6902
+E07000069,Castle Point,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000069,Castle Point,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000069,Castle Point,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000069,Castle Point,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000070,Chelmsford,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000070,Chelmsford,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000070,Chelmsford,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000070,Chelmsford,East of England,E,2020Q4,92,43,92,92,0.6902,0.6902
+E07000070,Chelmsford,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000070,Chelmsford,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000070,Chelmsford,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000070,Chelmsford,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000071,Colchester,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000071,Colchester,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000071,Colchester,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000071,Colchester,East of England,E,2020Q4,92,33,92,92,0.6359,0.6359
+E07000071,Colchester,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000071,Colchester,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000071,Colchester,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000071,Colchester,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000072,Epping Forest,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000072,Epping Forest,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000072,Epping Forest,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000072,Epping Forest,East of England,E,2020Q4,92,43,92,92,0.6902,0.6902
+E07000072,Epping Forest,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000072,Epping Forest,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000072,Epping Forest,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000072,Epping Forest,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000073,Harlow,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000073,Harlow,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000073,Harlow,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000073,Harlow,East of England,E,2020Q4,92,43,92,92,0.6902,0.6902
+E07000073,Harlow,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000073,Harlow,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000073,Harlow,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000073,Harlow,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000074,Maldon,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000074,Maldon,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000074,Maldon,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000074,Maldon,East of England,E,2020Q4,92,43,92,92,0.6902,0.6902
+E07000074,Maldon,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000074,Maldon,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000074,Maldon,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000074,Maldon,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000075,Rochford,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000075,Rochford,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000075,Rochford,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000075,Rochford,East of England,E,2020Q4,92,43,92,92,0.6902,0.6902
+E07000075,Rochford,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000075,Rochford,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000075,Rochford,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000075,Rochford,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000076,Tendring,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000076,Tendring,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000076,Tendring,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000076,Tendring,East of England,E,2020Q4,92,33,92,92,0.6359,0.6359
+E07000076,Tendring,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000076,Tendring,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000076,Tendring,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000076,Tendring,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000077,Uttlesford,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000077,Uttlesford,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000077,Uttlesford,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000077,Uttlesford,East of England,E,2020Q4,92,33,92,92,0.6359,0.6359
+E07000077,Uttlesford,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000077,Uttlesford,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000077,Uttlesford,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000077,Uttlesford,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000078,Cheltenham,South West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000078,Cheltenham,South West,E,2020Q2,91,91,91,91,1.0,1.0
+E07000078,Cheltenham,South West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000078,Cheltenham,South West,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000078,Cheltenham,South West,E,2021Q1,90,90,90,90,1.0,1.0
+E07000078,Cheltenham,South West,E,2021Q2,91,11,91,91,0.533,0.533
+E07000078,Cheltenham,South West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000078,Cheltenham,South West,E,2021Q4,92,0,0,92,0.0,0.0
+E07000079,Cotswold,South West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000079,Cotswold,South West,E,2020Q2,91,91,91,91,1.0,1.0
+E07000079,Cotswold,South West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000079,Cotswold,South West,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000079,Cotswold,South West,E,2021Q1,90,90,90,90,1.0,1.0
+E07000079,Cotswold,South West,E,2021Q2,91,11,91,91,0.533,0.533
+E07000079,Cotswold,South West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000079,Cotswold,South West,E,2021Q4,92,0,0,92,0.0,0.0
+E07000080,Forest of Dean,South West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000080,Forest of Dean,South West,E,2020Q2,91,91,91,91,1.0,1.0
+E07000080,Forest of Dean,South West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000080,Forest of Dean,South West,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000080,Forest of Dean,South West,E,2021Q1,90,90,90,90,1.0,1.0
+E07000080,Forest of Dean,South West,E,2021Q2,91,11,91,91,0.533,0.533
+E07000080,Forest of Dean,South West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000080,Forest of Dean,South West,E,2021Q4,92,0,0,92,0.0,0.0
+E07000081,Gloucester,South West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000081,Gloucester,South West,E,2020Q2,91,91,91,91,1.0,1.0
+E07000081,Gloucester,South West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000081,Gloucester,South West,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000081,Gloucester,South West,E,2021Q1,90,90,90,90,1.0,1.0
+E07000081,Gloucester,South West,E,2021Q2,91,11,91,91,0.533,0.533
+E07000081,Gloucester,South West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000081,Gloucester,South West,E,2021Q4,92,0,0,92,0.0,0.0
+E07000082,Stroud,South West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000082,Stroud,South West,E,2020Q2,91,91,91,91,1.0,1.0
+E07000082,Stroud,South West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000082,Stroud,South West,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000082,Stroud,South West,E,2021Q1,90,90,90,90,1.0,1.0
+E07000082,Stroud,South West,E,2021Q2,91,11,91,91,0.533,0.533
+E07000082,Stroud,South West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000082,Stroud,South West,E,2021Q4,92,0,0,92,0.0,0.0
+E07000083,Tewkesbury,South West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000083,Tewkesbury,South West,E,2020Q2,91,91,91,91,1.0,1.0
+E07000083,Tewkesbury,South West,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000083,Tewkesbury,South West,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000083,Tewkesbury,South West,E,2021Q1,90,90,90,90,1.0,1.0
+E07000083,Tewkesbury,South West,E,2021Q2,91,11,91,91,0.533,0.533
+E07000083,Tewkesbury,South West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000083,Tewkesbury,South West,E,2021Q4,92,0,0,92,0.0,0.0
+E07000084,Basingstoke and Deane,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000084,Basingstoke and Deane,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000084,Basingstoke and Deane,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000084,Basingstoke and Deane,South East,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000084,Basingstoke and Deane,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000084,Basingstoke and Deane,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000084,Basingstoke and Deane,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000084,Basingstoke and Deane,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000085,East Hampshire,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000085,East Hampshire,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000085,East Hampshire,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000085,East Hampshire,South East,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000085,East Hampshire,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000085,East Hampshire,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000085,East Hampshire,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000085,East Hampshire,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000086,Eastleigh,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000086,Eastleigh,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000086,Eastleigh,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000086,Eastleigh,South East,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000086,Eastleigh,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000086,Eastleigh,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000086,Eastleigh,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000086,Eastleigh,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000087,Fareham,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000087,Fareham,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000087,Fareham,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000087,Fareham,South East,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000087,Fareham,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000087,Fareham,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000087,Fareham,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000087,Fareham,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000088,Gosport,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000088,Gosport,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000088,Gosport,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000088,Gosport,South East,E,2020Q4,92,40,92,92,0.6223,0.6223
+E07000088,Gosport,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000088,Gosport,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000088,Gosport,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000088,Gosport,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000089,Hart,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000089,Hart,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000089,Hart,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000089,Hart,South East,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000089,Hart,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000089,Hart,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000089,Hart,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000089,Hart,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000090,Havant,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000090,Havant,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000090,Havant,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000090,Havant,South East,E,2020Q4,92,40,92,92,0.6223,0.6223
+E07000090,Havant,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000090,Havant,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000090,Havant,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000090,Havant,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000091,New Forest,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000091,New Forest,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000091,New Forest,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000091,New Forest,South East,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000091,New Forest,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000091,New Forest,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000091,New Forest,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000091,New Forest,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000092,Rushmoor,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000092,Rushmoor,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000092,Rushmoor,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000092,Rushmoor,South East,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000092,Rushmoor,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000092,Rushmoor,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000092,Rushmoor,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000092,Rushmoor,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000093,Test Valley,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000093,Test Valley,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000093,Test Valley,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000093,Test Valley,South East,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000093,Test Valley,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000093,Test Valley,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000093,Test Valley,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000093,Test Valley,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000094,Winchester,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000094,Winchester,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000094,Winchester,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000094,Winchester,South East,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000094,Winchester,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000094,Winchester,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000094,Winchester,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000094,Winchester,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000095,Broxbourne,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000095,Broxbourne,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000095,Broxbourne,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000095,Broxbourne,East of England,E,2020Q4,92,43,92,92,0.6386,0.6386
+E07000095,Broxbourne,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000095,Broxbourne,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000095,Broxbourne,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000095,Broxbourne,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000096,Dacorum,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000096,Dacorum,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000096,Dacorum,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000096,Dacorum,East of England,E,2020Q4,92,40,92,92,0.6223,0.6223
+E07000096,Dacorum,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000096,Dacorum,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000096,Dacorum,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000096,Dacorum,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000098,Hertsmere,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000098,Hertsmere,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000098,Hertsmere,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000098,Hertsmere,East of England,E,2020Q4,92,43,92,92,0.6386,0.6386
+E07000098,Hertsmere,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000098,Hertsmere,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000098,Hertsmere,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000098,Hertsmere,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000099,North Hertfordshire,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000099,North Hertfordshire,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000099,North Hertfordshire,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000099,North Hertfordshire,East of England,E,2020Q4,92,40,92,92,0.6223,0.6223
+E07000099,North Hertfordshire,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000099,North Hertfordshire,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000099,North Hertfordshire,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000099,North Hertfordshire,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000102,Three Rivers,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000102,Three Rivers,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000102,Three Rivers,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000102,Three Rivers,East of England,E,2020Q4,92,43,92,92,0.6386,0.6386
+E07000102,Three Rivers,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000102,Three Rivers,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000102,Three Rivers,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000102,Three Rivers,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000103,Watford,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000103,Watford,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000103,Watford,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000103,Watford,East of England,E,2020Q4,92,43,92,92,0.6386,0.6386
+E07000103,Watford,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000103,Watford,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000103,Watford,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000103,Watford,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000105,Ashford,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000105,Ashford,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000105,Ashford,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000105,Ashford,South East,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000105,Ashford,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000105,Ashford,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000105,Ashford,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000105,Ashford,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000106,Canterbury,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000106,Canterbury,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000106,Canterbury,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000106,Canterbury,South East,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000106,Canterbury,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000106,Canterbury,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000106,Canterbury,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000106,Canterbury,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000107,Dartford,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000107,Dartford,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000107,Dartford,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000107,Dartford,South East,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000107,Dartford,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000107,Dartford,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000107,Dartford,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000107,Dartford,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000108,Dover,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000108,Dover,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000108,Dover,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000108,Dover,South East,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000108,Dover,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000108,Dover,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000108,Dover,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000108,Dover,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000109,Gravesham,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000109,Gravesham,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000109,Gravesham,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000109,Gravesham,South East,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000109,Gravesham,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000109,Gravesham,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000109,Gravesham,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000109,Gravesham,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000110,Maidstone,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000110,Maidstone,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000110,Maidstone,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000110,Maidstone,South East,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000110,Maidstone,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000110,Maidstone,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000110,Maidstone,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000110,Maidstone,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000111,Sevenoaks,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000111,Sevenoaks,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000111,Sevenoaks,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000111,Sevenoaks,South East,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000111,Sevenoaks,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000111,Sevenoaks,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000111,Sevenoaks,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000111,Sevenoaks,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000112,Folkestone and Hythe,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000112,Folkestone and Hythe,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000112,Folkestone and Hythe,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000112,Folkestone and Hythe,South East,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000112,Folkestone and Hythe,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000112,Folkestone and Hythe,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000112,Folkestone and Hythe,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000112,Folkestone and Hythe,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000113,Swale,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000113,Swale,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000113,Swale,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000113,Swale,South East,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000113,Swale,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000113,Swale,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000113,Swale,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000113,Swale,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000114,Thanet,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000114,Thanet,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000114,Thanet,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000114,Thanet,South East,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000114,Thanet,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000114,Thanet,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000114,Thanet,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000114,Thanet,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000115,Tonbridge and Malling,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000115,Tonbridge and Malling,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000115,Tonbridge and Malling,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000115,Tonbridge and Malling,South East,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000115,Tonbridge and Malling,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000115,Tonbridge and Malling,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000115,Tonbridge and Malling,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000115,Tonbridge and Malling,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000116,Tunbridge Wells,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000116,Tunbridge Wells,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000116,Tunbridge Wells,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000116,Tunbridge Wells,South East,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000116,Tunbridge Wells,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000116,Tunbridge Wells,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000116,Tunbridge Wells,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000116,Tunbridge Wells,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000117,Burnley,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000117,Burnley,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E07000117,Burnley,North West,E,2020Q3,92,3,48,92,0.2554,0.2554
+E07000117,Burnley,North West,E,2020Q4,92,57,92,92,0.8098,0.8098
+E07000117,Burnley,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E07000117,Burnley,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E07000117,Burnley,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000117,Burnley,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E07000118,Chorley,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000118,Chorley,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E07000118,Chorley,North West,E,2020Q3,92,3,20,92,0.1033,0.1033
+E07000118,Chorley,North West,E,2020Q4,92,57,92,92,0.8098,0.8098
+E07000118,Chorley,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E07000118,Chorley,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E07000118,Chorley,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000118,Chorley,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E07000119,Fylde,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000119,Fylde,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E07000119,Fylde,North West,E,2020Q3,92,3,20,92,0.1033,0.1033
+E07000119,Fylde,North West,E,2020Q4,92,57,92,92,0.8098,0.8098
+E07000119,Fylde,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E07000119,Fylde,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E07000119,Fylde,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000119,Fylde,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E07000120,Hyndburn,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000120,Hyndburn,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E07000120,Hyndburn,North West,E,2020Q3,92,3,48,92,0.2554,0.2554
+E07000120,Hyndburn,North West,E,2020Q4,92,57,92,92,0.8098,0.8098
+E07000120,Hyndburn,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E07000120,Hyndburn,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E07000120,Hyndburn,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000120,Hyndburn,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E07000121,Lancaster,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000121,Lancaster,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E07000121,Lancaster,North West,E,2020Q3,92,3,20,92,0.1033,0.1033
+E07000121,Lancaster,North West,E,2020Q4,92,57,92,92,0.8098,0.8098
+E07000121,Lancaster,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E07000121,Lancaster,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E07000121,Lancaster,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000121,Lancaster,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E07000122,Pendle,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000122,Pendle,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E07000122,Pendle,North West,E,2020Q3,92,3,60,92,0.3424,0.3424
+E07000122,Pendle,North West,E,2020Q4,92,57,92,92,0.8098,0.8098
+E07000122,Pendle,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E07000122,Pendle,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E07000122,Pendle,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000122,Pendle,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E07000123,Preston,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000123,Preston,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E07000123,Preston,North West,E,2020Q3,92,3,57,92,0.3261,0.3261
+E07000123,Preston,North West,E,2020Q4,92,57,92,92,0.8098,0.8098
+E07000123,Preston,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E07000123,Preston,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E07000123,Preston,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000123,Preston,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E07000124,Ribble Valley,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000124,Ribble Valley,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E07000124,Ribble Valley,North West,E,2020Q3,92,3,20,92,0.1033,0.1033
+E07000124,Ribble Valley,North West,E,2020Q4,92,57,92,92,0.8098,0.8098
+E07000124,Ribble Valley,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E07000124,Ribble Valley,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E07000124,Ribble Valley,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000124,Ribble Valley,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E07000125,Rossendale,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000125,Rossendale,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E07000125,Rossendale,North West,E,2020Q3,92,3,41,92,0.2174,0.2174
+E07000125,Rossendale,North West,E,2020Q4,92,57,92,92,0.8098,0.8098
+E07000125,Rossendale,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E07000125,Rossendale,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E07000125,Rossendale,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000125,Rossendale,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E07000126,South Ribble,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000126,South Ribble,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E07000126,South Ribble,North West,E,2020Q3,92,3,20,92,0.1033,0.1033
+E07000126,South Ribble,North West,E,2020Q4,92,57,92,92,0.8098,0.8098
+E07000126,South Ribble,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E07000126,South Ribble,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E07000126,South Ribble,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000126,South Ribble,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E07000127,West Lancashire,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000127,West Lancashire,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E07000127,West Lancashire,North West,E,2020Q3,92,3,20,92,0.1033,0.1033
+E07000127,West Lancashire,North West,E,2020Q4,92,57,92,92,0.8098,0.8098
+E07000127,West Lancashire,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E07000127,West Lancashire,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E07000127,West Lancashire,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000127,West Lancashire,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E07000128,Wyre,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000128,Wyre,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E07000128,Wyre,North West,E,2020Q3,92,3,20,92,0.1033,0.1033
+E07000128,Wyre,North West,E,2020Q4,92,57,92,92,0.8098,0.8098
+E07000128,Wyre,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E07000128,Wyre,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E07000128,Wyre,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000128,Wyre,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E07000129,Blaby,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000129,Blaby,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000129,Blaby,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000129,Blaby,East Midlands,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000129,Blaby,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000129,Blaby,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000129,Blaby,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000129,Blaby,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000130,Charnwood,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000130,Charnwood,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000130,Charnwood,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000130,Charnwood,East Midlands,E,2020Q4,92,57,92,92,0.7283,0.7283
+E07000130,Charnwood,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000130,Charnwood,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000130,Charnwood,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000130,Charnwood,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000131,Harborough,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000131,Harborough,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000131,Harborough,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000131,Harborough,East Midlands,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000131,Harborough,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000131,Harborough,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000131,Harborough,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000131,Harborough,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000132,Hinckley and Bosworth,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000132,Hinckley and Bosworth,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000132,Hinckley and Bosworth,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000132,Hinckley and Bosworth,East Midlands,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000132,Hinckley and Bosworth,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000132,Hinckley and Bosworth,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000132,Hinckley and Bosworth,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000132,Hinckley and Bosworth,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000133,Melton,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000133,Melton,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000133,Melton,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000133,Melton,East Midlands,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000133,Melton,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000133,Melton,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000133,Melton,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000133,Melton,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000134,North West Leicestershire,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000134,North West Leicestershire,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000134,North West Leicestershire,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000134,North West Leicestershire,East Midlands,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000134,North West Leicestershire,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000134,North West Leicestershire,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000134,North West Leicestershire,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000134,North West Leicestershire,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000135,Oadby and Wigston,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000135,Oadby and Wigston,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000135,Oadby and Wigston,East Midlands,E,2020Q3,92,31,48,92,0.4076,0.4076
+E07000135,Oadby and Wigston,East Midlands,E,2020Q4,92,57,92,92,0.8098,0.8098
+E07000135,Oadby and Wigston,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000135,Oadby and Wigston,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000135,Oadby and Wigston,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000135,Oadby and Wigston,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000136,Boston,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000136,Boston,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000136,Boston,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000136,Boston,East Midlands,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000136,Boston,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000136,Boston,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000136,Boston,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000136,Boston,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000137,East Lindsey,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000137,East Lindsey,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000137,East Lindsey,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000137,East Lindsey,East Midlands,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000137,East Lindsey,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000137,East Lindsey,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000137,East Lindsey,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000137,East Lindsey,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000138,Lincoln,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000138,Lincoln,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000138,Lincoln,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000138,Lincoln,East Midlands,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000138,Lincoln,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000138,Lincoln,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000138,Lincoln,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000138,Lincoln,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000139,North Kesteven,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000139,North Kesteven,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000139,North Kesteven,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000139,North Kesteven,East Midlands,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000139,North Kesteven,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000139,North Kesteven,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000139,North Kesteven,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000139,North Kesteven,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000140,South Holland,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000140,South Holland,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000140,South Holland,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000140,South Holland,East Midlands,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000140,South Holland,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000140,South Holland,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000140,South Holland,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000140,South Holland,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000141,South Kesteven,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000141,South Kesteven,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000141,South Kesteven,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000141,South Kesteven,East Midlands,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000141,South Kesteven,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000141,South Kesteven,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000141,South Kesteven,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000141,South Kesteven,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000142,West Lindsey,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000142,West Lindsey,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000142,West Lindsey,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000142,West Lindsey,East Midlands,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000142,West Lindsey,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000142,West Lindsey,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000142,West Lindsey,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000142,West Lindsey,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000143,Breckland,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000143,Breckland,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000143,Breckland,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000143,Breckland,East of England,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000143,Breckland,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000143,Breckland,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000143,Breckland,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000143,Breckland,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000144,Broadland,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000144,Broadland,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000144,Broadland,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000144,Broadland,East of England,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000144,Broadland,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000144,Broadland,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000144,Broadland,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000144,Broadland,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000145,Great Yarmouth,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000145,Great Yarmouth,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000145,Great Yarmouth,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000145,Great Yarmouth,East of England,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000145,Great Yarmouth,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000145,Great Yarmouth,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000145,Great Yarmouth,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000145,Great Yarmouth,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000146,King's Lynn and West Norfolk,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000146,King's Lynn and West Norfolk,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000146,King's Lynn and West Norfolk,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000146,King's Lynn and West Norfolk,East of England,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000146,King's Lynn and West Norfolk,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000146,King's Lynn and West Norfolk,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000146,King's Lynn and West Norfolk,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000146,King's Lynn and West Norfolk,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000147,North Norfolk,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000147,North Norfolk,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000147,North Norfolk,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000147,North Norfolk,East of England,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000147,North Norfolk,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000147,North Norfolk,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000147,North Norfolk,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000147,North Norfolk,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000148,Norwich,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000148,Norwich,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000148,Norwich,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000148,Norwich,East of England,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000148,Norwich,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000148,Norwich,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000148,Norwich,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000148,Norwich,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000149,South Norfolk,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000149,South Norfolk,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000149,South Norfolk,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000149,South Norfolk,East of England,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000149,South Norfolk,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000149,South Norfolk,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000149,South Norfolk,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000149,South Norfolk,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000170,Ashfield,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000170,Ashfield,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000170,Ashfield,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000170,Ashfield,East Midlands,E,2020Q4,92,57,92,92,0.7745,0.7745
+E07000170,Ashfield,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000170,Ashfield,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000170,Ashfield,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000170,Ashfield,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000171,Bassetlaw,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000171,Bassetlaw,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000171,Bassetlaw,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000171,Bassetlaw,East Midlands,E,2020Q4,92,57,92,92,0.7745,0.7745
+E07000171,Bassetlaw,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000171,Bassetlaw,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000171,Bassetlaw,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000171,Bassetlaw,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000172,Broxtowe,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000172,Broxtowe,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000172,Broxtowe,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000172,Broxtowe,East Midlands,E,2020Q4,92,57,92,92,0.7745,0.7745
+E07000172,Broxtowe,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000172,Broxtowe,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000172,Broxtowe,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000172,Broxtowe,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000173,Gedling,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000173,Gedling,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000173,Gedling,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000173,Gedling,East Midlands,E,2020Q4,92,57,92,92,0.7745,0.7745
+E07000173,Gedling,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000173,Gedling,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000173,Gedling,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000173,Gedling,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000174,Mansfield,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000174,Mansfield,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000174,Mansfield,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000174,Mansfield,East Midlands,E,2020Q4,92,57,92,92,0.7745,0.7745
+E07000174,Mansfield,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000174,Mansfield,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000174,Mansfield,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000174,Mansfield,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000175,Newark and Sherwood,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000175,Newark and Sherwood,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000175,Newark and Sherwood,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000175,Newark and Sherwood,East Midlands,E,2020Q4,92,57,92,92,0.7745,0.7745
+E07000175,Newark and Sherwood,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000175,Newark and Sherwood,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000175,Newark and Sherwood,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000175,Newark and Sherwood,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000176,Rushcliffe,East Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000176,Rushcliffe,East Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000176,Rushcliffe,East Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000176,Rushcliffe,East Midlands,E,2020Q4,92,57,92,92,0.7745,0.7745
+E07000176,Rushcliffe,East Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000176,Rushcliffe,East Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000176,Rushcliffe,East Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000176,Rushcliffe,East Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000177,Cherwell,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000177,Cherwell,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000177,Cherwell,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000177,Cherwell,South East,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000177,Cherwell,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000177,Cherwell,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000177,Cherwell,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000177,Cherwell,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000178,Oxford,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000178,Oxford,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000178,Oxford,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000178,Oxford,South East,E,2020Q4,92,33,92,92,0.5978,0.5978
+E07000178,Oxford,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000178,Oxford,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000178,Oxford,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000178,Oxford,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000179,South Oxfordshire,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000179,South Oxfordshire,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000179,South Oxfordshire,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000179,South Oxfordshire,South East,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000179,South Oxfordshire,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000179,South Oxfordshire,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000179,South Oxfordshire,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000179,South Oxfordshire,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000180,Vale of White Horse,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000180,Vale of White Horse,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000180,Vale of White Horse,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000180,Vale of White Horse,South East,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000180,Vale of White Horse,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000180,Vale of White Horse,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000180,Vale of White Horse,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000180,Vale of White Horse,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000181,West Oxfordshire,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000181,West Oxfordshire,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000181,West Oxfordshire,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000181,West Oxfordshire,South East,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000181,West Oxfordshire,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000181,West Oxfordshire,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000181,West Oxfordshire,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000181,West Oxfordshire,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000192,Cannock Chase,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000192,Cannock Chase,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000192,Cannock Chase,West Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000192,Cannock Chase,West Midlands,E,2020Q4,92,57,92,92,0.7283,0.7283
+E07000192,Cannock Chase,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000192,Cannock Chase,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000192,Cannock Chase,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000192,Cannock Chase,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000193,East Staffordshire,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000193,East Staffordshire,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000193,East Staffordshire,West Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000193,East Staffordshire,West Midlands,E,2020Q4,92,57,92,92,0.7283,0.7283
+E07000193,East Staffordshire,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000193,East Staffordshire,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000193,East Staffordshire,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000193,East Staffordshire,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000194,Lichfield,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000194,Lichfield,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000194,Lichfield,West Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000194,Lichfield,West Midlands,E,2020Q4,92,57,92,92,0.7283,0.7283
+E07000194,Lichfield,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000194,Lichfield,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000194,Lichfield,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000194,Lichfield,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000195,Newcastle-under-Lyme,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000195,Newcastle-under-Lyme,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000195,Newcastle-under-Lyme,West Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000195,Newcastle-under-Lyme,West Midlands,E,2020Q4,92,57,92,92,0.7283,0.7283
+E07000195,Newcastle-under-Lyme,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000195,Newcastle-under-Lyme,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000195,Newcastle-under-Lyme,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000195,Newcastle-under-Lyme,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000196,South Staffordshire,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000196,South Staffordshire,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000196,South Staffordshire,West Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000196,South Staffordshire,West Midlands,E,2020Q4,92,57,92,92,0.7283,0.7283
+E07000196,South Staffordshire,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000196,South Staffordshire,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000196,South Staffordshire,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000196,South Staffordshire,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000197,Stafford,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000197,Stafford,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000197,Stafford,West Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000197,Stafford,West Midlands,E,2020Q4,92,57,92,92,0.7283,0.7283
+E07000197,Stafford,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000197,Stafford,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000197,Stafford,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000197,Stafford,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000198,Staffordshire Moorlands,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000198,Staffordshire Moorlands,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000198,Staffordshire Moorlands,West Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000198,Staffordshire Moorlands,West Midlands,E,2020Q4,92,57,92,92,0.7283,0.7283
+E07000198,Staffordshire Moorlands,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000198,Staffordshire Moorlands,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000198,Staffordshire Moorlands,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000198,Staffordshire Moorlands,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000199,Tamworth,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000199,Tamworth,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000199,Tamworth,West Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000199,Tamworth,West Midlands,E,2020Q4,92,57,92,92,0.7283,0.7283
+E07000199,Tamworth,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000199,Tamworth,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000199,Tamworth,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000199,Tamworth,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000200,Babergh,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000200,Babergh,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000200,Babergh,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000200,Babergh,East of England,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000200,Babergh,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000200,Babergh,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000200,Babergh,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000200,Babergh,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000202,Ipswich,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000202,Ipswich,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000202,Ipswich,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000202,Ipswich,East of England,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000202,Ipswich,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000202,Ipswich,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000202,Ipswich,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000202,Ipswich,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000203,Mid Suffolk,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000203,Mid Suffolk,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000203,Mid Suffolk,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000203,Mid Suffolk,East of England,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000203,Mid Suffolk,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000203,Mid Suffolk,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000203,Mid Suffolk,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000203,Mid Suffolk,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000207,Elmbridge,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000207,Elmbridge,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000207,Elmbridge,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000207,Elmbridge,South East,E,2020Q4,92,40,92,92,0.6739,0.6739
+E07000207,Elmbridge,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000207,Elmbridge,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000207,Elmbridge,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000207,Elmbridge,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000208,Epsom and Ewell,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000208,Epsom and Ewell,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000208,Epsom and Ewell,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000208,Epsom and Ewell,South East,E,2020Q4,92,40,92,92,0.6223,0.6223
+E07000208,Epsom and Ewell,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000208,Epsom and Ewell,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000208,Epsom and Ewell,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000208,Epsom and Ewell,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000209,Guildford,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000209,Guildford,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000209,Guildford,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000209,Guildford,South East,E,2020Q4,92,40,92,92,0.6223,0.6223
+E07000209,Guildford,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000209,Guildford,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000209,Guildford,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000209,Guildford,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000210,Mole Valley,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000210,Mole Valley,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000210,Mole Valley,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000210,Mole Valley,South East,E,2020Q4,92,40,92,92,0.6223,0.6223
+E07000210,Mole Valley,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000210,Mole Valley,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000210,Mole Valley,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000210,Mole Valley,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000211,Reigate and Banstead,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000211,Reigate and Banstead,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000211,Reigate and Banstead,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000211,Reigate and Banstead,South East,E,2020Q4,92,40,92,92,0.6223,0.6223
+E07000211,Reigate and Banstead,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000211,Reigate and Banstead,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000211,Reigate and Banstead,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000211,Reigate and Banstead,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000212,Runnymede,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000212,Runnymede,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000212,Runnymede,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000212,Runnymede,South East,E,2020Q4,92,40,92,92,0.6223,0.6223
+E07000212,Runnymede,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000212,Runnymede,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000212,Runnymede,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000212,Runnymede,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000213,Spelthorne,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000213,Spelthorne,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000213,Spelthorne,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000213,Spelthorne,South East,E,2020Q4,92,40,92,92,0.6223,0.6223
+E07000213,Spelthorne,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000213,Spelthorne,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000213,Spelthorne,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000213,Spelthorne,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000214,Surrey Heath,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000214,Surrey Heath,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000214,Surrey Heath,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000214,Surrey Heath,South East,E,2020Q4,92,40,92,92,0.6223,0.6223
+E07000214,Surrey Heath,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000214,Surrey Heath,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000214,Surrey Heath,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000214,Surrey Heath,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000215,Tandridge,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000215,Tandridge,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000215,Tandridge,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000215,Tandridge,South East,E,2020Q4,92,40,92,92,0.6223,0.6223
+E07000215,Tandridge,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000215,Tandridge,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000215,Tandridge,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000215,Tandridge,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000216,Waverley,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000216,Waverley,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000216,Waverley,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000216,Waverley,South East,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000216,Waverley,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000216,Waverley,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000216,Waverley,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000216,Waverley,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000217,Woking,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000217,Woking,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000217,Woking,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000217,Woking,South East,E,2020Q4,92,40,92,92,0.6223,0.6223
+E07000217,Woking,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000217,Woking,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000217,Woking,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000217,Woking,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000218,North Warwickshire,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000218,North Warwickshire,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000218,North Warwickshire,West Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000218,North Warwickshire,West Midlands,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000218,North Warwickshire,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000218,North Warwickshire,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000218,North Warwickshire,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000218,North Warwickshire,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000219,Nuneaton and Bedworth,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000219,Nuneaton and Bedworth,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000219,Nuneaton and Bedworth,West Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000219,Nuneaton and Bedworth,West Midlands,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000219,Nuneaton and Bedworth,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000219,Nuneaton and Bedworth,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000219,Nuneaton and Bedworth,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000219,Nuneaton and Bedworth,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000220,Rugby,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000220,Rugby,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000220,Rugby,West Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000220,Rugby,West Midlands,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000220,Rugby,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000220,Rugby,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000220,Rugby,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000220,Rugby,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000221,Stratford-on-Avon,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000221,Stratford-on-Avon,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000221,Stratford-on-Avon,West Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000221,Stratford-on-Avon,West Midlands,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000221,Stratford-on-Avon,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000221,Stratford-on-Avon,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000221,Stratford-on-Avon,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000221,Stratford-on-Avon,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000222,Warwick,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000222,Warwick,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000222,Warwick,West Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000222,Warwick,West Midlands,E,2020Q4,92,57,92,92,0.7147,0.7147
+E07000222,Warwick,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000222,Warwick,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000222,Warwick,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000222,Warwick,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000223,Adur,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000223,Adur,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000223,Adur,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000223,Adur,South East,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000223,Adur,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000223,Adur,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000223,Adur,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000223,Adur,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000224,Arun,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000224,Arun,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000224,Arun,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000224,Arun,South East,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000224,Arun,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000224,Arun,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000224,Arun,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000224,Arun,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000225,Chichester,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000225,Chichester,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000225,Chichester,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000225,Chichester,South East,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000225,Chichester,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000225,Chichester,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000225,Chichester,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000225,Chichester,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000226,Crawley,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000226,Crawley,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000226,Crawley,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000226,Crawley,South East,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000226,Crawley,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000226,Crawley,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000226,Crawley,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000226,Crawley,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000227,Horsham,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000227,Horsham,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000227,Horsham,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000227,Horsham,South East,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000227,Horsham,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000227,Horsham,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000227,Horsham,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000227,Horsham,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000228,Mid Sussex,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000228,Mid Sussex,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000228,Mid Sussex,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000228,Mid Sussex,South East,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000228,Mid Sussex,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000228,Mid Sussex,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000228,Mid Sussex,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000228,Mid Sussex,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000229,Worthing,South East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000229,Worthing,South East,E,2020Q2,91,91,91,91,1.0,1.0
+E07000229,Worthing,South East,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000229,Worthing,South East,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000229,Worthing,South East,E,2021Q1,90,90,90,90,1.0,1.0
+E07000229,Worthing,South East,E,2021Q2,91,11,91,91,0.533,0.533
+E07000229,Worthing,South East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000229,Worthing,South East,E,2021Q4,92,0,0,92,0.0,0.0
+E07000234,Bromsgrove,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000234,Bromsgrove,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000234,Bromsgrove,West Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000234,Bromsgrove,West Midlands,E,2020Q4,92,28,92,92,0.5571,0.5571
+E07000234,Bromsgrove,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000234,Bromsgrove,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000234,Bromsgrove,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000234,Bromsgrove,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000235,Malvern Hills,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000235,Malvern Hills,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000235,Malvern Hills,West Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000235,Malvern Hills,West Midlands,E,2020Q4,92,28,92,92,0.5571,0.5571
+E07000235,Malvern Hills,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000235,Malvern Hills,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000235,Malvern Hills,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000235,Malvern Hills,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000236,Redditch,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000236,Redditch,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000236,Redditch,West Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000236,Redditch,West Midlands,E,2020Q4,92,28,92,92,0.5571,0.5571
+E07000236,Redditch,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000236,Redditch,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000236,Redditch,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000236,Redditch,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000237,Worcester,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000237,Worcester,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000237,Worcester,West Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000237,Worcester,West Midlands,E,2020Q4,92,28,92,92,0.5571,0.5571
+E07000237,Worcester,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000237,Worcester,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000237,Worcester,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000237,Worcester,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000238,Wychavon,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000238,Wychavon,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000238,Wychavon,West Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000238,Wychavon,West Midlands,E,2020Q4,92,28,92,92,0.5571,0.5571
+E07000238,Wychavon,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000238,Wychavon,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000238,Wychavon,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000238,Wychavon,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000239,Wyre Forest,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000239,Wyre Forest,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E07000239,Wyre Forest,West Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000239,Wyre Forest,West Midlands,E,2020Q4,92,28,92,92,0.5571,0.5571
+E07000239,Wyre Forest,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E07000239,Wyre Forest,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E07000239,Wyre Forest,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000239,Wyre Forest,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E07000240,St Albans,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000240,St Albans,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000240,St Albans,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000240,St Albans,East of England,E,2020Q4,92,40,92,92,0.6223,0.6223
+E07000240,St Albans,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000240,St Albans,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000240,St Albans,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000240,St Albans,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000241,Welwyn Hatfield,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000241,Welwyn Hatfield,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000241,Welwyn Hatfield,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000241,Welwyn Hatfield,East of England,E,2020Q4,92,40,92,92,0.6223,0.6223
+E07000241,Welwyn Hatfield,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000241,Welwyn Hatfield,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000241,Welwyn Hatfield,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000241,Welwyn Hatfield,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000242,East Hertfordshire,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000242,East Hertfordshire,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000242,East Hertfordshire,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000242,East Hertfordshire,East of England,E,2020Q4,92,40,92,92,0.6223,0.6223
+E07000242,East Hertfordshire,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000242,East Hertfordshire,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000242,East Hertfordshire,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000242,East Hertfordshire,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000243,Stevenage,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000243,Stevenage,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000243,Stevenage,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000243,Stevenage,East of England,E,2020Q4,92,40,92,92,0.6223,0.6223
+E07000243,Stevenage,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000243,Stevenage,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000243,Stevenage,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000243,Stevenage,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000244,East Suffolk,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000244,East Suffolk,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000244,East Suffolk,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000244,East Suffolk,East of England,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000244,East Suffolk,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000244,East Suffolk,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000244,East Suffolk,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000244,East Suffolk,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E07000245,West Suffolk,East of England,E,2020Q1,31,11,11,91,0.1209,0.3548
+E07000245,West Suffolk,East of England,E,2020Q2,91,91,91,91,1.0,1.0
+E07000245,West Suffolk,East of England,E,2020Q3,92,3,20,92,0.0788,0.0788
+E07000245,West Suffolk,East of England,E,2020Q4,92,33,92,92,0.5842,0.5842
+E07000245,West Suffolk,East of England,E,2021Q1,90,90,90,90,1.0,1.0
+E07000245,West Suffolk,East of England,E,2021Q2,91,11,91,91,0.533,0.533
+E07000245,West Suffolk,East of England,E,2021Q3,92,0,18,92,0.0489,0.0489
+E07000245,West Suffolk,East of England,E,2021Q4,92,0,0,92,0.0,0.0
+E08000001,Bolton,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000001,Bolton,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E08000001,Bolton,North West,E,2020Q3,92,24,60,92,0.4565,0.4565
+E08000001,Bolton,North West,E,2020Q4,92,59,92,92,0.8207,0.8207
+E08000001,Bolton,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E08000001,Bolton,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E08000001,Bolton,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000001,Bolton,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E08000002,Bury,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000002,Bury,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E08000002,Bury,North West,E,2020Q3,92,3,60,92,0.3424,0.3424
+E08000002,Bury,North West,E,2020Q4,92,57,92,92,0.8098,0.8098
+E08000002,Bury,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E08000002,Bury,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E08000002,Bury,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000002,Bury,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E08000003,Manchester,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000003,Manchester,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E08000003,Manchester,North West,E,2020Q3,92,3,60,92,0.3424,0.3424
+E08000003,Manchester,North West,E,2020Q4,92,57,92,92,0.8098,0.8098
+E08000003,Manchester,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E08000003,Manchester,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E08000003,Manchester,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000003,Manchester,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E08000004,Oldham,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000004,Oldham,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E08000004,Oldham,North West,E,2020Q3,92,3,60,92,0.3424,0.3424
+E08000004,Oldham,North West,E,2020Q4,92,57,92,92,0.8098,0.8098
+E08000004,Oldham,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E08000004,Oldham,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E08000004,Oldham,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000004,Oldham,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E08000005,Rochdale,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000005,Rochdale,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E08000005,Rochdale,North West,E,2020Q3,92,3,60,92,0.3424,0.3424
+E08000005,Rochdale,North West,E,2020Q4,92,57,92,92,0.8098,0.8098
+E08000005,Rochdale,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E08000005,Rochdale,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E08000005,Rochdale,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000005,Rochdale,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E08000006,Salford,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000006,Salford,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E08000006,Salford,North West,E,2020Q3,92,3,60,92,0.3424,0.3424
+E08000006,Salford,North West,E,2020Q4,92,57,92,92,0.8098,0.8098
+E08000006,Salford,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E08000006,Salford,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E08000006,Salford,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000006,Salford,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E08000007,Stockport,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000007,Stockport,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E08000007,Stockport,North West,E,2020Q3,92,3,48,92,0.2446,0.2446
+E08000007,Stockport,North West,E,2020Q4,92,57,92,92,0.8098,0.8098
+E08000007,Stockport,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E08000007,Stockport,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E08000007,Stockport,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000007,Stockport,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E08000008,Tameside,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000008,Tameside,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E08000008,Tameside,North West,E,2020Q3,92,3,60,92,0.3424,0.3424
+E08000008,Tameside,North West,E,2020Q4,92,57,92,92,0.8098,0.8098
+E08000008,Tameside,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E08000008,Tameside,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E08000008,Tameside,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000008,Tameside,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E08000009,Trafford,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000009,Trafford,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E08000009,Trafford,North West,E,2020Q3,92,3,60,92,0.3424,0.3424
+E08000009,Trafford,North West,E,2020Q4,92,57,92,92,0.8098,0.8098
+E08000009,Trafford,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E08000009,Trafford,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E08000009,Trafford,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000009,Trafford,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E08000010,Wigan,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000010,Wigan,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E08000010,Wigan,North West,E,2020Q3,92,3,41,92,0.2065,0.2065
+E08000010,Wigan,North West,E,2020Q4,92,57,92,92,0.8098,0.8098
+E08000010,Wigan,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E08000010,Wigan,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E08000010,Wigan,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000010,Wigan,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E08000011,Knowsley,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000011,Knowsley,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E08000011,Knowsley,North West,E,2020Q3,92,3,20,92,0.1033,0.1033
+E08000011,Knowsley,North West,E,2020Q4,92,28,92,92,0.6522,0.6522
+E08000011,Knowsley,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E08000011,Knowsley,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E08000011,Knowsley,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000011,Knowsley,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E08000012,Liverpool,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000012,Liverpool,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E08000012,Liverpool,North West,E,2020Q3,92,3,20,92,0.1033,0.1033
+E08000012,Liverpool,North West,E,2020Q4,92,28,92,92,0.6522,0.6522
+E08000012,Liverpool,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E08000012,Liverpool,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E08000012,Liverpool,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000012,Liverpool,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E08000013,St. Helens,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000013,St. Helens,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E08000013,St. Helens,North West,E,2020Q3,92,3,20,92,0.1033,0.1033
+E08000013,St. Helens,North West,E,2020Q4,92,28,92,92,0.6522,0.6522
+E08000013,St. Helens,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E08000013,St. Helens,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E08000013,St. Helens,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000013,St. Helens,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E08000014,Sefton,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000014,Sefton,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E08000014,Sefton,North West,E,2020Q3,92,3,20,92,0.1033,0.1033
+E08000014,Sefton,North West,E,2020Q4,92,28,92,92,0.6522,0.6522
+E08000014,Sefton,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E08000014,Sefton,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E08000014,Sefton,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000014,Sefton,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E08000015,Wirral,North West,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000015,Wirral,North West,E,2020Q2,91,91,91,91,1.0,1.0
+E08000015,Wirral,North West,E,2020Q3,92,3,20,92,0.1033,0.1033
+E08000015,Wirral,North West,E,2020Q4,92,28,92,92,0.6522,0.6522
+E08000015,Wirral,North West,E,2021Q1,90,90,90,90,1.0,1.0
+E08000015,Wirral,North West,E,2021Q2,91,11,91,91,0.533,0.533
+E08000015,Wirral,North West,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000015,Wirral,North West,E,2021Q4,92,0,0,92,0.0,0.0
+E08000016,Barnsley,Yorkshire and The Humber,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000016,Barnsley,Yorkshire and The Humber,E,2020Q2,91,91,91,91,1.0,1.0
+E08000016,Barnsley,Yorkshire and The Humber,E,2020Q3,92,3,20,92,0.0788,0.0788
+E08000016,Barnsley,Yorkshire and The Humber,E,2020Q4,92,57,92,92,0.7745,0.7745
+E08000016,Barnsley,Yorkshire and The Humber,E,2021Q1,90,90,90,90,1.0,1.0
+E08000016,Barnsley,Yorkshire and The Humber,E,2021Q2,91,11,91,91,0.533,0.533
+E08000016,Barnsley,Yorkshire and The Humber,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000016,Barnsley,Yorkshire and The Humber,E,2021Q4,92,0,0,92,0.0,0.0
+E08000017,Doncaster,Yorkshire and The Humber,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000017,Doncaster,Yorkshire and The Humber,E,2020Q2,91,91,91,91,1.0,1.0
+E08000017,Doncaster,Yorkshire and The Humber,E,2020Q3,92,3,20,92,0.0788,0.0788
+E08000017,Doncaster,Yorkshire and The Humber,E,2020Q4,92,57,92,92,0.7745,0.7745
+E08000017,Doncaster,Yorkshire and The Humber,E,2021Q1,90,90,90,90,1.0,1.0
+E08000017,Doncaster,Yorkshire and The Humber,E,2021Q2,91,11,91,91,0.533,0.533
+E08000017,Doncaster,Yorkshire and The Humber,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000017,Doncaster,Yorkshire and The Humber,E,2021Q4,92,0,0,92,0.0,0.0
+E08000018,Rotherham,Yorkshire and The Humber,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000018,Rotherham,Yorkshire and The Humber,E,2020Q2,91,91,91,91,1.0,1.0
+E08000018,Rotherham,Yorkshire and The Humber,E,2020Q3,92,3,20,92,0.0788,0.0788
+E08000018,Rotherham,Yorkshire and The Humber,E,2020Q4,92,57,92,92,0.7745,0.7745
+E08000018,Rotherham,Yorkshire and The Humber,E,2021Q1,90,90,90,90,1.0,1.0
+E08000018,Rotherham,Yorkshire and The Humber,E,2021Q2,91,11,91,91,0.533,0.533
+E08000018,Rotherham,Yorkshire and The Humber,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000018,Rotherham,Yorkshire and The Humber,E,2021Q4,92,0,0,92,0.0,0.0
+E08000019,Sheffield,Yorkshire and The Humber,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000019,Sheffield,Yorkshire and The Humber,E,2020Q2,91,91,91,91,1.0,1.0
+E08000019,Sheffield,Yorkshire and The Humber,E,2020Q3,92,3,20,92,0.0788,0.0788
+E08000019,Sheffield,Yorkshire and The Humber,E,2020Q4,92,57,92,92,0.7745,0.7745
+E08000019,Sheffield,Yorkshire and The Humber,E,2021Q1,90,90,90,90,1.0,1.0
+E08000019,Sheffield,Yorkshire and The Humber,E,2021Q2,91,11,91,91,0.533,0.533
+E08000019,Sheffield,Yorkshire and The Humber,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000019,Sheffield,Yorkshire and The Humber,E,2021Q4,92,0,0,92,0.0,0.0
+E08000021,Newcastle upon Tyne,North East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000021,Newcastle upon Tyne,North East,E,2020Q2,91,91,91,91,1.0,1.0
+E08000021,Newcastle upon Tyne,North East,E,2020Q3,92,3,20,92,0.1141,0.1141
+E08000021,Newcastle upon Tyne,North East,E,2020Q4,92,57,92,92,0.8098,0.8098
+E08000021,Newcastle upon Tyne,North East,E,2021Q1,90,90,90,90,1.0,1.0
+E08000021,Newcastle upon Tyne,North East,E,2021Q2,91,11,91,91,0.533,0.533
+E08000021,Newcastle upon Tyne,North East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000021,Newcastle upon Tyne,North East,E,2021Q4,92,0,0,92,0.0,0.0
+E08000022,North Tyneside,North East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000022,North Tyneside,North East,E,2020Q2,91,91,91,91,1.0,1.0
+E08000022,North Tyneside,North East,E,2020Q3,92,3,20,92,0.1141,0.1141
+E08000022,North Tyneside,North East,E,2020Q4,92,57,92,92,0.8098,0.8098
+E08000022,North Tyneside,North East,E,2021Q1,90,90,90,90,1.0,1.0
+E08000022,North Tyneside,North East,E,2021Q2,91,11,91,91,0.533,0.533
+E08000022,North Tyneside,North East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000022,North Tyneside,North East,E,2021Q4,92,0,0,92,0.0,0.0
+E08000023,South Tyneside,North East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000023,South Tyneside,North East,E,2020Q2,91,91,91,91,1.0,1.0
+E08000023,South Tyneside,North East,E,2020Q3,92,3,20,92,0.1141,0.1141
+E08000023,South Tyneside,North East,E,2020Q4,92,57,92,92,0.8098,0.8098
+E08000023,South Tyneside,North East,E,2021Q1,90,90,90,90,1.0,1.0
+E08000023,South Tyneside,North East,E,2021Q2,91,11,91,91,0.533,0.533
+E08000023,South Tyneside,North East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000023,South Tyneside,North East,E,2021Q4,92,0,0,92,0.0,0.0
+E08000024,Sunderland,North East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000024,Sunderland,North East,E,2020Q2,91,91,91,91,1.0,1.0
+E08000024,Sunderland,North East,E,2020Q3,92,3,20,92,0.1141,0.1141
+E08000024,Sunderland,North East,E,2020Q4,92,57,92,92,0.8098,0.8098
+E08000024,Sunderland,North East,E,2021Q1,90,90,90,90,1.0,1.0
+E08000024,Sunderland,North East,E,2021Q2,91,11,91,91,0.533,0.533
+E08000024,Sunderland,North East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000024,Sunderland,North East,E,2021Q4,92,0,0,92,0.0,0.0
+E08000025,Birmingham,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000025,Birmingham,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E08000025,Birmingham,West Midlands,E,2020Q3,92,3,20,92,0.1223,0.1223
+E08000025,Birmingham,West Midlands,E,2020Q4,92,57,92,92,0.8098,0.8098
+E08000025,Birmingham,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E08000025,Birmingham,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E08000025,Birmingham,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000025,Birmingham,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E08000026,Coventry,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000026,Coventry,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E08000026,Coventry,West Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E08000026,Coventry,West Midlands,E,2020Q4,92,57,92,92,0.7473,0.7473
+E08000026,Coventry,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E08000026,Coventry,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E08000026,Coventry,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000026,Coventry,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E08000027,Dudley,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000027,Dudley,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E08000027,Dudley,West Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E08000027,Dudley,West Midlands,E,2020Q4,92,57,92,92,0.7283,0.7283
+E08000027,Dudley,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E08000027,Dudley,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E08000027,Dudley,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000027,Dudley,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E08000028,Sandwell,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000028,Sandwell,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E08000028,Sandwell,West Midlands,E,2020Q3,92,3,20,92,0.1223,0.1223
+E08000028,Sandwell,West Midlands,E,2020Q4,92,57,92,92,0.8098,0.8098
+E08000028,Sandwell,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E08000028,Sandwell,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E08000028,Sandwell,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000028,Sandwell,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E08000029,Solihull,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000029,Solihull,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E08000029,Solihull,West Midlands,E,2020Q3,92,3,20,92,0.1223,0.1223
+E08000029,Solihull,West Midlands,E,2020Q4,92,57,92,92,0.8098,0.8098
+E08000029,Solihull,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E08000029,Solihull,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E08000029,Solihull,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000029,Solihull,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E08000030,Walsall,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000030,Walsall,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E08000030,Walsall,West Midlands,E,2020Q3,92,3,20,92,0.0788,0.0788
+E08000030,Walsall,West Midlands,E,2020Q4,92,57,92,92,0.7745,0.7745
+E08000030,Walsall,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E08000030,Walsall,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E08000030,Walsall,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000030,Walsall,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E08000031,Wolverhampton,West Midlands,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000031,Wolverhampton,West Midlands,E,2020Q2,91,91,91,91,1.0,1.0
+E08000031,Wolverhampton,West Midlands,E,2020Q3,92,3,20,92,0.1033,0.1033
+E08000031,Wolverhampton,West Midlands,E,2020Q4,92,57,92,92,0.8098,0.8098
+E08000031,Wolverhampton,West Midlands,E,2021Q1,90,90,90,90,1.0,1.0
+E08000031,Wolverhampton,West Midlands,E,2021Q2,91,11,91,91,0.533,0.533
+E08000031,Wolverhampton,West Midlands,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000031,Wolverhampton,West Midlands,E,2021Q4,92,0,0,92,0.0,0.0
+E08000032,Bradford,Yorkshire and The Humber,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000032,Bradford,Yorkshire and The Humber,E,2020Q2,91,91,91,91,1.0,1.0
+E08000032,Bradford,Yorkshire and The Humber,E,2020Q3,92,3,64,92,0.3414,0.3414
+E08000032,Bradford,Yorkshire and The Humber,E,2020Q4,92,57,92,92,0.8098,0.8098
+E08000032,Bradford,Yorkshire and The Humber,E,2021Q1,90,90,90,90,1.0,1.0
+E08000032,Bradford,Yorkshire and The Humber,E,2021Q2,91,11,91,91,0.533,0.533
+E08000032,Bradford,Yorkshire and The Humber,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000032,Bradford,Yorkshire and The Humber,E,2021Q4,92,0,0,92,0.0,0.0
+E08000033,Calderdale,Yorkshire and The Humber,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000033,Calderdale,Yorkshire and The Humber,E,2020Q2,91,91,91,91,1.0,1.0
+E08000033,Calderdale,Yorkshire and The Humber,E,2020Q3,92,3,60,92,0.2992,0.2992
+E08000033,Calderdale,Yorkshire and The Humber,E,2020Q4,92,57,92,92,0.8098,0.8098
+E08000033,Calderdale,Yorkshire and The Humber,E,2021Q1,90,90,90,90,1.0,1.0
+E08000033,Calderdale,Yorkshire and The Humber,E,2021Q2,91,11,91,91,0.533,0.533
+E08000033,Calderdale,Yorkshire and The Humber,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000033,Calderdale,Yorkshire and The Humber,E,2021Q4,92,0,0,92,0.0,0.0
+E08000034,Kirklees,Yorkshire and The Humber,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000034,Kirklees,Yorkshire and The Humber,E,2020Q2,91,91,91,91,1.0,1.0
+E08000034,Kirklees,Yorkshire and The Humber,E,2020Q3,92,3,60,92,0.2755,0.2755
+E08000034,Kirklees,Yorkshire and The Humber,E,2020Q4,92,57,92,92,0.8098,0.8098
+E08000034,Kirklees,Yorkshire and The Humber,E,2021Q1,90,90,90,90,1.0,1.0
+E08000034,Kirklees,Yorkshire and The Humber,E,2021Q2,91,11,91,91,0.533,0.533
+E08000034,Kirklees,Yorkshire and The Humber,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000034,Kirklees,Yorkshire and The Humber,E,2021Q4,92,0,0,92,0.0,0.0
+E08000035,Leeds,Yorkshire and The Humber,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000035,Leeds,Yorkshire and The Humber,E,2020Q2,91,91,91,91,1.0,1.0
+E08000035,Leeds,Yorkshire and The Humber,E,2020Q3,92,3,20,92,0.0924,0.0924
+E08000035,Leeds,Yorkshire and The Humber,E,2020Q4,92,57,92,92,0.8098,0.8098
+E08000035,Leeds,Yorkshire and The Humber,E,2021Q1,90,90,90,90,1.0,1.0
+E08000035,Leeds,Yorkshire and The Humber,E,2021Q2,91,11,91,91,0.533,0.533
+E08000035,Leeds,Yorkshire and The Humber,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000035,Leeds,Yorkshire and The Humber,E,2021Q4,92,0,0,92,0.0,0.0
+E08000036,Wakefield,Yorkshire and The Humber,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000036,Wakefield,Yorkshire and The Humber,E,2020Q2,91,91,91,91,1.0,1.0
+E08000036,Wakefield,Yorkshire and The Humber,E,2020Q3,92,3,20,92,0.0788,0.0788
+E08000036,Wakefield,Yorkshire and The Humber,E,2020Q4,92,57,92,92,0.7745,0.7745
+E08000036,Wakefield,Yorkshire and The Humber,E,2021Q1,90,90,90,90,1.0,1.0
+E08000036,Wakefield,Yorkshire and The Humber,E,2021Q2,91,11,91,91,0.533,0.533
+E08000036,Wakefield,Yorkshire and The Humber,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000036,Wakefield,Yorkshire and The Humber,E,2021Q4,92,0,0,92,0.0,0.0
+E08000037,Gateshead,North East,E,2020Q1,31,11,11,91,0.1209,0.3548
+E08000037,Gateshead,North East,E,2020Q2,91,91,91,91,1.0,1.0
+E08000037,Gateshead,North East,E,2020Q3,92,3,20,92,0.1141,0.1141
+E08000037,Gateshead,North East,E,2020Q4,92,57,92,92,0.8098,0.8098
+E08000037,Gateshead,North East,E,2021Q1,90,90,90,90,1.0,1.0
+E08000037,Gateshead,North East,E,2021Q2,91,11,91,91,0.533,0.533
+E08000037,Gateshead,North East,E,2021Q3,92,0,18,92,0.0489,0.0489
+E08000037,Gateshead,North East,E,2021Q4,92,0,0,92,0.0,0.0
+E09000001,City of London,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000001,City of London,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000001,City of London,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000001,City of London,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000001,City of London,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000001,City of London,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000001,City of London,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000001,City of London,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000002,Barking and Dagenham,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000002,Barking and Dagenham,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000002,Barking and Dagenham,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000002,Barking and Dagenham,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000002,Barking and Dagenham,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000002,Barking and Dagenham,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000002,Barking and Dagenham,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000002,Barking and Dagenham,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000003,Barnet,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000003,Barnet,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000003,Barnet,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000003,Barnet,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000003,Barnet,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000003,Barnet,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000003,Barnet,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000003,Barnet,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000004,Bexley,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000004,Bexley,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000004,Bexley,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000004,Bexley,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000004,Bexley,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000004,Bexley,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000004,Bexley,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000004,Bexley,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000005,Brent,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000005,Brent,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000005,Brent,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000005,Brent,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000005,Brent,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000005,Brent,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000005,Brent,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000005,Brent,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000006,Bromley,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000006,Bromley,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000006,Bromley,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000006,Bromley,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000006,Bromley,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000006,Bromley,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000006,Bromley,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000006,Bromley,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000007,Camden,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000007,Camden,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000007,Camden,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000007,Camden,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000007,Camden,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000007,Camden,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000007,Camden,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000007,Camden,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000008,Croydon,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000008,Croydon,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000008,Croydon,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000008,Croydon,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000008,Croydon,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000008,Croydon,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000008,Croydon,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000008,Croydon,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000009,Ealing,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000009,Ealing,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000009,Ealing,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000009,Ealing,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000009,Ealing,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000009,Ealing,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000009,Ealing,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000009,Ealing,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000010,Enfield,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000010,Enfield,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000010,Enfield,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000010,Enfield,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000010,Enfield,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000010,Enfield,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000010,Enfield,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000010,Enfield,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000011,Greenwich,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000011,Greenwich,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000011,Greenwich,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000011,Greenwich,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000011,Greenwich,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000011,Greenwich,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000011,Greenwich,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000011,Greenwich,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000012,Hackney,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000012,Hackney,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000012,Hackney,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000012,Hackney,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000012,Hackney,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000012,Hackney,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000012,Hackney,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000012,Hackney,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000013,Hammersmith and Fulham,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000013,Hammersmith and Fulham,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000013,Hammersmith and Fulham,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000013,Hammersmith and Fulham,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000013,Hammersmith and Fulham,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000013,Hammersmith and Fulham,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000013,Hammersmith and Fulham,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000013,Hammersmith and Fulham,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000014,Haringey,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000014,Haringey,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000014,Haringey,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000014,Haringey,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000014,Haringey,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000014,Haringey,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000014,Haringey,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000014,Haringey,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000015,Harrow,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000015,Harrow,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000015,Harrow,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000015,Harrow,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000015,Harrow,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000015,Harrow,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000015,Harrow,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000015,Harrow,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000016,Havering,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000016,Havering,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000016,Havering,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000016,Havering,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000016,Havering,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000016,Havering,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000016,Havering,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000016,Havering,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000017,Hillingdon,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000017,Hillingdon,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000017,Hillingdon,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000017,Hillingdon,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000017,Hillingdon,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000017,Hillingdon,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000017,Hillingdon,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000017,Hillingdon,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000018,Hounslow,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000018,Hounslow,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000018,Hounslow,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000018,Hounslow,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000018,Hounslow,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000018,Hounslow,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000018,Hounslow,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000018,Hounslow,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000019,Islington,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000019,Islington,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000019,Islington,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000019,Islington,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000019,Islington,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000019,Islington,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000019,Islington,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000019,Islington,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000020,Kensington and Chelsea,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000020,Kensington and Chelsea,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000020,Kensington and Chelsea,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000020,Kensington and Chelsea,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000020,Kensington and Chelsea,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000020,Kensington and Chelsea,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000020,Kensington and Chelsea,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000020,Kensington and Chelsea,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000021,Kingston upon Thames,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000021,Kingston upon Thames,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000021,Kingston upon Thames,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000021,Kingston upon Thames,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000021,Kingston upon Thames,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000021,Kingston upon Thames,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000021,Kingston upon Thames,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000021,Kingston upon Thames,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000022,Lambeth,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000022,Lambeth,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000022,Lambeth,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000022,Lambeth,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000022,Lambeth,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000022,Lambeth,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000022,Lambeth,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000022,Lambeth,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000023,Lewisham,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000023,Lewisham,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000023,Lewisham,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000023,Lewisham,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000023,Lewisham,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000023,Lewisham,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000023,Lewisham,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000023,Lewisham,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000024,Merton,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000024,Merton,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000024,Merton,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000024,Merton,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000024,Merton,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000024,Merton,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000024,Merton,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000024,Merton,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000025,Newham,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000025,Newham,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000025,Newham,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000025,Newham,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000025,Newham,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000025,Newham,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000025,Newham,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000025,Newham,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000026,Redbridge,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000026,Redbridge,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000026,Redbridge,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000026,Redbridge,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000026,Redbridge,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000026,Redbridge,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000026,Redbridge,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000026,Redbridge,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000027,Richmond upon Thames,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000027,Richmond upon Thames,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000027,Richmond upon Thames,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000027,Richmond upon Thames,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000027,Richmond upon Thames,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000027,Richmond upon Thames,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000027,Richmond upon Thames,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000027,Richmond upon Thames,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000028,Southwark,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000028,Southwark,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000028,Southwark,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000028,Southwark,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000028,Southwark,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000028,Southwark,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000028,Southwark,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000028,Southwark,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000029,Sutton,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000029,Sutton,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000029,Sutton,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000029,Sutton,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000029,Sutton,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000029,Sutton,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000029,Sutton,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000029,Sutton,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000030,Tower Hamlets,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000030,Tower Hamlets,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000030,Tower Hamlets,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000030,Tower Hamlets,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000030,Tower Hamlets,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000030,Tower Hamlets,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000030,Tower Hamlets,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000030,Tower Hamlets,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000031,Waltham Forest,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000031,Waltham Forest,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000031,Waltham Forest,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000031,Waltham Forest,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000031,Waltham Forest,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000031,Waltham Forest,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000031,Waltham Forest,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000031,Waltham Forest,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000032,Wandsworth,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000032,Wandsworth,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000032,Wandsworth,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000032,Wandsworth,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000032,Wandsworth,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000032,Wandsworth,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000032,Wandsworth,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000032,Wandsworth,London,E,2021Q4,92,0,0,92,0.0,0.0
+E09000033,Westminster,London,E,2020Q1,31,11,11,91,0.1209,0.3548
+E09000033,Westminster,London,E,2020Q2,91,91,91,91,1.0,1.0
+E09000033,Westminster,London,E,2020Q3,92,3,20,92,0.0788,0.0788
+E09000033,Westminster,London,E,2020Q4,92,43,92,92,0.6902,0.6902
+E09000033,Westminster,London,E,2021Q1,90,90,90,90,1.0,1.0
+E09000033,Westminster,London,E,2021Q2,91,11,91,91,0.533,0.533
+E09000033,Westminster,London,E,2021Q3,92,0,18,92,0.0489,0.0489
+E09000033,Westminster,London,E,2021Q4,92,0,0,92,0.0,0.0
+W06000001,Isle of Anglesey,Wales,W,2020Q1,31,11,11,91,0.1209,0.3548
+W06000001,Isle of Anglesey,Wales,W,2020Q2,91,91,91,91,1.0,1.0
+W06000001,Isle of Anglesey,Wales,W,2020Q3,92,12,92,92,0.462,0.462
+W06000001,Isle of Anglesey,Wales,W,2020Q4,92,29,92,92,0.5299,0.5299
+W06000001,Isle of Anglesey,Wales,W,2021Q1,90,90,90,90,1.0,1.0
+W06000001,Isle of Anglesey,Wales,W,2021Q2,91,25,91,91,0.5714,0.5714
+W06000001,Isle of Anglesey,Wales,W,2021Q3,92,0,37,92,0.1005,0.1005
+W06000001,Isle of Anglesey,Wales,W,2021Q4,92,0,6,92,0.0163,0.0163
+W06000002,Gwynedd,Wales,W,2020Q1,31,11,11,91,0.1209,0.3548
+W06000002,Gwynedd,Wales,W,2020Q2,91,91,91,91,1.0,1.0
+W06000002,Gwynedd,Wales,W,2020Q3,92,12,92,92,0.462,0.462
+W06000002,Gwynedd,Wales,W,2020Q4,92,29,92,92,0.5343,0.5343
+W06000002,Gwynedd,Wales,W,2021Q1,90,90,90,90,1.0,1.0
+W06000002,Gwynedd,Wales,W,2021Q2,91,25,91,91,0.5714,0.5714
+W06000002,Gwynedd,Wales,W,2021Q3,92,0,37,92,0.1005,0.1005
+W06000002,Gwynedd,Wales,W,2021Q4,92,0,6,92,0.0163,0.0163
+W06000003,Conwy,Wales,W,2020Q1,31,11,11,91,0.1209,0.3548
+W06000003,Conwy,Wales,W,2020Q2,91,91,91,91,1.0,1.0
+W06000003,Conwy,Wales,W,2020Q3,92,12,92,92,0.462,0.462
+W06000003,Conwy,Wales,W,2020Q4,92,29,92,92,0.5897,0.5897
+W06000003,Conwy,Wales,W,2021Q1,90,90,90,90,1.0,1.0
+W06000003,Conwy,Wales,W,2021Q2,91,25,91,91,0.5714,0.5714
+W06000003,Conwy,Wales,W,2021Q3,92,0,37,92,0.1005,0.1005
+W06000003,Conwy,Wales,W,2021Q4,92,0,6,92,0.0163,0.0163
+W06000004,Denbighshire,Wales,W,2020Q1,31,11,11,91,0.1209,0.3548
+W06000004,Denbighshire,Wales,W,2020Q2,91,91,91,91,1.0,1.0
+W06000004,Denbighshire,Wales,W,2020Q3,92,12,92,92,0.462,0.462
+W06000004,Denbighshire,Wales,W,2020Q4,92,29,92,92,0.5897,0.5897
+W06000004,Denbighshire,Wales,W,2021Q1,90,90,90,90,1.0,1.0
+W06000004,Denbighshire,Wales,W,2021Q2,91,25,91,91,0.5714,0.5714
+W06000004,Denbighshire,Wales,W,2021Q3,92,0,37,92,0.1005,0.1005
+W06000004,Denbighshire,Wales,W,2021Q4,92,0,6,92,0.0163,0.0163
+W06000005,Flintshire,Wales,W,2020Q1,31,11,11,91,0.1209,0.3548
+W06000005,Flintshire,Wales,W,2020Q2,91,91,91,91,1.0,1.0
+W06000005,Flintshire,Wales,W,2020Q3,92,12,92,92,0.462,0.462
+W06000005,Flintshire,Wales,W,2020Q4,92,29,92,92,0.5897,0.5897
+W06000005,Flintshire,Wales,W,2021Q1,90,90,90,90,1.0,1.0
+W06000005,Flintshire,Wales,W,2021Q2,91,25,91,91,0.5714,0.5714
+W06000005,Flintshire,Wales,W,2021Q3,92,0,37,92,0.1005,0.1005
+W06000005,Flintshire,Wales,W,2021Q4,92,0,6,92,0.0163,0.0163
+W06000006,Wrexham,Wales,W,2020Q1,31,11,11,91,0.1209,0.3548
+W06000006,Wrexham,Wales,W,2020Q2,91,91,91,91,1.0,1.0
+W06000006,Wrexham,Wales,W,2020Q3,92,12,92,92,0.462,0.462
+W06000006,Wrexham,Wales,W,2020Q4,92,29,92,92,0.5897,0.5897
+W06000006,Wrexham,Wales,W,2021Q1,90,90,90,90,1.0,1.0
+W06000006,Wrexham,Wales,W,2021Q2,91,25,91,91,0.5714,0.5714
+W06000006,Wrexham,Wales,W,2021Q3,92,0,37,92,0.1005,0.1005
+W06000006,Wrexham,Wales,W,2021Q4,92,0,6,92,0.0163,0.0163
+W06000008,Ceredigion,Wales,W,2020Q1,31,11,11,91,0.1209,0.3548
+W06000008,Ceredigion,Wales,W,2020Q2,91,91,91,91,1.0,1.0
+W06000008,Ceredigion,Wales,W,2020Q3,92,12,92,92,0.462,0.462
+W06000008,Ceredigion,Wales,W,2020Q4,92,29,92,92,0.5299,0.5299
+W06000008,Ceredigion,Wales,W,2021Q1,90,90,90,90,1.0,1.0
+W06000008,Ceredigion,Wales,W,2021Q2,91,25,91,91,0.5714,0.5714
+W06000008,Ceredigion,Wales,W,2021Q3,92,0,37,92,0.1005,0.1005
+W06000008,Ceredigion,Wales,W,2021Q4,92,0,6,92,0.0163,0.0163
+W06000009,Pembrokeshire,Wales,W,2020Q1,31,11,11,91,0.1209,0.3548
+W06000009,Pembrokeshire,Wales,W,2020Q2,91,91,91,91,1.0,1.0
+W06000009,Pembrokeshire,Wales,W,2020Q3,92,12,92,92,0.462,0.462
+W06000009,Pembrokeshire,Wales,W,2020Q4,92,29,92,92,0.5299,0.5299
+W06000009,Pembrokeshire,Wales,W,2021Q1,90,90,90,90,1.0,1.0
+W06000009,Pembrokeshire,Wales,W,2021Q2,91,25,91,91,0.5714,0.5714
+W06000009,Pembrokeshire,Wales,W,2021Q3,92,0,37,92,0.1005,0.1005
+W06000009,Pembrokeshire,Wales,W,2021Q4,92,0,6,92,0.0163,0.0163
+W06000010,Carmarthenshire,Wales,W,2020Q1,31,11,11,91,0.1209,0.3548
+W06000010,Carmarthenshire,Wales,W,2020Q2,91,91,91,91,1.0,1.0
+W06000010,Carmarthenshire,Wales,W,2020Q3,92,12,92,92,0.466,0.466
+W06000010,Carmarthenshire,Wales,W,2020Q4,92,29,92,92,0.5476,0.5476
+W06000010,Carmarthenshire,Wales,W,2021Q1,90,90,90,90,1.0,1.0
+W06000010,Carmarthenshire,Wales,W,2021Q2,91,25,91,91,0.5714,0.5714
+W06000010,Carmarthenshire,Wales,W,2021Q3,92,0,37,92,0.1005,0.1005
+W06000010,Carmarthenshire,Wales,W,2021Q4,92,0,6,92,0.0163,0.0163
+W06000011,Swansea,Wales,W,2020Q1,31,11,11,91,0.1209,0.3548
+W06000011,Swansea,Wales,W,2020Q2,91,91,91,91,1.0,1.0
+W06000011,Swansea,Wales,W,2020Q3,92,12,92,92,0.4728,0.4728
+W06000011,Swansea,Wales,W,2020Q4,92,29,92,92,0.5897,0.5897
+W06000011,Swansea,Wales,W,2021Q1,90,90,90,90,1.0,1.0
+W06000011,Swansea,Wales,W,2021Q2,91,25,91,91,0.5714,0.5714
+W06000011,Swansea,Wales,W,2021Q3,92,0,37,92,0.1005,0.1005
+W06000011,Swansea,Wales,W,2021Q4,92,0,6,92,0.0163,0.0163
+W06000012,Neath Port Talbot,Wales,W,2020Q1,31,11,11,91,0.1209,0.3548
+W06000012,Neath Port Talbot,Wales,W,2020Q2,91,91,91,91,1.0,1.0
+W06000012,Neath Port Talbot,Wales,W,2020Q3,92,12,92,92,0.4701,0.4701
+W06000012,Neath Port Talbot,Wales,W,2020Q4,92,29,92,92,0.5897,0.5897
+W06000012,Neath Port Talbot,Wales,W,2021Q1,90,90,90,90,1.0,1.0
+W06000012,Neath Port Talbot,Wales,W,2021Q2,91,25,91,91,0.5714,0.5714
+W06000012,Neath Port Talbot,Wales,W,2021Q3,92,0,37,92,0.1005,0.1005
+W06000012,Neath Port Talbot,Wales,W,2021Q4,92,0,6,92,0.0163,0.0163
+W06000013,Bridgend,Wales,W,2020Q1,31,11,11,91,0.1209,0.3548
+W06000013,Bridgend,Wales,W,2020Q2,91,91,91,91,1.0,1.0
+W06000013,Bridgend,Wales,W,2020Q3,92,12,92,92,0.4864,0.4864
+W06000013,Bridgend,Wales,W,2020Q4,92,29,92,92,0.5897,0.5897
+W06000013,Bridgend,Wales,W,2021Q1,90,90,90,90,1.0,1.0
+W06000013,Bridgend,Wales,W,2021Q2,91,25,91,91,0.5714,0.5714
+W06000013,Bridgend,Wales,W,2021Q3,92,0,37,92,0.1005,0.1005
+W06000013,Bridgend,Wales,W,2021Q4,92,0,6,92,0.0163,0.0163
+W06000014,Vale of Glamorgan,Wales,W,2020Q1,31,11,11,91,0.1209,0.3548
+W06000014,Vale of Glamorgan,Wales,W,2020Q2,91,91,91,91,1.0,1.0
+W06000014,Vale of Glamorgan,Wales,W,2020Q3,92,12,92,92,0.4701,0.4701
+W06000014,Vale of Glamorgan,Wales,W,2020Q4,92,29,92,92,0.5897,0.5897
+W06000014,Vale of Glamorgan,Wales,W,2021Q1,90,90,90,90,1.0,1.0
+W06000014,Vale of Glamorgan,Wales,W,2021Q2,91,25,91,91,0.5714,0.5714
+W06000014,Vale of Glamorgan,Wales,W,2021Q3,92,0,37,92,0.1005,0.1005
+W06000014,Vale of Glamorgan,Wales,W,2021Q4,92,0,6,92,0.0163,0.0163
+W06000015,Cardiff,Wales,W,2020Q1,31,11,11,91,0.1209,0.3548
+W06000015,Cardiff,Wales,W,2020Q2,91,91,91,91,1.0,1.0
+W06000015,Cardiff,Wales,W,2020Q3,92,12,92,92,0.4728,0.4728
+W06000015,Cardiff,Wales,W,2020Q4,92,29,92,92,0.5897,0.5897
+W06000015,Cardiff,Wales,W,2021Q1,90,90,90,90,1.0,1.0
+W06000015,Cardiff,Wales,W,2021Q2,91,25,91,91,0.5714,0.5714
+W06000015,Cardiff,Wales,W,2021Q3,92,0,37,92,0.1005,0.1005
+W06000015,Cardiff,Wales,W,2021Q4,92,0,6,92,0.0163,0.0163
+W06000016,Rhondda Cynon Taf,Wales,W,2020Q1,31,11,11,91,0.1209,0.3548
+W06000016,Rhondda Cynon Taf,Wales,W,2020Q2,91,91,91,91,1.0,1.0
+W06000016,Rhondda Cynon Taf,Wales,W,2020Q3,92,12,92,92,0.5,0.5
+W06000016,Rhondda Cynon Taf,Wales,W,2020Q4,92,29,92,92,0.5897,0.5897
+W06000016,Rhondda Cynon Taf,Wales,W,2021Q1,90,90,90,90,1.0,1.0
+W06000016,Rhondda Cynon Taf,Wales,W,2021Q2,91,25,91,91,0.5714,0.5714
+W06000016,Rhondda Cynon Taf,Wales,W,2021Q3,92,0,37,92,0.1005,0.1005
+W06000016,Rhondda Cynon Taf,Wales,W,2021Q4,92,0,6,92,0.0163,0.0163
+W06000018,Caerphilly,Wales,W,2020Q1,31,11,11,91,0.1209,0.3548
+W06000018,Caerphilly,Wales,W,2020Q2,91,91,91,91,1.0,1.0
+W06000018,Caerphilly,Wales,W,2020Q3,92,12,92,92,0.5245,0.5245
+W06000018,Caerphilly,Wales,W,2020Q4,92,29,92,92,0.5897,0.5897
+W06000018,Caerphilly,Wales,W,2021Q1,90,90,90,90,1.0,1.0
+W06000018,Caerphilly,Wales,W,2021Q2,91,25,91,91,0.5714,0.5714
+W06000018,Caerphilly,Wales,W,2021Q3,92,0,37,92,0.1005,0.1005
+W06000018,Caerphilly,Wales,W,2021Q4,92,0,6,92,0.0163,0.0163
+W06000019,Blaenau Gwent,Wales,W,2020Q1,31,11,11,91,0.1209,0.3548
+W06000019,Blaenau Gwent,Wales,W,2020Q2,91,91,91,91,1.0,1.0
+W06000019,Blaenau Gwent,Wales,W,2020Q3,92,12,92,92,0.4864,0.4864
+W06000019,Blaenau Gwent,Wales,W,2020Q4,92,29,92,92,0.5897,0.5897
+W06000019,Blaenau Gwent,Wales,W,2021Q1,90,90,90,90,1.0,1.0
+W06000019,Blaenau Gwent,Wales,W,2021Q2,91,25,91,91,0.5714,0.5714
+W06000019,Blaenau Gwent,Wales,W,2021Q3,92,0,37,92,0.1005,0.1005
+W06000019,Blaenau Gwent,Wales,W,2021Q4,92,0,6,92,0.0163,0.0163
+W06000020,Torfaen,Wales,W,2020Q1,31,11,11,91,0.1209,0.3548
+W06000020,Torfaen,Wales,W,2020Q2,91,91,91,91,1.0,1.0
+W06000020,Torfaen,Wales,W,2020Q3,92,12,92,92,0.4701,0.4701
+W06000020,Torfaen,Wales,W,2020Q4,92,29,92,92,0.5897,0.5897
+W06000020,Torfaen,Wales,W,2021Q1,90,90,90,90,1.0,1.0
+W06000020,Torfaen,Wales,W,2021Q2,91,25,91,91,0.5714,0.5714
+W06000020,Torfaen,Wales,W,2021Q3,92,0,37,92,0.1005,0.1005
+W06000020,Torfaen,Wales,W,2021Q4,92,0,6,92,0.0163,0.0163
+W06000021,Monmouthshire,Wales,W,2020Q1,31,11,11,91,0.1209,0.3548
+W06000021,Monmouthshire,Wales,W,2020Q2,91,91,91,91,1.0,1.0
+W06000021,Monmouthshire,Wales,W,2020Q3,92,12,92,92,0.462,0.462
+W06000021,Monmouthshire,Wales,W,2020Q4,92,29,92,92,0.5299,0.5299
+W06000021,Monmouthshire,Wales,W,2021Q1,90,90,90,90,1.0,1.0
+W06000021,Monmouthshire,Wales,W,2021Q2,91,25,91,91,0.5714,0.5714
+W06000021,Monmouthshire,Wales,W,2021Q3,92,0,37,92,0.1005,0.1005
+W06000021,Monmouthshire,Wales,W,2021Q4,92,0,6,92,0.0163,0.0163
+W06000022,Newport,Wales,W,2020Q1,31,11,11,91,0.1209,0.3548
+W06000022,Newport,Wales,W,2020Q2,91,91,91,91,1.0,1.0
+W06000022,Newport,Wales,W,2020Q3,92,12,92,92,0.4864,0.4864
+W06000022,Newport,Wales,W,2020Q4,92,29,92,92,0.5897,0.5897
+W06000022,Newport,Wales,W,2021Q1,90,90,90,90,1.0,1.0
+W06000022,Newport,Wales,W,2021Q2,91,25,91,91,0.5714,0.5714
+W06000022,Newport,Wales,W,2021Q3,92,0,37,92,0.1005,0.1005
+W06000022,Newport,Wales,W,2021Q4,92,0,6,92,0.0163,0.0163
+W06000023,Powys,Wales,W,2020Q1,31,11,11,91,0.1209,0.3548
+W06000023,Powys,Wales,W,2020Q2,91,91,91,91,1.0,1.0
+W06000023,Powys,Wales,W,2020Q3,92,12,92,92,0.462,0.462
+W06000023,Powys,Wales,W,2020Q4,92,29,92,92,0.5299,0.5299
+W06000023,Powys,Wales,W,2021Q1,90,90,90,90,1.0,1.0
+W06000023,Powys,Wales,W,2021Q2,91,25,91,91,0.5714,0.5714
+W06000023,Powys,Wales,W,2021Q3,92,0,37,92,0.1005,0.1005
+W06000023,Powys,Wales,W,2021Q4,92,0,6,92,0.0163,0.0163
+W06000024,Merthyr Tydfil,Wales,W,2020Q1,31,11,11,91,0.1209,0.3548
+W06000024,Merthyr Tydfil,Wales,W,2020Q2,91,91,91,91,1.0,1.0
+W06000024,Merthyr Tydfil,Wales,W,2020Q3,92,12,92,92,0.4864,0.4864
+W06000024,Merthyr Tydfil,Wales,W,2020Q4,92,29,92,92,0.5897,0.5897
+W06000024,Merthyr Tydfil,Wales,W,2021Q1,90,90,90,90,1.0,1.0
+W06000024,Merthyr Tydfil,Wales,W,2021Q2,91,25,91,91,0.5714,0.5714
+W06000024,Merthyr Tydfil,Wales,W,2021Q3,92,0,37,92,0.1005,0.1005
+W06000024,Merthyr Tydfil,Wales,W,2021Q4,92,0,6,92,0.0163,0.0163

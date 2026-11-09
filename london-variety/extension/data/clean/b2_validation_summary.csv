@@ -1,0 +1,27 @@
+check,value_a,value_b,diff,pct_diff,note
+lad21: sum LA usual residents 1+ (ODMG01EW) vs TS019 E&W total,58990370.0,58990218.0,152.0,0.0002576698394299882,
+lad21: sum LA in_total all ages vs TS019 E&W migrants (UK+student+abroad),6493859.0,6493688.0,171.0,0.0026333263932606554,
+lad21: sum LA in_outside_uk vs TS019 E&W outside UK,545090.0,545096.0,-6.0,-0.0011007235422751222,
+lad21: sum in_other_ew vs sum out_other_ew (identity),2752607.0,2752607.0,0.0,0.0,
+lad21: sum of 22 bands in_total (ODMG02EW) vs all-ages (ODMG01EW),6494173.0,6493859.0,314.0,0.004835337508867993,perturbation: different tables
+lad21: sum of 22 bands in_other_ew vs out_other_ew (identity),2752805.0,2752805.0,0.0,0.0,
+lad23: sum LA usual residents 1+ (ODMG01EW) vs TS019 E&W total,58990370.0,58990218.0,152.0,0.0002576698394299882,
+lad23: sum LA in_total all ages vs TS019 E&W migrants (UK+student+abroad),6493859.0,6493688.0,171.0,0.0026333263932606554,
+lad23: sum LA in_outside_uk vs TS019 E&W outside UK,545090.0,545096.0,-6.0,-0.0011007235422751222,
+lad23: sum in_other_ew vs sum out_other_ew (identity),2741110.0,2741110.0,0.0,0.0,
+lad23: sum of 22 bands in_total (ODMG02EW) vs all-ages (ODMG01EW),6494173.0,6493859.0,314.0,0.004835337508867993,perturbation: different tables
+lad23: sum of 22 bands in_other_ew vs out_other_ew (identity),2741341.0,2741341.0,0.0,0.0,
+LAD23 vs LAD21 in_total (should be equal),6493859.0,6493859.0,0.0,0.0,
+LAD23 vs LAD21 in_same_area (rises: merged districts),3172163.0,3160666.0,11497.0,0.36375244964194253,moves between districts merged in April 2023 become same-area moves
+MSOA: sum usual residents 1+ (ODMG01EW MSOA) vs TS019 E&W total,58990007.0,58990218.0,-211.0,-0.0003576864218403126,
+MSOA: sum in_total vs TS019 E&W migrants,6493460.0,6493688.0,-228.0,-0.0035111018576808742,
+MSOA: sum in_outside_uk vs TS019 E&W outside UK,545030.0,545096.0,-66.0,-0.012107958965026344,
+MSOA: sum in_other_ew vs out_other_ew (identity),5144078.0,5144078.0,0.0,0.0,
+"MSOA summed to LAD21 vs LA file, in_total: median / max abs % diff",0.12428298279158699,1.5625,,,perturbation
+MSOA by-age (API): sum in_total vs TS019 E&W migrants,6462632.0,6493688.0,-31056.0,-0.478249031983058,
+MSOA by-age (API): sum in_outside_uk vs TS019,543412.0,545096.0,-1684.0,-0.3089364075318843,
+MSOA by-age (API): sum in_student_termtime vs TS019,348955.0,349072.0,-117.0,-0.0335174405280286,
+MSOA single-year: MSOAs returned / blocked by API,7158.0,106.0,,,
+MSOA single-year in_total vs 22-band in_total (same MSOAs),6344201.0,6336400.0,7801.0,0.12311407108137112,perturbation
+LA single-year (API): sum in_total vs TS019 E&W migrants,6493366.0,6493688.0,-322.0,-0.004958661395496673,
+LA single-year (API): sum denom_pop vs TS019 E&W total,58987960.0,58990218.0,-2258.0,-0.0038277532725849565,

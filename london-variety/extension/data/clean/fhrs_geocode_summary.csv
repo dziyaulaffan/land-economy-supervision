@@ -1,0 +1,5 @@
+category,establishments,missing_coords_before,missing_postcode,missing_coords_after,pct_geocoded_after,extract_date
+pub_bar_club,45562,4891,478,311,99.31741363416883,2026-10-29
+restaurant_cafe,125336,15667,5818,4876,96.10965724133528,2026-10-29
+takeaway,54960,4074,2257,1994,96.37190684133915,2026-10-29
+all,225858,24632,8553,7181,96.8205686758937,2026-10-29

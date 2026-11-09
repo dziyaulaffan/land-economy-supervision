@@ -1,0 +1,37 @@
+response,coef,p_wcb,elasticity_source,kind,elasticity,rent_equiv_pct,gbp_month,gbp_ci
+garden access x young x 2020 (registered headline model),4.340879258151992,0.0,"Diamond R., non-college workers",stock,-2.496,-0.17391343181698687,1.2173940227189082,1 to 2
+garden access x young x 2020 (registered headline model),4.340879258151992,0.0,"Diamond R., college workers",stock,-1.312,-0.3308596995542677,2.316017896879874,1 to 3
+garden access x young x 2020 (registered headline model),4.340879258151992,0.0,"Diamond R., non-college workers",stock,-2.944,-0.14744834436657583,1.032138410566031,1 to 1
+garden access x young x 2020 (registered headline model),4.340879258151992,0.0,"Diamond R., college workers",stock,-2.159,-0.20105971552348278,1.4074180086643795,1 to 2
+garden access x young x 2020 (registered headline model),4.340879258151992,0.0,"Piyapromdee S., high-skill male natives (working age)",stock,-0.626,-0.6934311913980818,4.854018339786573,3 to 7
+garden access x young x 2020 (registered headline model),4.340879258151992,0.0,"Piyapromdee S., high-skill female natives (working age)",stock,-0.305,-1.4232391010334402,9.962673707234082,6 to 14
+garden access x young x 2020 (registered headline model),4.340879258151992,0.0,"Piyapromdee S., low-skill male natives (working age)",stock,-0.397,-1.0934204680483608,7.653943276338525,4 to 11
+garden access x young x 2020 (registered headline model),4.340879258151992,0.0,"Piyapromdee S., low-skill female natives (working age)",stock,-0.518,-0.838007578793821,5.866053051556747,3 to 8
+garden access x young x 2020 (registered headline model),4.340879258151992,0.0,"Piyapromdee S., high-skill male immigrants (working age)",stock,-1.305,-0.3326344259120301,2.328440981384211,1 to 3
+garden access x young x 2020 (registered headline model),4.340879258151992,0.0,"Piyapromdee S., high-skill female immigrants (working age)",stock,-1.301,-0.3336571297580317,2.3355999083062216,1 to 3
+garden access x young x 2020 (registered headline model),4.340879258151992,0.0,"Piyapromdee S., low-skill male immigrants (working age)",stock,-0.442,-0.9820993796723965,6.874695657706775,4 to 10
+garden access x young x 2020 (registered headline model),4.340879258151992,0.0,"Piyapromdee S., low-skill female immigrants (working age)",stock,-1.067,-0.40683029598425424,2.8478120718897797,2 to 4
+garden access x young x 2020 (registered headline model),4.340879258151992,0.0,"Suarez Serrato J.C. and Zidar O., all workers",stock,-0.362,-1.1991379166165725,8.393965416316007,5 to 12
+garden access x young x 2020 (registered headline model),4.340879258151992,0.0,"Monte F., Redding S.J. and Rossi-Hansberg E., all workers",stock,-1.32,-0.32885448925393884,2.301981424777572,1 to 3
+garden access x young x 2020 (registered headline model),4.340879258151992,0.0,"Ahlfeldt G.M., Redding S.J., Sturm D.M. and Wolf N., all workers",stock,-1.67,-0.2599328897097002,1.8195302279679013,1 to 3
+garden access x young x 2020 (registered headline model),4.340879258151992,0.0,"Rabe B. and Taylor M., heads of household, all tenures (mean age of migrants 31)",annual flow,-0.015,-28.939195054346616,202.57436538042631,114 to 291
+garden access x young x 2020 (registered headline model),4.340879258151992,0.0,"Rabe B. and Taylor M., heads of household renting privately",annual flow,-0.005,-86.81758516303984,607.7230961412788,341 to 874
+garden access x young x 2020 (registered headline model),4.340879258151992,0.0,"Rabe B. and Taylor M., Differences in Opportunities? Wage, employment, and house-price effects on migration, heads of household",annual flow,-0.009,-48.23199175724436,337.6239423007105,190 to 486
+measure (c) pop-weighted FHRS access x young x 2020,-5.536812188143406,0.0001000100010001,"Diamond R., non-college workers",stock,-2.496,0.22182741138395057,1.5527918796876539,1 to 2
+measure (c) pop-weighted FHRS access x young x 2020,-5.536812188143406,0.0001000100010001,"Diamond R., college workers",stock,-1.312,0.42201312409629615,2.954091868674073,2 to 4
+measure (c) pop-weighted FHRS access x young x 2020,-5.536812188143406,0.0001000100010001,"Diamond R., non-college workers",stock,-2.944,0.18807106617334937,1.3164974632134456,1 to 2
+measure (c) pop-weighted FHRS access x young x 2020,-5.536812188143406,0.0001000100010001,"Diamond R., college workers",stock,-2.159,0.25645262566667004,1.7951683796666904,1 to 3
+measure (c) pop-weighted FHRS access x young x 2020,-5.536812188143406,0.0001000100010001,"Piyapromdee S., high-skill male natives (working age)",stock,-0.626,0.8844747904382437,6.191323533067706,3 to 9
+measure (c) pop-weighted FHRS access x young x 2020,-5.536812188143406,0.0001000100010001,"Piyapromdee S., high-skill female natives (working age)",stock,-0.305,1.815348258407674,12.707437808853719,7 to 18
+measure (c) pop-weighted FHRS access x young x 2020,-5.536812188143406,0.0001000100010001,"Piyapromdee S., low-skill male natives (working age)",stock,-0.397,1.3946630196834775,9.762641137784343,5 to 14
+measure (c) pop-weighted FHRS access x young x 2020,-5.536812188143406,0.0001000100010001,"Piyapromdee S., low-skill female natives (working age)",stock,-0.518,1.0688826618037461,7.482178632626224,4 to 11
+measure (c) pop-weighted FHRS access x young x 2020,-5.536812188143406,0.0001000100010001,"Piyapromdee S., high-skill male immigrants (working age)",stock,-1.305,0.42427679602631463,2.9699375721842025,2 to 4
+measure (c) pop-weighted FHRS access x young x 2020,-5.536812188143406,0.0001000100010001,"Piyapromdee S., high-skill female immigrants (working age)",stock,-1.301,0.42558125965744853,2.9790688176021396,2 to 4
+measure (c) pop-weighted FHRS access x young x 2020,-5.536812188143406,0.0001000100010001,"Piyapromdee S., low-skill male immigrants (working age)",stock,-0.442,1.2526724407564267,8.768707085294986,5 to 13
+measure (c) pop-weighted FHRS access x young x 2020,-5.536812188143406,0.0001000100010001,"Piyapromdee S., low-skill female immigrants (working age)",stock,-1.067,0.5189139820190634,3.6323978741334435,2 to 5
+measure (c) pop-weighted FHRS access x young x 2020,-5.536812188143406,0.0001000100010001,"Suarez Serrato J.C. and Zidar O., all workers",stock,-0.362,1.529506129321383,10.706542905249682,6 to 16
+measure (c) pop-weighted FHRS access x young x 2020,-5.536812188143406,0.0001000100010001,"Monte F., Redding S.J. and Rossi-Hansberg E., all workers",stock,-1.32,0.4194554687987428,2.9361882815911997,2 to 4
+measure (c) pop-weighted FHRS access x young x 2020,-5.536812188143406,0.0001000100010001,"Ahlfeldt G.M., Redding S.J., Sturm D.M. and Wolf N., all workers",stock,-1.67,0.3315456400085872,2.3208194800601105,1 to 3
+measure (c) pop-weighted FHRS access x young x 2020,-5.536812188143406,0.0001000100010001,"Rabe B. and Taylor M., heads of household, all tenures (mean age of migrants 31)",annual flow,-0.015,36.912081254289376,258.38456878002563,142 to 375
+measure (c) pop-weighted FHRS access x young x 2020,-5.536812188143406,0.0001000100010001,"Rabe B. and Taylor M., heads of household renting privately",annual flow,-0.005,110.73624376286811,775.1537063400767,426 to 1125
+measure (c) pop-weighted FHRS access x young x 2020,-5.536812188143406,0.0001000100010001,"Rabe B. and Taylor M., Differences in Opportunities? Wage, employment, and house-price effects on migration, heads of household",annual flow,-0.009,61.520135423815624,430.64094796670935,237 to 625

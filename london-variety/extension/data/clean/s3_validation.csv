@@ -1,0 +1,21 @@
+country,period,series,cases
+England,2020-01-01 to 2020-12-31,sum of LAs (this file),2301483
+England,2020-01-01 to 2020-12-31,"nation series, archived coronavirus dashboard",2327686
+England,2021-01-01 to 2021-12-31,sum of LAs (this file),9394287
+England,2021-01-01 to 2021-12-31,"nation series, archived coronavirus dashboard",9461233
+England,2020-07-01 to 2021-06-30,sum of LAs (this file),4038815
+England,2020-07-01 to 2021-06-30,"nation series, archived coronavirus dashboard",4071848
+England,2020-10-01 to 2020-10-31,sum of LAs (this file),485066
+England,2020-10-01 to 2020-10-31,"nation series, archived coronavirus dashboard",489243
+Wales,2020-01-01 to 2020-12-31,sum of LAs (this file),149016
+Wales,2020-01-01 to 2020-12-31,"nation series, archived coronavirus dashboard",156512
+Wales,2021-01-01 to 2021-12-31,sum of LAs (this file),487380
+Wales,2021-01-01 to 2021-12-31,"nation series, archived coronavirus dashboard",515112
+Wales,2020-07-01 to 2021-06-30,sum of LAs (this file),191532
+Wales,2020-07-01 to 2021-06-30,"nation series, archived coronavirus dashboard",203312
+Wales,2020-10-01 to 2020-10-31,sum of LAs (this file),26713
+Wales,2020-10-01 to 2020-10-31,"nation series, archived coronavirus dashboard",29274
+England,2020-01-01 to 2020-12-31,"nation series, UKHSA dashboard API",2327697
+England,2021-01-01 to 2021-12-31,"nation series, UKHSA dashboard API",9461198
+England,2020-07-01 to 2021-06-30,"nation series, UKHSA dashboard API",4071854
+England,2020-10-01 to 2020-10-31,"nation series, UKHSA dashboard API",489242

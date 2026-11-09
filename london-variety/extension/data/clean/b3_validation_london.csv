@@ -1,0 +1,33 @@
+check,variable,n_pilot,n_matched,n_only_pilot,n_only_national,max_abs_diff,n_diff_gt_1e6,exact_match
+"migration_net_by_age_group.csv (all, 20-29, 30-39, family, 50+)",xregion_net vs net_moves,1760,1760,0,781,1.8189894035458565e-12,0,True
+"migration_net_by_age_group.csv (all, 20-29, 30-39, family, 50+)",pop_mid2019 vs pop_mid2019,1760,1760,0,781,0.0,0,True
+"migration_net_by_age_group.csv (all, 20-29, 30-39, family, 50+)",xregion_net_per1k vs net_per1k_group,1760,1760,0,781,2.842170943040401e-14,0,True
+"migration_net_by_age_group_extended.csv (20-29, 20-24, 25-29, family, 50+)",xregion_net vs net_moves,1760,1760,0,781,1.8189894035458565e-12,0,True
+"migration_net_by_age_group_extended.csv (20-29, 20-24, 25-29, family, 50+)",xregion_net_per1k vs y,1760,1760,0,781,5.684341886080802e-14,0,True
+"migration_panel_borough_year.csv (all counterparts, non-London, Scotland/NI)",all_in vs all_in,352,352,0,11,3.637978807091713e-12,0,True
+"migration_panel_borough_year.csv (all counterparts, non-London, Scotland/NI)",all_out vs all_out,352,352,0,11,3.637978807091713e-12,0,True
+"migration_panel_borough_year.csv (all counterparts, non-London, Scotland/NI)",all_net vs all_net,352,352,0,11,5.4569682106375694e-12,0,True
+"migration_panel_borough_year.csv (all counterparts, non-London, Scotland/NI)",xregion_in vs nonlondon_in,352,352,0,11,3.637978807091713e-12,0,True
+"migration_panel_borough_year.csv (all counterparts, non-London, Scotland/NI)",xregion_out vs nonlondon_out,352,352,0,11,1.8189894035458565e-12,0,True
+"migration_panel_borough_year.csv (all counterparts, non-London, Scotland/NI)",xregion_net vs nonlondon_net,352,352,0,11,2.9558577807620168e-12,0,True
+"migration_panel_borough_year.csv (all counterparts, non-London, Scotland/NI)",scotni_in vs scotni_in,352,352,0,11,1.1368683772161603e-13,0,True
+"migration_panel_borough_year.csv (all counterparts, non-London, Scotland/NI)",scotni_out vs scotni_out,352,352,0,11,1.1368683772161603e-13,0,True
+event_study_rents_quarterly.csv,rent_index_qmean vs index,1504,1504,0,0,0.0,0,True
+event_study_rents_quarterly.csv,rent_y vs y,1504,1504,0,0,0.0,0,True
+london_amenity_density_2019.csv,units_div55 vs units_div55,32,32,0,0,0.0,0,True
+london_amenity_density_2019.csv,units_div56 vs units_div56,32,32,0,0,0.0,0,True
+london_amenity_density_2019.csv,units_div90 vs units_div90,32,32,0,0,0.0,0,True
+london_amenity_density_2019.csv,units_div91 vs units_div91,32,32,0,0,0.0,0,True
+london_amenity_density_2019.csv,units_div92 vs units_div92,32,32,0,0,0.0,0,True
+london_amenity_density_2019.csv,units_div93 vs units_div93,32,32,0,0,0.0,0,True
+london_amenity_density_2019.csv,units_all_industries vs units_all_industries,32,32,0,0,0.0,0,True
+london_amenity_density_2019.csv,units_IR vs units_IR,32,32,0,0,0.0,0,True
+london_amenity_density_2019.csv,per1k_I_accom_food vs per1k_I_accom_food,32,32,0,0,0.0,0,True
+london_amenity_density_2019.csv,per1k_R_arts_rec vs per1k_R_arts_rec,32,32,0,0,0.0,0,True
+london_amenity_density_2019.csv,per1k_IR vs per1k_IR,32,32,0,0,0.0,0,True
+london_amenity_density_2019.csv,log_per1k_IR vs log_per1k_IR,32,32,0,0,0.0,0,True
+london_amenity_density_2019.csv,pop_mid2019 vs pop_mid2019,32,32,0,0,0.0,0,True
+london_amenity_density_2019.csv,z_log_per1k_IR_london32 vs z_log_per1k_IR,32,32,0,0,4.440892098500626e-16,0,True
+controls_borough.csv (garden share),garden_share vs garden_share,32,32,0,0,0.0,0,True
+mobility_daily_london.csv,retail_recreation vs retail_recreation,31168,31168,0,0,0.0,0,True
+mobility_daily_london.csv,workplaces vs workplaces,31168,31168,0,0,0.0,0,True

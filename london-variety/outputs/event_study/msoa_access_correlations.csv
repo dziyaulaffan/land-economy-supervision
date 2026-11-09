@@ -1,0 +1,13 @@
+measure,against,corr_overall,corr_within_borough,flag_abs_within_above_0_7
+"log access index, lambda = 1.5 km",log distance to Charing Cross,-0.9540999518688426,-0.8502538175918536,True
+"log access index, lambda = 1.5 km",log own-MSOA amenity density,0.583326508875094,0.44765587229188053,False
+"log access index, lambda = 1.0 km",log distance to Charing Cross,-0.941208772712654,-0.8135876465831015,True
+"log access index, lambda = 1.0 km",log own-MSOA amenity density,0.6434186387109609,0.5624720517053944,False
+"log access index, lambda = 3.0 km",log distance to Charing Cross,-0.9452085526120962,-0.8245918813053564,True
+"log access index, lambda = 3.0 km",log own-MSOA amenity density,0.5216327877592197,0.33477456105659853,False
+log(1 + units 0-1 km),log distance to Charing Cross,-0.8082448089512485,-0.5152888219320068,False
+log(1 + units 0-1 km),log own-MSOA amenity density,0.6702416288798645,0.5595250742795758,False
+log(1 + units 1-2 km),log distance to Charing Cross,-0.8446001720561891,-0.572957455343125,False
+log(1 + units 1-2 km),log own-MSOA amenity density,0.4721110906924461,0.19348016637837206,False
+log(1 + units 2-5 km),log distance to Charing Cross,-0.9357741407869969,-0.7422344168773864,True
+log(1 + units 2-5 km),log own-MSOA amenity density,0.5025763545554025,0.2434213957287153,False

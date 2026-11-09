@@ -1,0 +1,60 @@
+check,item,value,expected,ok,note
+1 national lockdown,E 2020-04-15,1.0,1.0,True,296 LAs
+1 national lockdown,W 2020-04-15,1.0,1.0,True,22 LAs
+1 national lockdown,E 2020-11-15,1.0,1.0,True,296 LAs
+1 national lockdown,W 2020-10-30,1.0,1.0,True,22 LAs
+1 national lockdown,E 2021-01-20,1.0,1.0,True,296 LAs
+1 national lockdown,W 2021-01-20,1.0,1.0,True,22 LAs
+1 national lockdown,E 2021-02-15,1.0,1.0,True,296 LAs
+1 national lockdown,W 2021-02-15,1.0,1.0,True,22 LAs
+1 national lockdown,E 2021-04-01,1.0,1.0,True,296 LAs
+1 national lockdown,W 2021-04-01,1.0,1.0,True,22 LAs
+1 national open,E 2020-08-15,0.0338,0 except local measures,True,max 0.5
+1 national open,E 2021-08-15,0.0,0.0,True,max 0.0
+1 national open,W 2021-08-15,0.0,0.0,True,max 0.0
+2 Leicester July 2020,"mean intensity 4-31 Jul, Leicester",1.0,1.0,True,
+2 Leicester July 2020,"mean intensity 4-31 Jul, Oadby and Wigston",1.0,1.0,True,
+2 Leicester July 2020,"max mean intensity 4-31 Jul, all other English LAs",0.0,0.0,True,
+2 Leicester July 2020,2020Q3 top-5 English LAs,"Leicester, Bolton, Oadby and Wigston, Tameside, Bury","Leicester first, Oadby and Wigston in top 5",True,"values [0.6793, 0.4565, 0.4076, 0.3424, 0.3424]"
+3 Abel-Siraj tiers,LTLA-days compared,10920,,True,unmatched Abel codes: []
+3 Abel-Siraj tiers,share of LTLA-days with same tier,1.0,1.0,True,
+4 Commons Library snapshots,snapshot 20201014T1004 vs panel 2020-10-14,1.0,1.0,True,69 English LAs listed
+4 Commons Library snapshots,snapshot 20201017T0853 vs panel 2020-10-17,1.0,1.0,True,120 English LAs listed
+4 Commons Library snapshots,snapshot 20201020T1654 vs panel 2020-10-20,1.0,1.0,True,120 English LAs listed
+4 Commons Library snapshots,snapshot 20201023T0853 vs panel 2020-10-23,1.0,1.0,True,120 English LAs listed
+4 Commons Library snapshots,snapshot 20201024T0853 vs panel 2020-10-24,1.0,1.0,True,123 English LAs listed
+4 Commons Library snapshots,snapshot 20201027T0854 vs panel 2020-10-27,1.0,1.0,True,123 English LAs listed
+4 Commons Library snapshots,snapshot 20201030T0853 vs panel 2020-10-30,1.0,1.0,True,123 English LAs listed
+4 Commons Library snapshots,snapshot 20201031T0853 vs panel 2020-10-31,0.9968,1.0,True,313 English LAs listed
+4 Commons Library snapshots,snapshot 20201203T1026 vs panel 2020-12-03,1.0,1.0,True,314 English LAs listed
+4 Commons Library snapshots,snapshot 20201214T1751 vs panel 2020-12-14,1.0,1.0,True,314 English LAs listed
+4 Commons Library snapshots,snapshot 20201216T0851 vs panel 2020-12-16,1.0,1.0,True,314 English LAs listed
+4 Commons Library snapshots,snapshot 20201219T0852 vs panel 2020-12-19,1.0,1.0,True,314 English LAs listed
+4 Commons Library snapshots,snapshot 20201221T1754 vs panel 2020-12-21,1.0,1.0,True,314 English LAs listed
+5 Gibbs et al. daily scrapes,snapshot _2020_10_25_1606.csv vs panel 2020-10-25,1.0,1.0,True,123 English LAs listed
+5 Gibbs et al. daily scrapes,snapshot _2020_10_26_0820.csv vs panel 2020-10-26,1.0,1.0,True,123 English LAs listed
+5 Gibbs et al. daily scrapes,snapshot _2020_10_27_0820.csv vs panel 2020-10-27,1.0,1.0,True,123 English LAs listed
+5 Gibbs et al. daily scrapes,snapshot _2020_10_28_0820.csv vs panel 2020-10-28,1.0,1.0,True,123 English LAs listed
+5 Gibbs et al. daily scrapes,snapshot _2020_10_29_0820.csv vs panel 2020-10-29,1.0,1.0,True,123 English LAs listed
+5 Gibbs et al. daily scrapes,snapshot _2020_10_30_0812.csv vs panel 2020-10-30,1.0,1.0,True,123 English LAs listed
+5 Gibbs et al. daily scrapes,snapshot _2020_10_31_0811.csv vs panel 2020-10-31,0.9968,1.0,True,313 English LAs listed
+5 Gibbs et al. daily scrapes,snapshot _2020_11_01_0812.csv vs panel 2020-11-01,0.9968,1.0,True,313 English LAs listed
+5 Gibbs et al. daily scrapes,snapshot _2020_11_02_0813.csv vs panel 2020-11-02,0.9968,1.0,True,313 English LAs listed
+6 local measures 7 Oct 2020,LAs in Commons list but not in panel,[],[],True,unmapped names: []
+6 local measures 7 Oct 2020,LAs in panel but not in Commons list,[],[],True,
+7 published population by tier,Tier 3 on 2020-12-02 (m),23.49,23.3,True,"119 LTLAs; ONS 2018-based SNPP, 2020 projection"
+7 published population by tier,Tier 2 on 2020-12-02 (m),32.46,32.2,True,"192 LTLAs; ONS 2018-based SNPP, 2020 projection"
+7 published population by tier,Tier 1 on 2020-12-02 (m),0.72,0.714,True,"3 LTLAs; ONS 2018-based SNPP, 2020 projection"
+7 published population by tier,Tier 4 on 2020-12-31 (m),44.38,44.0,True,"259 LTLAs; ONS 2018-based SNPP, 2020 projection"
+7 published population by tier,LTLAs in Tier 3 on 2 Dec 2020,119,"119 (Abel-Siraj, dashboard geography)",True,"Tier 1: ['Cornwall', 'Isle of Wight', 'Isles of Scilly']"
+7 published population by tier,Tier 1 on 31 Dec 2020,['Isles of Scilly'],Isles of Scilly only,True,
+8 OxCGRT C2 workplace closing (nation),England 2020-04-15,3.0,3 when panel = 1,True,panel mean intensity 1.00
+8 OxCGRT C2 workplace closing (nation),Wales 2020-04-15,3.0,3 when panel = 1,True,panel mean intensity 1.00
+8 OxCGRT C2 workplace closing (nation),England 2020-11-15,3.0,3 when panel = 1,True,panel mean intensity 1.00
+8 OxCGRT C2 workplace closing (nation),Wales 2020-11-15,2.0,3 when panel = 1,True,panel mean intensity 0.25
+8 OxCGRT C2 workplace closing (nation),England 2020-10-30,2.0,3 when panel = 1,True,panel mean intensity 0.35
+8 OxCGRT C2 workplace closing (nation),Wales 2020-10-30,3.0,3 when panel = 1,True,panel mean intensity 1.00
+8 OxCGRT C2 workplace closing (nation),England 2021-02-15,3.0,3 when panel = 1,True,panel mean intensity 1.00
+8 OxCGRT C2 workplace closing (nation),Wales 2021-02-15,3.0,3 when panel = 1,True,panel mean intensity 1.00
+8 OxCGRT C2 workplace closing (nation),England 2021-08-15,0.0,3 when panel = 1,True,panel mean intensity 0.00
+8 OxCGRT C2 workplace closing (nation),Wales 2021-08-15,0.0,3 when panel = 1,True,panel mean intensity 0.00

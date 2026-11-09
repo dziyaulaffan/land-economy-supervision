@@ -1,0 +1,15 @@
+N = 843,269, MSOAs = 982, quarters 2017Q1-2026Q3
+own_density  N=843,269 K=271
+access_l15   N=843,269 K=271
+access_l10   N=843,269 K=271
+access_l30   N=843,269 K=271
+rings        N=843,269 K=347
+| Treatment | Specification | 2020Q1-2021Q4 average | Lagged 2020Q2-2022Q1 average | N | K |
+|---|---|---|---|---|---|
+| own density | Own-MSOA amenity density (round 4 headline) | -0.28 (CI -1.78 to 1.21; WCB p 0.730) | -0.33 (CI -1.89 to 1.23; WCB p 0.697) | 843,269 | 271 |
+| access 1.5 km | Access index, decay 1.5 km (main) | -0.75 (CI -6.27 to 4.78; WCB p 0.703) | -1.60 (CI -7.85 to 4.66; WCB p 0.530) | 843,269 | 271 |
+| access 1 km | Access index, decay 1 km | 0.25 (CI -4.13 to 4.62; WCB p 0.878) | -0.37 (CI -5.23 to 4.49; WCB p 0.837) | 843,269 | 271 |
+| access 3 km | Access index, decay 3 km | -1.22 (CI -6.85 to 4.42; WCB p 0.611) | -1.92 (CI -8.25 to 4.41; WCB p 0.554) | 843,269 | 271 |
+| 0-1 km ring | Ring counts entered together | 1.69 (CI -0.36 to 3.74; WCB p 0.154) | 1.58 (CI -0.49 to 3.65; WCB p 0.177) | 843,269 | 347 |
+| 1-2 km ring | Ring counts entered together | -0.08 (CI -1.54 to 1.39; WCB p 0.939) | -0.06 (CI -1.55 to 1.44; WCB p 0.959) | 843,269 | 347 |
+| 2-5 km ring | Ring counts entered together | -1.22 (CI -5.82 to 3.37; WCB p 0.592) | -1.97 (CI -7.05 to 3.10; WCB p 0.505) | 843,269 | 347 |

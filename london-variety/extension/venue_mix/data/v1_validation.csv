@@ -1,0 +1,17 @@
+check,passed
+2020-04-15: every venue type except takeaways closed (1) in every LTLA,True
+2020-11-15: every venue type except takeaways closed (1) in every LTLA,True
+2021-02-01: every venue type except takeaways closed (1) in every LTLA,True
+"2020-08-20 England: only nightclubs closed, except Leicester gyms",True
+"2020-08-20 Wales: theatres and nightclubs closed, cinemas, gyms and hospitality open",True
+"2020-10-20: Liverpool gyms closed, Manchester gyms open",True
+"2020-10-20: Very High pubs 0.5, Medium pubs 0",True
+"2020-12-10 Tier 3: hospitality, cinemas, theatres closed, gyms open",True
+"2020-12-10 Tier 2: pubs 0.5, restaurants and cinemas open",True
+"2021-04-20 England Step 2: food 0.5, cinemas/theatres/nightclubs 1, gyms 0",True
+2021-04-20 Wales: all six closed (outdoor hospitality from 26 Apr),True
+2021-06-01: only nightclubs closed in both nations,True
+"2021-07-25: England nightclubs open, Wales nightclubs closed",True
+LAD panel has 318 LADs x 671 days,True
+main window: nightclubs closed every day in every LAD,True
+main window: takeaways never closed,True

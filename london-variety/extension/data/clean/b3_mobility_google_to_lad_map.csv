@@ -1,0 +1,319 @@
+la_code,la_name,region,mapping_type,google_sub_region_1,google_sub_region_2,n_google_regions,note,rr_valid_days,wp_valid_days,window_days
+E06000001,Hartlepool,North East,direct,Hartlepool,,1,,949.0,950.0,974
+E06000002,Middlesbrough,North East,direct,Middlesbrough,,1,,949.0,968.0,974
+E06000003,Redcar and Cleveland,North East,direct,Redcar and Cleveland,,1,,949.0,968.0,974
+E06000004,Stockton-on-Tees,North East,direct,Stockton-on-Tees,,1,,953.0,968.0,974
+E06000005,Darlington,North East,direct,Darlington,,1,,949.0,968.0,974
+E06000006,Halton,North West,direct,Borough of Halton,,1,,949.0,968.0,974
+E06000007,Warrington,North West,direct,Warrington,,1,,964.0,968.0,974
+E06000008,Blackburn with Darwen,North West,direct,Blackburn with Darwen,,1,,949.0,968.0,974
+E06000009,Blackpool,North West,direct,Blackpool,,1,,949.0,968.0,974
+E06000010,"Kingston upon Hull, City of",Yorkshire and The Humber,direct,Kingston upon Hull,,1,,974.0,971.0,974
+E06000011,East Riding of Yorkshire,Yorkshire and The Humber,direct,East Riding of Yorkshire,,1,,952.0,971.0,974
+E06000012,North East Lincolnshire,Yorkshire and The Humber,direct,North East Lincolnshire,,1,,949.0,968.0,974
+E06000013,North Lincolnshire,Yorkshire and The Humber,direct,North Lincolnshire,,1,,949.0,968.0,974
+E06000014,York,Yorkshire and The Humber,direct,York,,1,,964.0,968.0,974
+E06000015,Derby,East Midlands,direct,Derby,,1,,974.0,968.0,974
+E06000016,Leicester,East Midlands,direct,Leicester,,1,,974.0,974.0,974
+E06000017,Rutland,East Midlands,direct,Rutland,,1,,151.0,831.0,974
+E06000018,Nottingham,East Midlands,direct,Nottingham,,1,,974.0,971.0,974
+E06000019,"Herefordshire, County of",West Midlands,direct,Herefordshire,,1,,949.0,968.0,974
+E06000020,Telford and Wrekin,West Midlands,direct,Shropshire,Telford and Wrekin,1,,974.0,971.0,974
+E06000021,Stoke-on-Trent,West Midlands,direct,Stoke-on-Trent,,1,,964.0,971.0,974
+E06000022,Bath and North East Somerset,South West,direct,Bath and North East Somerset,,1,,952.0,968.0,974
+E06000023,"Bristol, City of",South West,direct,Bristol City,,1,,974.0,974.0,974
+E06000024,North Somerset,South West,direct,North Somerset,,1,,950.0,968.0,974
+E06000025,South Gloucestershire,South West,direct,South Gloucestershire,,1,,974.0,970.0,974
+E06000026,Plymouth,South West,direct,Plymouth,,1,,960.0,971.0,974
+E06000027,Torbay,South West,direct,Torbay,,1,,949.0,968.0,974
+E06000030,Swindon,South West,direct,Swindon,,1,,968.0,968.0,974
+E06000031,Peterborough,East of England,direct,Peterborough,,1,,974.0,968.0,974
+E06000032,Luton,East of England,direct,Luton,,1,,949.0,968.0,974
+E06000033,Southend-on-Sea,East of England,direct,Southend-on-Sea,,1,,949.0,968.0,974
+E06000034,Thurrock,East of England,direct,Thurrock,,1,,952.0,968.0,974
+E06000035,Medway,South East,direct,Medway,,1,,952.0,971.0,974
+E06000036,Bracknell Forest,South East,direct,Bracknell Forest,,1,,949.0,968.0,974
+E06000037,West Berkshire,South East,direct,West Berkshire,,1,,949.0,968.0,974
+E06000038,Reading,South East,direct,Reading,,1,,965.0,968.0,974
+E06000039,Slough,South East,direct,Slough,,1,,949.0,968.0,974
+E06000040,Windsor and Maidenhead,South East,direct,Windsor and Maidenhead,,1,,949.0,968.0,974
+E06000041,Wokingham,South East,direct,Wokingham,,1,,949.0,968.0,974
+E06000042,Milton Keynes,South East,direct,Milton Keynes,,1,,974.0,968.0,974
+E06000043,Brighton and Hove,South East,direct,Brighton and Hove,,1,,972.0,968.0,974
+E06000044,Portsmouth,South East,direct,Portsmouth,,1,,969.0,968.0,974
+E06000045,Southampton,South East,direct,Southampton,,1,,971.0,971.0,974
+E06000046,Isle of Wight,South East,direct,Isle of Wight,,1,,949.0,968.0,974
+E06000047,County Durham,North East,direct,County Durham,,1,,974.0,974.0,974
+E06000049,Cheshire East,North West,direct,Cheshire East,,1,,971.0,971.0,974
+E06000050,Cheshire West and Chester,North West,direct,Cheshire West and Chester,,1,,974.0,971.0,974
+E06000051,Shropshire,West Midlands,broader_region,Shropshire,,1,"Google Shropshire aggregate, also covers Telford and Wrekin",974.0,974.0,974
+E06000052,Cornwall,South West,direct,Cornwall,,1,Google Cornwall (GB-CON); sub-LA area 'Penryn' not used,968.0,974.0,974
+E06000053,Isles of Scilly,South West,missing,,,0,no Google series,0.0,0.0,974
+E06000054,Wiltshire,South West,direct,Wiltshire,,1,,974.0,971.0,974
+E06000055,Bedford,East of England,direct,Bedford,,1,,952.0,968.0,974
+E06000056,Central Bedfordshire,East of England,direct,Central Bedfordshire,,1,,955.0,968.0,974
+E06000057,Northumberland,North East,direct,Northumberland,,1,,955.0,971.0,974
+E06000058,"Bournemouth, Christchurch and Poole",South West,direct,Dorset,"Bournemouth, Christchurch and Poole",1,,974.0,974.0,974
+E06000059,Dorset,South West,direct,Dorset,Dorset,1,Google 'Dorset' sub_region_2 series (Dorset UA); GB-DOR county aggregate not used,974.0,974.0,974
+E06000060,Buckinghamshire,South East,county_equals_lad,Buckinghamshire,,1,Google county series; area equals the 2023 unitary,974.0,974.0,974
+E06000061,North Northamptonshire,East Midlands,composite,Northamptonshire,Corby District; East Northamptonshire; Borough of Kettering; Borough of Wellingborough,4,population-weighted mean of pre-2023 district series (Census 2011 weights),950.0,968.0,974
+E06000062,West Northamptonshire,East Midlands,composite,Northamptonshire,Daventry District; Northampton District; South Northamptonshire District,3,population-weighted mean of pre-2023 district series (Census 2011 weights),974.0,974.0,974
+E06000063,Cumberland,North West,composite,Cumbria,Allerdale District; City of Carlisle; Copeland District,3,population-weighted mean of pre-2023 district series (Census 2011 weights),954.0,968.0,974
+E06000064,Westmorland and Furness,North West,composite,Cumbria,Barrow-in-Furness District; Eden District; South Lakeland District,3,population-weighted mean of pre-2023 district series (Census 2011 weights),949.0,968.0,974
+E06000065,North Yorkshire Council,Yorkshire and The Humber,county_equals_lad,North Yorkshire,,1,Google county series; area equals the 2023 unitary,974.0,974.0,974
+E06000066,Somerset Council,South West,county_equals_lad,Somerset,,1,Google county series; area equals the 2023 unitary,974.0,974.0,974
+E07000008,Cambridge,East of England,direct,Cambridgeshire,Cambridge,1,,974.0,968.0,974
+E07000009,East Cambridgeshire,East of England,direct,Cambridgeshire,East Cambridgeshire District,1,,949.0,968.0,974
+E07000010,Fenland,East of England,direct,Cambridgeshire,Fenland District,1,,949.0,968.0,974
+E07000011,Huntingdonshire,East of England,direct,Cambridgeshire,Huntingdonshire District,1,,960.0,971.0,974
+E07000012,South Cambridgeshire,East of England,direct,Cambridgeshire,South Cambridgeshire District,1,,949.0,968.0,974
+E07000032,Amber Valley,East Midlands,direct,Derbyshire,Amber Valley,1,,952.0,968.0,974
+E07000033,Bolsover,East Midlands,direct,Derbyshire,Bolsover District,1,,949.0,968.0,974
+E07000034,Chesterfield,East Midlands,direct,Derbyshire,Chesterfield District,1,,960.0,968.0,974
+E07000035,Derbyshire Dales,East Midlands,direct,Derbyshire,Derbyshire Dales District,1,,949.0,968.0,974
+E07000036,Erewash,East Midlands,direct,Derbyshire,Erewash District,1,,949.0,968.0,974
+E07000037,High Peak,East Midlands,direct,Derbyshire,High Peak District,1,,949.0,968.0,974
+E07000038,North East Derbyshire,East Midlands,direct,Derbyshire,North East Derbyshire District,1,,949.0,968.0,974
+E07000039,South Derbyshire,East Midlands,direct,Derbyshire,South Derbyshire District,1,,949.0,968.0,974
+E07000040,East Devon,South West,direct,Devon,East Devon District,1,,949.0,968.0,974
+E07000041,Exeter,South West,direct,Devon,Exeter,1,,974.0,968.0,974
+E07000042,Mid Devon,South West,direct,Devon,Mid Devon District,1,,948.0,968.0,974
+E07000043,North Devon,South West,direct,Devon,North Devon District,1,,949.0,968.0,974
+E07000044,South Hams,South West,direct,Devon,South Hams District,1,,949.0,968.0,974
+E07000045,Teignbridge,South West,direct,Devon,Teignbridge,1,,952.0,968.0,974
+E07000046,Torridge,South West,direct,Devon,Torridge District,1,,945.0,968.0,974
+E07000047,West Devon,South West,direct,Devon,West Devon District,1,,921.0,948.0,974
+E07000061,Eastbourne,South East,direct,East Sussex,Eastbourne,1,,958.0,968.0,974
+E07000062,Hastings,South East,direct,East Sussex,Hastings District,1,,952.0,968.0,974
+E07000063,Lewes,South East,direct,East Sussex,Lewes District,1,,949.0,968.0,974
+E07000064,Rother,South East,direct,East Sussex,Rother District,1,,949.0,968.0,974
+E07000065,Wealden,South East,direct,East Sussex,Wealden District,1,,949.0,968.0,974
+E07000066,Basildon,East of England,direct,Essex,Basildon District,1,,974.0,971.0,974
+E07000067,Braintree,East of England,direct,Essex,Braintree District,1,,952.0,968.0,974
+E07000068,Brentwood,East of England,direct,Essex,Brentwood District,1,,949.0,968.0,974
+E07000069,Castle Point,East of England,direct,Essex,Castle Point District,1,,949.0,968.0,974
+E07000070,Chelmsford,East of England,direct,Essex,Chelmsford,1,,974.0,969.0,974
+E07000071,Colchester,East of England,direct,Essex,Borough of Colchester,1,,972.0,971.0,974
+E07000072,Epping Forest,East of England,direct,Essex,Epping Forest District,1,,949.0,968.0,974
+E07000073,Harlow,East of England,direct,Essex,Harlow District,1,,955.0,968.0,974
+E07000074,Maldon,East of England,direct,Essex,Maldon District,1,,949.0,968.0,974
+E07000075,Rochford,East of England,direct,Essex,Rochford District,1,,949.0,968.0,974
+E07000076,Tendring,East of England,direct,Essex,Tendring District,1,,949.0,968.0,974
+E07000077,Uttlesford,East of England,direct,Essex,Uttlesford,1,,949.0,968.0,974
+E07000078,Cheltenham,South West,direct,Gloucestershire,Cheltenham,1,,955.0,968.0,974
+E07000079,Cotswold,South West,direct,Gloucestershire,Cotswold District,1,,949.0,968.0,974
+E07000080,Forest of Dean,South West,direct,Gloucestershire,Forest of Dean District,1,,942.0,968.0,974
+E07000081,Gloucester,South West,direct,Gloucestershire,Gloucester District,1,,972.0,970.0,974
+E07000082,Stroud,South West,direct,Gloucestershire,Stroud District,1,,949.0,968.0,974
+E07000083,Tewkesbury,South West,direct,Gloucestershire,Tewkesbury Borough,1,,949.0,968.0,974
+E07000084,Basingstoke and Deane,South East,direct,Hampshire,Basingstoke and Deane District,1,,974.0,971.0,974
+E07000085,East Hampshire,South East,direct,Hampshire,East Hampshire,1,,949.0,968.0,974
+E07000086,Eastleigh,South East,direct,Hampshire,Eastleigh District,1,,958.0,968.0,974
+E07000087,Fareham,South East,direct,Hampshire,Fareham District,1,,953.0,968.0,974
+E07000088,Gosport,South East,direct,Hampshire,Gosport,1,,949.0,968.0,974
+E07000089,Hart,South East,direct,Hampshire,Hart District,1,,949.0,968.0,974
+E07000090,Havant,South East,direct,Hampshire,Havant,1,,949.0,968.0,974
+E07000091,New Forest,South East,direct,Hampshire,New Forest District,1,,950.0,968.0,974
+E07000092,Rushmoor,South East,direct,Hampshire,Rushmoor District,1,,972.0,968.0,974
+E07000093,Test Valley,South East,direct,Hampshire,Test Valley District,1,,952.0,968.0,974
+E07000094,Winchester,South East,direct,Hampshire,City of Winchester,1,,958.0,968.0,974
+E07000095,Broxbourne,East of England,direct,Hertfordshire,Broxbourne District,1,,949.0,968.0,974
+E07000096,Dacorum,East of England,direct,Hertfordshire,Dacorum District,1,,956.0,968.0,974
+E07000098,Hertsmere,East of England,direct,Hertfordshire,Hertsmere District,1,,949.0,968.0,974
+E07000099,North Hertfordshire,East of England,direct,Hertfordshire,North Hertfordshire District,1,,955.0,968.0,974
+E07000102,Three Rivers,East of England,direct,Hertfordshire,Three Rivers District,1,,949.0,968.0,974
+E07000103,Watford,East of England,direct,Hertfordshire,Watford District,1,,966.0,968.0,974
+E07000105,Ashford,South East,direct,Kent,Ashford District,1,,955.0,968.0,974
+E07000106,Canterbury,South East,direct,Kent,City of Canterbury,1,,973.0,969.0,974
+E07000107,Dartford,South East,direct,Kent,Dartford District,1,,973.0,968.0,974
+E07000108,Dover,South East,direct,Kent,Dover District,1,,949.0,968.0,974
+E07000109,Gravesham,South East,direct,Kent,Gravesham District,1,,949.0,968.0,974
+E07000110,Maidstone,South East,direct,Kent,Maidstone District,1,,971.0,971.0,974
+E07000111,Sevenoaks,South East,direct,Kent,Sevenoaks District,1,,949.0,968.0,974
+E07000112,Folkestone and Hythe,South East,direct,Kent,Folkestone & Hythe District,1,,949.0,968.0,974
+E07000113,Swale,South East,direct,Kent,Borough of Swale,1,,952.0,969.0,974
+E07000114,Thanet,South East,direct,Kent,Thanet District,1,,962.0,971.0,974
+E07000115,Tonbridge and Malling,South East,direct,Kent,Tonbridge and Malling District,1,,951.0,968.0,974
+E07000116,Tunbridge Wells,South East,direct,Kent,Tunbridge Wells District,1,,952.0,968.0,974
+E07000117,Burnley,North West,direct,Lancashire,Borough of Burnley,1,,952.0,968.0,974
+E07000118,Chorley,North West,direct,Lancashire,Chorley District,1,,952.0,968.0,974
+E07000119,Fylde,North West,direct,Lancashire,Borough of Fylde,1,,949.0,968.0,974
+E07000120,Hyndburn,North West,direct,Lancashire,Hyndburn,1,,949.0,968.0,974
+E07000121,Lancaster,North West,direct,Lancashire,Lancaster District,1,,957.0,971.0,974
+E07000122,Pendle,North West,direct,Lancashire,Pendle District,1,,949.0,968.0,974
+E07000123,Preston,North West,direct,Lancashire,City of Preston,1,,974.0,971.0,974
+E07000124,Ribble Valley,North West,direct,Lancashire,Ribble Valley District,1,,949.0,968.0,974
+E07000125,Rossendale,North West,direct,Lancashire,Rossendale,1,,949.0,968.0,974
+E07000126,South Ribble,North West,direct,Lancashire,South Ribble District,1,,950.0,968.0,974
+E07000127,West Lancashire,North West,direct,Lancashire,West Lancashire District,1,,950.0,968.0,974
+E07000128,Wyre,North West,direct,Lancashire,Wyre District,1,,949.0,968.0,974
+E07000129,Blaby,East Midlands,direct,Leicestershire,Blaby District,1,,952.0,968.0,974
+E07000130,Charnwood,East Midlands,direct,Leicestershire,Charnwood,1,,972.0,971.0,974
+E07000131,Harborough,East Midlands,direct,Leicestershire,Harborough District,1,,949.0,968.0,974
+E07000132,Hinckley and Bosworth,East Midlands,direct,Leicestershire,Hinckley and Bosworth District,1,,949.0,968.0,974
+E07000133,Melton,East Midlands,direct,Leicestershire,Melton District,1,,947.0,968.0,974
+E07000134,North West Leicestershire,East Midlands,direct,Leicestershire,North West Leicestershire District,1,,949.0,968.0,974
+E07000135,Oadby and Wigston,East Midlands,direct,Leicestershire,Oadby and Wigston District,1,,947.0,968.0,974
+E07000136,Boston,East Midlands,direct,Lincolnshire,Boston District,1,,949.0,968.0,974
+E07000137,East Lindsey,East Midlands,direct,Lincolnshire,East Lindsey District,1,,949.0,968.0,974
+E07000138,Lincoln,East Midlands,direct,Lincolnshire,Lincoln District,1,,974.0,968.0,974
+E07000139,North Kesteven,East Midlands,direct,Lincolnshire,North Kesteven District,1,,949.0,968.0,974
+E07000140,South Holland,East Midlands,direct,Lincolnshire,South Holland District,1,,949.0,968.0,974
+E07000141,South Kesteven,East Midlands,direct,Lincolnshire,South Kesteven District,1,,954.0,968.0,974
+E07000142,West Lindsey,East Midlands,direct,Lincolnshire,West Lindsey District,1,,949.0,968.0,974
+E07000143,Breckland,East of England,direct,Norfolk,Breckland District,1,,949.0,968.0,974
+E07000144,Broadland,East of England,direct,Norfolk,Broadland District,1,,949.0,968.0,974
+E07000145,Great Yarmouth,East of England,direct,Norfolk,Great Yarmouth District,1,,949.0,968.0,974
+E07000146,King's Lynn and West Norfolk,East of England,direct,Norfolk,King's Lynn and West Norfolk District,1,,952.0,971.0,974
+E07000147,North Norfolk,East of England,direct,Norfolk,North Norfolk District,1,,949.0,968.0,974
+E07000148,Norwich,East of England,direct,Norfolk,Norwich,1,,974.0,971.0,974
+E07000149,South Norfolk,East of England,direct,Norfolk,South Norfolk District,1,,949.0,968.0,974
+E07000170,Ashfield,East Midlands,direct,Nottinghamshire,Ashfield District,1,,952.0,968.0,974
+E07000171,Bassetlaw,East Midlands,direct,Nottinghamshire,Bassetlaw District,1,,949.0,968.0,974
+E07000172,Broxtowe,East Midlands,direct,Nottinghamshire,Broxtowe District,1,,960.0,968.0,974
+E07000173,Gedling,East Midlands,direct,Nottinghamshire,Gedling District,1,,949.0,968.0,974
+E07000174,Mansfield,East Midlands,direct,Nottinghamshire,Mansfield District,1,,955.0,968.0,974
+E07000175,Newark and Sherwood,East Midlands,direct,Nottinghamshire,Newark and Sherwood District,1,,950.0,968.0,974
+E07000176,Rushcliffe,East Midlands,direct,Nottinghamshire,Rushcliffe District,1,,949.0,968.0,974
+E07000177,Cherwell,South East,direct,Oxfordshire,Cherwell District,1,,966.0,971.0,974
+E07000178,Oxford,South East,direct,Oxfordshire,Oxford,1,,974.0,971.0,974
+E07000179,South Oxfordshire,South East,direct,Oxfordshire,South Oxfordshire District,1,,952.0,968.0,974
+E07000180,Vale of White Horse,South East,direct,Oxfordshire,Vale of White Horse District,1,,949.0,968.0,974
+E07000181,West Oxfordshire,South East,direct,Oxfordshire,West Oxfordshire District,1,,949.0,968.0,974
+E07000192,Cannock Chase,West Midlands,direct,Staffordshire,Cannock Chase District,1,,955.0,968.0,974
+E07000193,East Staffordshire,West Midlands,direct,Staffordshire,East Staffordshire District,1,,955.0,968.0,974
+E07000194,Lichfield,West Midlands,direct,Staffordshire,Lichfield District,1,,951.0,968.0,974
+E07000195,Newcastle-under-Lyme,West Midlands,direct,Staffordshire,Newcastle-under-Lyme District,1,,955.0,968.0,974
+E07000196,South Staffordshire,West Midlands,direct,Staffordshire,South Staffordshire District,1,,949.0,968.0,974
+E07000197,Stafford,West Midlands,direct,Staffordshire,Stafford District,1,,960.0,968.0,974
+E07000198,Staffordshire Moorlands,West Midlands,direct,Staffordshire,Staffordshire Moorlands District,1,,949.0,968.0,974
+E07000199,Tamworth,West Midlands,direct,Staffordshire,Tamworth District,1,,952.0,968.0,974
+E07000200,Babergh,East of England,direct,Suffolk,Babergh District,1,,949.0,968.0,974
+E07000202,Ipswich,East of England,direct,Suffolk,Ipswich,1,,974.0,971.0,974
+E07000203,Mid Suffolk,East of England,direct,Suffolk,Mid Suffolk District,1,,949.0,968.0,974
+E07000207,Elmbridge,South East,direct,Surrey,Elmbridge,1,,950.0,968.0,974
+E07000208,Epsom and Ewell,South East,direct,Surrey,Epsom and Ewell District,1,,949.0,968.0,974
+E07000209,Guildford,South East,direct,Surrey,Borough of Guildford,1,,961.0,968.0,974
+E07000210,Mole Valley,South East,direct,Surrey,Mole Valley District,1,,949.0,968.0,974
+E07000211,Reigate and Banstead,South East,direct,Surrey,Reigate and Banstead District,1,,955.0,968.0,974
+E07000212,Runnymede,South East,direct,Surrey,Runnymede District,1,,949.0,968.0,974
+E07000213,Spelthorne,South East,direct,Surrey,Spelthorne District,1,,954.0,968.0,974
+E07000214,Surrey Heath,South East,direct,Surrey,Surrey Heath District,1,,952.0,968.0,974
+E07000215,Tandridge,South East,direct,Surrey,Tandridge District,1,,949.0,968.0,974
+E07000216,Waverley,South East,direct,Surrey,Borough of Waverley,1,,949.0,968.0,974
+E07000217,Woking,South East,direct,Surrey,Borough of Woking,1,,952.0,968.0,974
+E07000218,North Warwickshire,West Midlands,direct,Warwickshire,North Warwickshire District,1,,949.0,968.0,974
+E07000219,Nuneaton and Bedworth,West Midlands,direct,Warwickshire,Nuneaton and Bedworth,1,,952.0,968.0,974
+E07000220,Rugby,West Midlands,direct,Warwickshire,Rugby District,1,,955.0,968.0,974
+E07000221,Stratford-on-Avon,West Midlands,direct,Warwickshire,Stratford-on-Avon District,1,,952.0,968.0,974
+E07000222,Warwick,West Midlands,direct,Warwickshire,Warwick,1,,967.0,968.0,974
+E07000223,Adur,South East,direct,West Sussex,Adur District,1,,949.0,968.0,974
+E07000224,Arun,South East,direct,West Sussex,Arun District,1,,952.0,971.0,974
+E07000225,Chichester,South East,direct,West Sussex,Chichester District,1,,952.0,968.0,974
+E07000226,Crawley,South East,direct,West Sussex,Crawley,1,,972.0,969.0,974
+E07000227,Horsham,South East,direct,West Sussex,Horsham District,1,,951.0,968.0,974
+E07000228,Mid Sussex,South East,direct,West Sussex,Mid Sussex District,1,,952.0,968.0,974
+E07000229,Worthing,South East,direct,West Sussex,Worthing,1,,952.0,968.0,974
+E07000234,Bromsgrove,West Midlands,direct,Worcestershire,Bromsgrove District,1,,949.0,968.0,974
+E07000235,Malvern Hills,West Midlands,direct,Worcestershire,Malvern Hills District,1,,949.0,968.0,974
+E07000236,Redditch,West Midlands,direct,Worcestershire,Redditch District,1,,952.0,968.0,974
+E07000237,Worcester,West Midlands,direct,Worcestershire,Worcester District,1,,955.0,968.0,974
+E07000238,Wychavon,West Midlands,direct,Worcestershire,Wychavon District,1,,949.0,968.0,974
+E07000239,Wyre Forest,West Midlands,direct,Worcestershire,Wyre Forest District,1,,949.0,968.0,974
+E07000240,St Albans,East of England,direct,Hertfordshire,Saint Albans District,1,,958.0,968.0,974
+E07000241,Welwyn Hatfield,East of England,direct,Hertfordshire,Welwyn Hatfield,1,,956.0,968.0,974
+E07000242,East Hertfordshire,East of England,direct,Hertfordshire,East Hertfordshire District,1,,952.0,968.0,974
+E07000243,Stevenage,East of England,direct,Hertfordshire,Stevenage District,1,,958.0,968.0,974
+E07000244,East Suffolk,East of England,composite,Suffolk,Suffolk Coastal District; Waveney District,2,population-weighted mean of pre-2023 district series (Census 2011 weights),949.0,968.0,974
+E07000245,West Suffolk,East of England,direct,Suffolk,West Suffolk District,1,,974.0,971.0,974
+E08000001,Bolton,North West,direct,Greater Manchester,Bolton District,1,,974.0,974.0,974
+E08000002,Bury,North West,direct,Greater Manchester,Bury District,1,,974.0,971.0,974
+E08000003,Manchester,North West,direct,Greater Manchester,Manchester,1,,974.0,974.0,974
+E08000004,Oldham,North West,direct,Greater Manchester,Oldham District,1,,974.0,974.0,974
+E08000005,Rochdale,North West,direct,Greater Manchester,Rochdale District,1,,974.0,974.0,974
+E08000006,Salford,North West,direct,Greater Manchester,Salford District,1,,974.0,974.0,974
+E08000007,Stockport,North West,direct,Greater Manchester,Metropolitan Borough of Stockport,1,,974.0,974.0,974
+E08000008,Tameside,North West,direct,Greater Manchester,Borough of Tameside,1,,974.0,974.0,974
+E08000009,Trafford,North West,direct,Greater Manchester,Trafford,1,,974.0,974.0,974
+E08000010,Wigan,North West,direct,Greater Manchester,Metropolitan Borough of Wigan,1,,974.0,974.0,974
+E08000011,Knowsley,North West,direct,Merseyside,Metropolitan Borough of Knowsley,1,,971.0,971.0,974
+E08000012,Liverpool,North West,direct,Merseyside,Liverpool,1,,974.0,974.0,974
+E08000013,St. Helens,North West,direct,Merseyside,Metropolitan Borough of St Helens,1,,974.0,974.0,974
+E08000014,Sefton,North West,direct,Merseyside,Metropolitan Borough of Sefton,1,,974.0,974.0,974
+E08000015,Wirral,North West,direct,Merseyside,Wirral,1,,974.0,974.0,974
+E08000016,Barnsley,Yorkshire and The Humber,direct,South Yorkshire,Borough of Barnsley,1,,974.0,974.0,974
+E08000017,Doncaster,Yorkshire and The Humber,direct,South Yorkshire,Doncaster District,1,,974.0,974.0,974
+E08000018,Rotherham,Yorkshire and The Humber,direct,South Yorkshire,Rotherham District,1,,974.0,974.0,974
+E08000019,Sheffield,Yorkshire and The Humber,direct,South Yorkshire,Sheffield District,1,,974.0,974.0,974
+E08000021,Newcastle upon Tyne,North East,direct,Tyne and Wear,Newcastle upon Tyne District,1,,974.0,974.0,974
+E08000022,North Tyneside,North East,direct,Tyne and Wear,North Tyneside District,1,,974.0,972.0,974
+E08000023,South Tyneside,North East,direct,Tyne and Wear,South Tyneside,1,,955.0,971.0,974
+E08000024,Sunderland,North East,direct,Tyne and Wear,Sunderland District,1,,974.0,974.0,974
+E08000025,Birmingham,West Midlands,direct,West Midlands,Birmingham District,1,,974.0,974.0,974
+E08000026,Coventry,West Midlands,direct,West Midlands,Coventry,1,,974.0,974.0,974
+E08000027,Dudley,West Midlands,direct,West Midlands,Dudley District,1,,974.0,974.0,974
+E08000028,Sandwell,West Midlands,direct,West Midlands,Sandwell District,1,,974.0,974.0,974
+E08000029,Solihull,West Midlands,direct,West Midlands,Metropolitan Borough of Solihull,1,,974.0,971.0,974
+E08000030,Walsall,West Midlands,direct,West Midlands,Walsall District,1,,974.0,974.0,974
+E08000031,Wolverhampton,West Midlands,direct,West Midlands,City of Wolverhampton District,1,,974.0,974.0,974
+E08000032,Bradford,Yorkshire and The Humber,direct,West Yorkshire,Bradford District,1,,974.0,974.0,974
+E08000033,Calderdale,Yorkshire and The Humber,direct,West Yorkshire,Calderdale,1,,974.0,971.0,974
+E08000034,Kirklees,Yorkshire and The Humber,direct,West Yorkshire,Metropolitan Borough of Kirklees,1,,974.0,974.0,974
+E08000035,Leeds,Yorkshire and The Humber,direct,West Yorkshire,Leeds District,1,,974.0,974.0,974
+E08000036,Wakefield,Yorkshire and The Humber,direct,West Yorkshire,Wakefield District,1,,974.0,974.0,974
+E08000037,Gateshead,North East,direct,Tyne and Wear,Metropolitan Borough of Gateshead,1,,974.0,974.0,974
+E09000001,City of London,London,direct,Greater London,City of London,1,,974.0,675.0,974
+E09000002,Barking and Dagenham,London,direct,Greater London,London Borough of Barking and Dagenham,1,,974.0,974.0,974
+E09000003,Barnet,London,direct,Greater London,London Borough of Barnet,1,,974.0,974.0,974
+E09000004,Bexley,London,direct,Greater London,London Borough of Bexley,1,,974.0,974.0,974
+E09000005,Brent,London,direct,Greater London,London Borough of Brent,1,,974.0,974.0,974
+E09000006,Bromley,London,direct,Greater London,London Borough of Bromley,1,,974.0,974.0,974
+E09000007,Camden,London,direct,Greater London,London Borough of Camden,1,,974.0,971.0,974
+E09000008,Croydon,London,direct,Greater London,London Borough of Croydon,1,,974.0,974.0,974
+E09000009,Ealing,London,direct,Greater London,London Borough of Ealing,1,,974.0,974.0,974
+E09000010,Enfield,London,direct,Greater London,London Borough of Enfield,1,,974.0,974.0,974
+E09000011,Greenwich,London,direct,Greater London,Royal Borough of Greenwich,1,,974.0,974.0,974
+E09000012,Hackney,London,direct,Greater London,London Borough of Hackney,1,,974.0,974.0,974
+E09000013,Hammersmith and Fulham,London,direct,Greater London,London Borough of Hammersmith and Fulham,1,,974.0,971.0,974
+E09000014,Haringey,London,direct,Greater London,London Borough of Haringey,1,,974.0,974.0,974
+E09000015,Harrow,London,direct,Greater London,London Borough of Harrow,1,,973.0,974.0,974
+E09000016,Havering,London,direct,Greater London,London Borough of Havering,1,,974.0,974.0,974
+E09000017,Hillingdon,London,direct,Greater London,London Borough of Hillingdon,1,,974.0,974.0,974
+E09000018,Hounslow,London,direct,Greater London,London Borough of Hounslow,1,,974.0,974.0,974
+E09000019,Islington,London,direct,Greater London,London Borough of Islington,1,,974.0,971.0,974
+E09000020,Kensington and Chelsea,London,direct,Greater London,Royal Borough of Kensington and Chelsea,1,,974.0,968.0,974
+E09000021,Kingston upon Thames,London,direct,Greater London,Royal Borough of Kingston upon Thames,1,,974.0,971.0,974
+E09000022,Lambeth,London,direct,Greater London,London Borough of Lambeth,1,,974.0,974.0,974
+E09000023,Lewisham,London,direct,Greater London,London Borough of Lewisham,1,,974.0,974.0,974
+E09000024,Merton,London,direct,Greater London,London Borough of Merton,1,,974.0,974.0,974
+E09000025,Newham,London,direct,Greater London,London Borough of Newham,1,,974.0,974.0,974
+E09000026,Redbridge,London,direct,Greater London,London Borough of Redbridge,1,,974.0,974.0,974
+E09000027,Richmond upon Thames,London,direct,Greater London,London Borough of Richmond upon Thames,1,,973.0,968.0,974
+E09000028,Southwark,London,direct,Greater London,London Borough of Southwark,1,,974.0,974.0,974
+E09000029,Sutton,London,direct,Greater London,London Borough of Sutton,1,,958.0,971.0,974
+E09000030,Tower Hamlets,London,direct,Greater London,London Borough of Tower Hamlets,1,,974.0,974.0,974
+E09000031,Waltham Forest,London,direct,Greater London,London Borough of Waltham Forest,1,,974.0,974.0,974
+E09000032,Wandsworth,London,direct,Greater London,London Borough of Wandsworth,1,,974.0,974.0,974
+E09000033,Westminster,London,direct,Greater London,City of Westminster,1,,974.0,971.0,974
+W06000001,Isle of Anglesey,Wales,direct,Isle of Anglesey,,1,,720.0,949.0,974
+W06000002,Gwynedd,Wales,direct,Gwynedd,,1,,949.0,962.0,974
+W06000003,Conwy,Wales,direct,Conwy Principal Area,,1,,949.0,968.0,974
+W06000004,Denbighshire,Wales,direct,Denbighshire,,1,,949.0,950.0,974
+W06000005,Flintshire,Wales,direct,Flintshire,,1,,949.0,968.0,974
+W06000006,Wrexham,Wales,direct,Wrexham Principal Area,,1,,949.0,968.0,974
+W06000008,Ceredigion,Wales,direct,Ceredigion,,1,,837.0,949.0,974
+W06000009,Pembrokeshire,Wales,direct,Pembrokeshire,,1,,949.0,950.0,974
+W06000010,Carmarthenshire,Wales,direct,Carmarthenshire,,1,,949.0,968.0,974
+W06000011,Swansea,Wales,direct,Swansea,,1,,962.0,968.0,974
+W06000012,Neath Port Talbot,Wales,direct,Neath Port Talbot Principle Area,,1,,949.0,968.0,974
+W06000013,Bridgend,Wales,direct,Bridgend County Borough,,1,,949.0,968.0,974
+W06000014,Vale of Glamorgan,Wales,direct,Vale of Glamorgan,,1,,949.0,968.0,974
+W06000015,Cardiff,Wales,direct,Cardiff,,1,,974.0,971.0,974
+W06000016,Rhondda Cynon Taf,Wales,direct,Rhondda Cynon Taff,,1,,949.0,968.0,974
+W06000018,Caerphilly,Wales,direct,Caerphilly County Borough,,1,,949.0,968.0,974
+W06000019,Blaenau Gwent,Wales,direct,Blaenau Gwent,,1,,920.0,949.0,974
+W06000020,Torfaen,Wales,direct,Torfaen Principal Area,,1,,949.0,968.0,974
+W06000021,Monmouthshire,Wales,direct,Monmouthshire,,1,,949.0,954.0,974
+W06000022,Newport,Wales,direct,Newport,,1,,950.0,968.0,974
+W06000023,Powys,Wales,direct,Powys,,1,,949.0,968.0,974
+W06000024,Merthyr Tydfil,Wales,direct,Merthyr Tydfil County Borough,,1,,949.0,949.0,974

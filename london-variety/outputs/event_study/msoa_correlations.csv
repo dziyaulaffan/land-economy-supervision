@@ -1,0 +1,5 @@
+control,variable,corr_overall,corr_within_borough,flag_within_above_0_6,n_msoa
+Teleworkability,telework_share,0.5862667280151503,0.43898962267268377,False,982
+Garden access,garden_share,-0.4289652109254173,-0.3201558305756035,False,982
+Share aged 20-39,age20_39_share,0.45893705001745677,0.3775633953608171,False,982
+Private renting share,private_rent_share,0.4942819437261438,0.419817572127704,False,982

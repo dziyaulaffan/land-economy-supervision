@@ -1,0 +1,984 @@
+msoa11_code,msoa11_name,units_div55,units_div56,units_div90,units_div91,units_div92,units_div93,units_all_industries,units_I_accom_food,units_R_arts_rec,units_IR,la_name
+E02000001,City of London 001,95,1185,325,15,40,145,27465,1280,525,1805,City of London
+E02000002,Barking and Dagenham 001,0,10,0,0,0,0,225,10,0,10,Barking and Dagenham
+E02000003,Barking and Dagenham 002,0,35,5,0,5,5,530,35,15,50,Barking and Dagenham
+E02000004,Barking and Dagenham 003,0,10,0,0,0,5,165,10,5,15,Barking and Dagenham
+E02000005,Barking and Dagenham 004,0,20,0,0,0,0,305,20,0,20,Barking and Dagenham
+E02000007,Barking and Dagenham 006,0,15,0,0,0,5,285,15,5,20,Barking and Dagenham
+E02000008,Barking and Dagenham 007,0,15,0,0,0,5,360,15,5,20,Barking and Dagenham
+E02000009,Barking and Dagenham 008,0,15,0,0,0,0,375,15,0,15,Barking and Dagenham
+E02000010,Barking and Dagenham 009,0,10,0,0,0,0,285,10,0,10,Barking and Dagenham
+E02000011,Barking and Dagenham 010,0,15,0,0,5,0,305,15,5,20,Barking and Dagenham
+E02000012,Barking and Dagenham 011,0,15,0,0,0,0,300,15,0,15,Barking and Dagenham
+E02000013,Barking and Dagenham 012,0,10,0,0,0,0,245,10,0,10,Barking and Dagenham
+E02000014,Barking and Dagenham 013,0,25,0,0,5,0,345,25,5,30,Barking and Dagenham
+E02000015,Barking and Dagenham 014,0,15,0,0,0,0,245,15,0,15,Barking and Dagenham
+E02000016,Barking and Dagenham 015,5,50,0,5,10,5,970,55,20,75,Barking and Dagenham
+E02000017,Barking and Dagenham 016,0,30,0,0,0,0,375,30,0,30,Barking and Dagenham
+E02000018,Barking and Dagenham 017,0,15,0,0,0,0,265,15,0,15,Barking and Dagenham
+E02000019,Barking and Dagenham 018,0,10,0,0,0,5,350,10,5,15,Barking and Dagenham
+E02000020,Barking and Dagenham 019,0,25,0,0,0,5,800,25,5,30,Barking and Dagenham
+E02000021,Barking and Dagenham 020,0,20,0,0,0,0,245,20,0,20,Barking and Dagenham
+E02000022,Barking and Dagenham 021,5,10,5,0,0,0,320,15,5,20,Barking and Dagenham
+E02000023,Barking and Dagenham 022,0,15,0,0,0,0,360,15,0,15,Barking and Dagenham
+E02000024,Barnet 001,5,65,25,0,0,5,1105,70,30,100,Barnet
+E02000025,Barnet 002,0,15,20,0,0,5,480,15,25,40,Barnet
+E02000026,Barnet 003,5,5,5,0,0,0,295,10,5,15,Barnet
+E02000027,Barnet 004,0,10,5,0,0,5,300,10,10,20,Barnet
+E02000028,Barnet 005,0,15,10,0,0,5,420,15,15,30,Barnet
+E02000029,Barnet 006,0,30,10,0,0,5,515,30,15,45,Barnet
+E02000030,Barnet 007,0,10,15,0,0,15,560,10,30,40,Barnet
+E02000031,Barnet 008,5,35,10,0,0,5,755,40,15,55,Barnet
+E02000032,Barnet 009,0,15,5,0,0,0,375,15,5,20,Barnet
+E02000033,Barnet 010,0,15,5,0,0,5,550,15,10,25,Barnet
+E02000034,Barnet 011,0,15,10,0,0,5,475,15,15,30,Barnet
+E02000035,Barnet 012,0,20,10,0,5,5,560,20,20,40,Barnet
+E02000036,Barnet 013,0,10,5,0,0,5,485,10,10,20,Barnet
+E02000037,Barnet 014,0,15,5,0,0,0,620,15,5,20,Barnet
+E02000038,Barnet 015,0,25,15,0,0,5,575,25,20,45,Barnet
+E02000039,Barnet 016,0,30,5,0,5,5,685,30,15,45,Barnet
+E02000040,Barnet 017,0,15,0,0,0,10,425,15,10,25,Barnet
+E02000041,Barnet 018,0,45,10,0,5,10,910,45,25,70,Barnet
+E02000042,Barnet 019,0,65,20,0,5,10,1605,65,35,100,Barnet
+E02000043,Barnet 020,0,5,10,0,0,5,345,5,15,20,Barnet
+E02000044,Barnet 021,0,5,10,0,0,5,410,5,15,20,Barnet
+E02000045,Barnet 022,0,10,15,0,0,5,440,10,20,30,Barnet
+E02000046,Barnet 023,0,40,20,0,5,10,985,40,35,75,Barnet
+E02000047,Barnet 024,0,15,0,0,0,5,395,15,5,20,Barnet
+E02000048,Barnet 025,0,20,10,0,0,10,550,20,20,40,Barnet
+E02000049,Barnet 026,0,5,5,0,0,0,210,5,5,10,Barnet
+E02000050,Barnet 027,0,25,15,0,0,10,505,25,25,50,Barnet
+E02000051,Barnet 028,5,30,15,0,0,5,1400,35,20,55,Barnet
+E02000052,Barnet 029,0,40,20,0,5,5,640,40,30,70,Barnet
+E02000053,Barnet 030,0,25,5,0,0,5,660,25,10,35,Barnet
+E02000054,Barnet 031,0,10,5,0,0,5,400,10,10,20,Barnet
+E02000055,Barnet 032,5,60,10,0,5,5,1135,65,20,85,Barnet
+E02000056,Barnet 033,5,15,10,0,0,10,675,20,20,40,Barnet
+E02000057,Barnet 034,5,10,5,0,0,5,495,15,10,25,Barnet
+E02000058,Barnet 035,5,20,15,0,0,0,970,25,15,40,Barnet
+E02000059,Barnet 036,0,20,5,0,0,0,645,20,5,25,Barnet
+E02000060,Barnet 037,5,15,5,0,0,5,745,20,10,30,Barnet
+E02000061,Barnet 038,0,55,25,0,5,5,1050,55,35,90,Barnet
+E02000062,Barnet 039,5,35,5,0,5,0,525,40,10,50,Barnet
+E02000063,Barnet 040,0,5,5,0,0,0,440,5,5,10,Barnet
+E02000064,Barnet 041,0,15,5,0,0,5,345,15,10,25,Barnet
+E02000065,Bexley 001,0,5,0,0,0,0,510,5,0,5,Bexley
+E02000066,Bexley 002,0,5,5,0,0,5,210,5,10,15,Bexley
+E02000067,Bexley 003,0,30,0,0,0,0,405,30,0,30,Bexley
+E02000068,Bexley 004,0,20,5,0,0,0,475,20,5,25,Bexley
+E02000069,Bexley 005,0,10,0,0,0,0,175,10,0,10,Bexley
+E02000070,Bexley 006,0,10,0,0,0,0,240,10,0,10,Bexley
+E02000071,Bexley 007,0,20,0,0,5,0,255,20,5,25,Bexley
+E02000072,Bexley 008,0,15,0,0,0,0,450,15,0,15,Bexley
+E02000073,Bexley 009,0,15,0,0,0,5,385,15,5,20,Bexley
+E02000074,Bexley 010,0,0,0,0,0,0,195,0,0,0,Bexley
+E02000075,Bexley 011,0,10,0,0,0,0,270,10,0,10,Bexley
+E02000077,Bexley 013,0,10,0,0,0,0,205,10,0,10,Bexley
+E02000078,Bexley 014,0,15,0,0,0,5,215,15,5,20,Bexley
+E02000079,Bexley 015,5,65,0,0,5,5,630,70,10,80,Bexley
+E02000080,Bexley 016,0,45,5,0,5,5,555,45,15,60,Bexley
+E02000081,Bexley 017,0,20,0,0,0,0,230,20,0,20,Bexley
+E02000082,Bexley 018,0,20,0,0,0,0,315,20,0,20,Bexley
+E02000083,Bexley 019,0,45,0,0,5,5,650,45,10,55,Bexley
+E02000084,Bexley 020,0,15,0,0,0,5,395,15,5,20,Bexley
+E02000085,Bexley 021,0,25,0,0,5,5,325,25,10,35,Bexley
+E02000086,Bexley 022,0,10,5,0,0,0,265,10,5,15,Bexley
+E02000087,Bexley 023,0,35,0,0,0,10,515,35,10,45,Bexley
+E02000088,Bexley 024,0,10,0,0,0,0,310,10,0,10,Bexley
+E02000089,Bexley 025,0,10,0,0,0,0,240,10,0,10,Bexley
+E02000090,Bexley 026,5,45,0,0,5,10,660,50,15,65,Bexley
+E02000091,Bexley 027,0,25,5,0,0,5,420,25,10,35,Bexley
+E02000092,Bexley 028,0,15,0,0,0,5,310,15,5,20,Bexley
+E02000093,Brent 001,0,20,5,0,0,0,625,20,5,25,Brent
+E02000094,Brent 002,0,35,0,0,5,0,505,35,5,40,Brent
+E02000095,Brent 003,5,40,0,0,5,0,590,45,5,50,Brent
+E02000096,Brent 004,0,10,0,0,0,0,535,10,0,10,Brent
+E02000097,Brent 005,0,30,0,0,5,5,460,30,10,40,Brent
+E02000098,Brent 006,0,10,0,0,0,0,370,10,0,10,Brent
+E02000099,Brent 007,0,20,0,0,0,0,760,20,0,20,Brent
+E02000100,Brent 008,0,10,5,0,0,5,460,10,10,20,Brent
+E02000101,Brent 009,0,10,0,0,5,0,350,10,5,15,Brent
+E02000102,Brent 010,0,5,0,0,0,0,215,5,0,5,Brent
+E02000103,Brent 011,5,35,10,0,0,0,905,40,10,50,Brent
+E02000104,Brent 012,0,10,0,0,0,0,320,10,0,10,Brent
+E02000105,Brent 013,0,25,0,0,5,5,455,25,10,35,Brent
+E02000106,Brent 014,0,25,5,0,5,5,470,25,15,40,Brent
+E02000107,Brent 015,5,25,10,0,5,5,475,30,20,50,Brent
+E02000108,Brent 016,5,5,0,0,0,0,185,10,0,10,Brent
+E02000109,Brent 017,15,80,10,0,5,10,1290,95,25,120,Brent
+E02000110,Brent 018,0,10,10,0,0,5,295,10,15,25,Brent
+E02000111,Brent 019,0,20,0,0,5,10,435,20,15,35,Brent
+E02000112,Brent 020,5,40,5,0,5,0,500,45,10,55,Brent
+E02000113,Brent 021,0,5,0,0,0,0,230,5,0,5,Brent
+E02000114,Brent 022,0,45,10,0,5,0,410,45,15,60,Brent
+E02000115,Brent 023,5,10,15,0,0,5,340,15,20,35,Brent
+E02000116,Brent 024,0,40,5,0,0,0,330,40,5,45,Brent
+E02000117,Brent 025,0,20,5,0,5,0,305,20,10,30,Brent
+E02000118,Brent 026,5,15,0,0,0,5,385,20,5,25,Brent
+E02000119,Brent 027,0,45,5,0,0,0,865,45,5,50,Brent
+E02000120,Brent 028,0,50,25,0,5,0,585,50,30,80,Brent
+E02000121,Brent 029,0,30,0,0,5,5,700,30,10,40,Brent
+E02000122,Brent 030,5,10,30,0,0,5,430,15,35,50,Brent
+E02000123,Brent 031,0,55,20,0,5,5,615,55,30,85,Brent
+E02000124,Brent 032,0,60,65,0,5,5,895,60,75,135,Brent
+E02000125,Brent 033,0,15,20,5,0,5,480,15,30,45,Brent
+E02000126,Brent 034,0,10,5,0,0,5,225,10,10,20,Brent
+E02000127,Bromley 001,0,15,0,0,0,5,255,15,5,20,Bromley
+E02000128,Bromley 002,0,25,5,0,0,10,410,25,15,40,Bromley
+E02000130,Bromley 004,0,35,15,0,5,0,525,35,20,55,Bromley
+E02000131,Bromley 005,0,15,15,0,0,15,385,15,30,45,Bromley
+E02000132,Bromley 006,0,55,10,0,5,5,715,55,20,75,Bromley
+E02000133,Bromley 007,0,20,15,0,0,5,685,20,20,40,Bromley
+E02000134,Bromley 008,0,60,15,0,5,10,1030,60,30,90,Bromley
+E02000135,Bromley 009,0,20,15,0,0,5,365,20,20,40,Bromley
+E02000136,Bromley 010,0,10,5,0,0,5,335,10,10,20,Bromley
+E02000137,Bromley 011,0,5,10,0,0,5,335,5,15,20,Bromley
+E02000138,Bromley 012,0,20,15,0,0,5,465,20,20,40,Bromley
+E02000139,Bromley 013,0,20,10,0,0,5,385,20,15,35,Bromley
+E02000140,Bromley 014,0,25,0,0,0,0,315,25,0,25,Bromley
+E02000141,Bromley 015,0,5,15,0,0,0,255,5,15,20,Bromley
+E02000142,Bromley 016,0,25,5,0,0,5,550,25,10,35,Bromley
+E02000144,Bromley 018,0,60,10,0,5,15,895,60,30,90,Bromley
+E02000145,Bromley 019,0,15,0,0,0,5,315,15,5,20,Bromley
+E02000146,Bromley 020,0,30,5,0,0,5,535,30,10,40,Bromley
+E02000147,Bromley 021,0,5,5,0,0,10,415,5,15,20,Bromley
+E02000148,Bromley 022,5,40,5,0,5,5,490,45,15,60,Bromley
+E02000149,Bromley 023,0,10,0,0,0,5,410,10,5,15,Bromley
+E02000150,Bromley 024,0,15,5,0,0,5,320,15,10,25,Bromley
+E02000151,Bromley 025,0,10,5,0,0,0,325,10,5,15,Bromley
+E02000152,Bromley 026,0,10,5,0,0,5,265,10,10,20,Bromley
+E02000153,Bromley 027,0,5,5,0,0,5,315,5,10,15,Bromley
+E02000154,Bromley 028,0,45,0,0,5,10,660,45,15,60,Bromley
+E02000155,Bromley 029,0,15,5,0,0,5,275,15,10,25,Bromley
+E02000156,Bromley 030,0,45,5,0,0,5,695,45,10,55,Bromley
+E02000157,Bromley 031,0,10,5,0,0,5,290,10,10,20,Bromley
+E02000158,Bromley 032,0,5,0,0,0,5,215,5,5,10,Bromley
+E02000159,Bromley 033,0,30,5,0,0,5,515,30,10,40,Bromley
+E02000160,Bromley 034,0,30,5,0,0,5,450,30,10,40,Bromley
+E02000161,Bromley 035,0,5,0,0,0,0,335,5,0,5,Bromley
+E02000162,Bromley 036,0,15,5,0,0,5,310,15,10,25,Bromley
+E02000163,Bromley 037,0,20,5,0,0,5,645,20,10,30,Bromley
+E02000165,Bromley 039,0,5,0,0,0,0,295,5,0,5,Bromley
+E02000166,Camden 001,0,20,35,0,0,5,560,20,40,60,Camden
+E02000167,Camden 002,5,60,45,0,0,5,890,65,50,115,Camden
+E02000168,Camden 003,0,55,90,0,5,5,795,55,100,155,Camden
+E02000169,Camden 004,5,15,25,0,0,5,580,20,30,50,Camden
+E02000170,Camden 005,0,30,45,0,0,5,625,30,50,80,Camden
+E02000171,Camden 006,0,20,40,0,0,5,480,20,45,65,Camden
+E02000172,Camden 007,0,25,15,0,0,5,515,25,20,45,Camden
+E02000173,Camden 008,5,50,65,5,0,5,970,55,75,130,Camden
+E02000174,Camden 009,0,10,45,0,0,0,520,10,45,55,Camden
+E02000175,Camden 010,10,65,35,0,0,15,885,75,50,125,Camden
+E02000176,Camden 011,5,10,25,0,0,0,500,15,25,40,Camden
+E02000177,Camden 012,0,45,15,0,0,5,415,45,20,65,Camden
+E02000178,Camden 013,5,25,15,0,0,0,780,30,15,45,Camden
+E02000179,Camden 014,5,25,20,0,0,5,360,30,25,55,Camden
+E02000180,Camden 015,0,20,25,0,0,5,435,20,30,50,Camden
+E02000181,Camden 016,0,5,20,0,0,5,485,5,25,30,Camden
+E02000182,Camden 017,0,35,15,0,5,10,600,35,30,65,Camden
+E02000183,Camden 018,0,80,75,0,0,10,1035,80,85,165,Camden
+E02000184,Camden 019,0,50,65,0,5,10,775,50,80,130,Camden
+E02000185,Camden 020,0,25,60,5,0,5,885,25,70,95,Camden
+E02000186,Camden 021,10,145,90,5,10,25,1635,155,130,285,Camden
+E02000187,Camden 022,5,90,15,5,0,5,760,95,25,120,Camden
+E02000188,Camden 023,5,55,5,0,5,5,460,60,15,75,Camden
+E02000189,Camden 024,35,45,15,0,5,5,560,80,25,105,Camden
+E02000190,Camden 025,30,75,25,0,0,5,800,105,30,135,Camden
+E02000191,Camden 026,25,210,90,5,5,30,2660,235,130,365,Camden
+E02000192,Camden 027,15,130,55,5,5,15,3425,145,80,225,Camden
+E02000193,Camden 028,70,505,300,15,50,60,12650,575,425,1000,Camden
+E02000194,Croydon 001,0,40,25,0,5,0,515,40,30,70,Croydon
+E02000195,Croydon 002,0,30,5,0,0,0,350,30,5,35,Croydon
+E02000196,Croydon 003,5,25,0,0,5,0,285,30,5,35,Croydon
+E02000197,Croydon 004,0,30,5,0,0,5,330,30,10,40,Croydon
+E02000198,Croydon 005,0,15,5,0,0,0,240,15,5,20,Croydon
+E02000199,Croydon 006,0,10,5,0,0,0,235,10,5,15,Croydon
+E02000200,Croydon 007,0,15,10,0,0,0,320,15,10,25,Croydon
+E02000201,Croydon 008,0,25,5,0,5,0,265,25,10,35,Croydon
+E02000202,Croydon 009,0,5,0,0,0,0,205,5,0,5,Croydon
+E02000203,Croydon 010,5,15,5,0,0,0,280,20,5,25,Croydon
+E02000204,Croydon 011,5,15,0,0,5,0,285,20,5,25,Croydon
+E02000206,Croydon 013,0,15,0,0,0,0,370,15,0,15,Croydon
+E02000207,Croydon 014,0,20,5,0,0,5,280,20,10,30,Croydon
+E02000208,Croydon 015,5,15,0,0,0,0,280,20,0,20,Croydon
+E02000209,Croydon 016,0,10,5,0,0,0,345,10,5,15,Croydon
+E02000210,Croydon 017,0,10,0,0,0,5,295,10,5,15,Croydon
+E02000211,Croydon 018,0,10,0,0,0,5,275,10,5,15,Croydon
+E02000212,Croydon 019,0,30,0,0,0,0,360,30,0,30,Croydon
+E02000213,Croydon 020,5,60,5,0,5,5,765,65,15,80,Croydon
+E02000214,Croydon 021,0,15,5,0,0,0,275,15,5,20,Croydon
+E02000215,Croydon 022,5,30,10,0,0,0,510,35,10,45,Croydon
+E02000216,Croydon 023,0,10,0,0,0,5,400,10,5,15,Croydon
+E02000217,Croydon 024,0,40,5,0,5,5,835,40,15,55,Croydon
+E02000218,Croydon 025,0,10,0,0,0,0,175,10,0,10,Croydon
+E02000219,Croydon 026,0,25,5,0,0,5,350,25,10,35,Croydon
+E02000220,Croydon 027,20,130,10,0,10,15,1620,150,35,185,Croydon
+E02000221,Croydon 028,5,25,5,0,0,5,645,30,10,40,Croydon
+E02000222,Croydon 029,0,20,10,0,0,0,430,20,10,30,Croydon
+E02000223,Croydon 030,0,5,0,0,0,0,95,5,0,5,Croydon
+E02000224,Croydon 031,5,20,5,0,0,5,510,25,10,35,Croydon
+E02000225,Croydon 032,0,5,0,0,0,0,180,5,0,5,Croydon
+E02000226,Croydon 033,0,20,5,0,0,0,340,20,5,25,Croydon
+E02000227,Croydon 034,0,15,0,0,0,5,280,15,5,20,Croydon
+E02000228,Croydon 035,0,10,5,0,0,0,375,10,5,15,Croydon
+E02000229,Croydon 036,0,10,0,0,5,0,165,10,5,15,Croydon
+E02000230,Croydon 037,0,45,10,0,0,5,765,45,15,60,Croydon
+E02000231,Croydon 038,0,5,5,0,0,5,440,5,10,15,Croydon
+E02000232,Croydon 039,0,10,0,0,0,0,230,10,0,10,Croydon
+E02000233,Croydon 040,0,15,5,0,0,5,260,15,10,25,Croydon
+E02000234,Croydon 041,0,40,0,0,0,5,605,40,5,45,Croydon
+E02000235,Croydon 042,0,5,0,0,0,0,300,5,0,5,Croydon
+E02000236,Croydon 043,0,10,5,0,0,5,340,10,10,20,Croydon
+E02000237,Croydon 044,0,15,5,0,0,5,265,15,10,25,Croydon
+E02000238,Ealing 001,0,15,0,0,0,0,340,15,0,15,Ealing
+E02000239,Ealing 002,0,15,30,0,5,5,415,15,40,55,Ealing
+E02000240,Ealing 003,0,5,5,0,0,0,280,5,5,10,Ealing
+E02000241,Ealing 004,0,25,5,0,0,5,360,25,10,35,Ealing
+E02000242,Ealing 005,0,15,5,0,0,0,410,15,5,20,Ealing
+E02000243,Ealing 006,5,20,0,0,0,5,560,25,5,30,Ealing
+E02000244,Ealing 007,0,20,0,0,0,5,565,20,5,25,Ealing
+E02000245,Ealing 008,0,10,0,0,0,0,185,10,0,10,Ealing
+E02000246,Ealing 009,0,10,0,0,0,5,245,10,5,15,Ealing
+E02000247,Ealing 010,0,20,0,0,0,0,345,20,0,20,Ealing
+E02000248,Ealing 011,5,20,10,0,0,5,895,25,15,40,Ealing
+E02000249,Ealing 012,0,30,0,0,5,0,360,30,5,35,Ealing
+E02000250,Ealing 013,0,15,10,0,0,5,430,15,15,30,Ealing
+E02000251,Ealing 014,0,10,5,0,0,0,260,10,5,15,Ealing
+E02000252,Ealing 015,10,95,10,0,5,10,1525,105,25,130,Ealing
+E02000253,Ealing 016,0,5,5,0,0,5,245,5,10,15,Ealing
+E02000254,Ealing 017,5,10,0,0,0,0,240,15,0,15,Ealing
+E02000255,Ealing 018,0,10,15,0,0,5,360,10,20,30,Ealing
+E02000256,Ealing 019,5,15,10,0,0,10,850,20,20,40,Ealing
+E02000257,Ealing 020,10,90,15,0,10,10,1260,100,35,135,Ealing
+E02000258,Ealing 021,0,10,10,0,0,5,295,10,15,25,Ealing
+E02000259,Ealing 022,0,15,10,0,0,0,295,15,10,25,Ealing
+E02000260,Ealing 023,10,40,0,0,10,0,625,50,10,60,Ealing
+E02000261,Ealing 024,0,20,15,0,0,5,475,20,20,40,Ealing
+E02000262,Ealing 025,5,50,25,0,10,5,605,55,40,95,Ealing
+E02000263,Ealing 026,0,30,0,0,0,0,310,30,0,30,Ealing
+E02000264,Ealing 027,0,20,15,0,0,5,490,20,20,40,Ealing
+E02000265,Ealing 028,5,40,15,0,5,0,630,45,20,65,Ealing
+E02000266,Ealing 029,0,20,0,0,0,5,560,20,5,25,Ealing
+E02000267,Ealing 030,0,25,5,0,0,0,445,25,5,30,Ealing
+E02000268,Ealing 031,5,30,15,0,0,5,660,35,20,55,Ealing
+E02000269,Ealing 032,5,30,10,0,0,5,620,35,15,50,Ealing
+E02000270,Ealing 033,0,20,10,0,0,5,470,20,15,35,Ealing
+E02000271,Ealing 034,5,25,35,0,0,5,805,30,40,70,Ealing
+E02000272,Ealing 035,0,15,10,0,0,5,435,15,15,30,Ealing
+E02000274,Ealing 037,0,35,5,0,0,5,615,35,10,45,Ealing
+E02000275,Ealing 038,5,15,0,0,5,0,290,20,5,25,Ealing
+E02000276,Ealing 039,0,20,20,0,0,0,380,20,20,40,Ealing
+E02000277,Enfield 001,0,10,0,0,0,0,185,10,0,10,Enfield
+E02000278,Enfield 002,0,15,5,0,0,0,250,15,5,20,Enfield
+E02000279,Enfield 003,0,20,5,0,0,0,415,20,5,25,Enfield
+E02000280,Enfield 004,0,25,5,0,0,5,445,25,10,35,Enfield
+E02000281,Enfield 005,0,10,0,0,0,0,235,10,0,10,Enfield
+E02000282,Enfield 006,0,20,0,0,5,0,265,20,5,25,Enfield
+E02000283,Enfield 007,0,10,0,0,0,0,190,10,0,10,Enfield
+E02000284,Enfield 008,0,45,5,0,5,0,515,45,10,55,Enfield
+E02000285,Enfield 009,0,5,0,0,0,5,250,5,5,10,Enfield
+E02000286,Enfield 010,0,15,10,0,0,5,400,15,15,30,Enfield
+E02000287,Enfield 011,0,25,5,0,0,10,595,25,15,40,Enfield
+E02000288,Enfield 012,0,40,0,0,5,0,470,40,5,45,Enfield
+E02000289,Enfield 013,0,5,5,0,0,5,260,5,10,15,Enfield
+E02000290,Enfield 014,0,20,0,0,0,0,445,20,0,20,Enfield
+E02000291,Enfield 015,0,35,5,0,5,5,600,35,15,50,Enfield
+E02000292,Enfield 016,0,10,0,0,0,5,455,10,5,15,Enfield
+E02000293,Enfield 017,0,5,5,0,0,5,365,5,10,15,Enfield
+E02000294,Enfield 018,0,15,0,0,0,0,270,15,0,15,Enfield
+E02000295,Enfield 019,0,10,5,0,0,0,450,10,5,15,Enfield
+E02000296,Enfield 020,5,55,5,0,5,10,880,60,20,80,Enfield
+E02000297,Enfield 021,0,30,5,0,5,10,415,30,20,50,Enfield
+E02000298,Enfield 022,5,35,5,0,0,5,645,40,10,50,Enfield
+E02000299,Enfield 023,0,20,0,0,5,0,295,20,5,25,Enfield
+E02000300,Enfield 024,0,5,0,0,0,0,210,5,0,5,Enfield
+E02000301,Enfield 025,0,10,5,0,0,0,275,10,5,15,Enfield
+E02000302,Enfield 026,0,5,0,0,0,0,395,5,0,5,Enfield
+E02000303,Enfield 027,0,15,0,0,0,0,260,15,0,15,Enfield
+E02000304,Enfield 028,0,10,10,0,0,0,455,10,10,20,Enfield
+E02000305,Enfield 029,5,50,20,0,5,5,1010,55,30,85,Enfield
+E02000306,Enfield 030,5,25,0,0,5,5,490,30,10,40,Enfield
+E02000307,Enfield 031,0,10,0,0,0,0,250,10,0,10,Enfield
+E02000308,Enfield 032,0,15,5,0,0,0,355,15,5,20,Enfield
+E02000309,Enfield 033,0,30,0,0,10,0,500,30,10,40,Enfield
+E02000311,Enfield 035,0,15,5,0,0,5,345,15,10,25,Enfield
+E02000312,Enfield 036,0,25,5,0,5,0,545,25,10,35,Enfield
+E02000313,Greenwich 001,0,5,0,0,0,0,110,5,0,5,Greenwich
+E02000314,Greenwich 002,0,20,5,5,5,0,520,20,15,35,Greenwich
+E02000315,Greenwich 003,0,15,0,0,0,0,250,15,0,15,Greenwich
+E02000316,Greenwich 004,0,50,20,0,10,15,1195,50,45,95,Greenwich
+E02000317,Greenwich 005,0,5,0,0,0,0,190,5,0,5,Greenwich
+E02000318,Greenwich 006,0,30,0,0,5,0,335,30,5,35,Greenwich
+E02000319,Greenwich 007,0,20,5,0,0,0,290,20,5,25,Greenwich
+E02000320,Greenwich 008,0,5,0,0,0,0,190,5,0,5,Greenwich
+E02000321,Greenwich 009,0,5,0,0,0,5,115,5,5,10,Greenwich
+E02000323,Greenwich 011,0,40,0,0,5,0,380,40,5,45,Greenwich
+E02000324,Greenwich 012,0,15,5,5,0,5,240,15,15,30,Greenwich
+E02000326,Greenwich 014,0,5,5,0,0,5,250,5,10,15,Greenwich
+E02000327,Greenwich 015,0,5,0,0,0,0,170,5,0,5,Greenwich
+E02000328,Greenwich 016,0,10,20,0,0,5,325,10,25,35,Greenwich
+E02000329,Greenwich 017,0,15,0,0,0,0,170,15,0,15,Greenwich
+E02000331,Greenwich 019,0,10,5,0,0,5,245,10,10,20,Greenwich
+E02000332,Greenwich 020,0,5,5,0,0,5,245,5,10,15,Greenwich
+E02000333,Greenwich 021,0,15,15,0,5,0,385,15,20,35,Greenwich
+E02000334,Greenwich 022,0,5,5,0,0,0,225,5,5,10,Greenwich
+E02000335,Greenwich 023,0,10,5,0,0,0,210,10,5,15,Greenwich
+E02000337,Greenwich 025,0,5,5,0,0,0,230,5,5,10,Greenwich
+E02000339,Greenwich 027,0,30,5,0,5,5,445,30,15,45,Greenwich
+E02000340,Greenwich 028,0,45,5,0,5,5,440,45,15,60,Greenwich
+E02000341,Greenwich 029,0,10,0,0,0,5,185,10,5,15,Greenwich
+E02000342,Greenwich 030,0,15,0,0,0,0,205,15,0,15,Greenwich
+E02000343,Greenwich 031,0,15,0,0,0,0,250,15,0,15,Greenwich
+E02000344,Greenwich 032,0,10,5,0,0,0,290,10,5,15,Greenwich
+E02000345,Hackney 001,0,20,5,0,5,5,810,20,15,35,Hackney
+E02000346,Hackney 002,0,10,5,0,0,0,215,10,5,15,Hackney
+E02000347,Hackney 003,0,5,10,0,0,0,365,5,10,15,Hackney
+E02000348,Hackney 004,0,5,5,0,0,0,440,5,5,10,Hackney
+E02000350,Hackney 006,0,20,20,0,0,0,530,20,20,40,Hackney
+E02000351,Hackney 007,0,25,15,0,0,5,410,25,20,45,Hackney
+E02000352,Hackney 008,0,5,25,0,0,10,360,5,35,40,Hackney
+E02000353,Hackney 009,0,60,30,0,5,0,615,60,35,95,Hackney
+E02000354,Hackney 010,0,20,10,0,0,5,375,20,15,35,Hackney
+E02000355,Hackney 011,0,20,35,0,5,5,430,20,45,65,Hackney
+E02000356,Hackney 012,0,25,45,0,0,5,450,25,50,75,Hackney
+E02000357,Hackney 013,0,0,5,0,0,0,125,0,5,5,Hackney
+E02000358,Hackney 014,0,50,30,0,0,0,630,50,30,80,Hackney
+E02000359,Hackney 015,0,20,20,0,0,5,300,20,25,45,Hackney
+E02000360,Hackney 016,0,35,35,0,0,5,540,35,40,75,Hackney
+E02000361,Hackney 017,0,40,35,0,5,10,605,40,50,90,Hackney
+E02000362,Hackney 018,0,35,20,0,0,5,390,35,25,60,Hackney
+E02000363,Hackney 019,0,30,15,0,0,5,340,30,20,50,Hackney
+E02000364,Hackney 020,0,20,50,5,0,5,600,20,60,80,Hackney
+E02000365,Hackney 021,5,90,65,5,5,10,1315,95,85,180,Hackney
+E02000366,Hackney 022,0,30,20,0,0,5,375,30,25,55,Hackney
+E02000367,Hackney 023,5,65,55,0,5,10,1065,70,70,140,Hackney
+E02000368,Hackney 024,0,15,20,0,0,0,340,15,20,35,Hackney
+E02000369,Hackney 025,0,55,35,0,0,10,870,55,45,100,Hackney
+E02000370,Hackney 026,5,75,55,0,0,20,4145,80,75,155,Hackney
+E02000371,Hackney 027,25,275,140,5,15,35,5265,300,195,495,Hackney
+E02000372,Hammersmith and Fulham 001,0,40,15,0,0,5,710,40,20,60,Hammersmith and Fulham
+E02000373,Hammersmith and Fulham 002,0,10,0,0,0,5,100,10,5,15,Hammersmith and Fulham
+E02000374,Hammersmith and Fulham 003,0,15,20,0,0,0,250,15,20,35,Hammersmith and Fulham
+E02000375,Hammersmith and Fulham 004,0,85,20,0,5,10,830,85,35,120,Hammersmith and Fulham
+E02000376,Hammersmith and Fulham 005,0,55,20,0,5,5,540,55,30,85,Hammersmith and Fulham
+E02000377,Hammersmith and Fulham 006,5,35,25,0,0,0,440,40,25,65,Hammersmith and Fulham
+E02000378,Hammersmith and Fulham 007,10,15,20,0,5,5,450,25,30,55,Hammersmith and Fulham
+E02000379,Hammersmith and Fulham 008,0,5,25,0,0,5,400,5,30,35,Hammersmith and Fulham
+E02000380,Hammersmith and Fulham 009,5,10,25,0,0,0,400,15,25,40,Hammersmith and Fulham
+E02000381,Hammersmith and Fulham 010,15,30,20,0,0,5,665,45,25,70,Hammersmith and Fulham
+E02000382,Hammersmith and Fulham 011,5,50,20,0,0,5,585,55,25,80,Hammersmith and Fulham
+E02000383,Hammersmith and Fulham 012,5,45,25,0,0,5,815,50,30,80,Hammersmith and Fulham
+E02000384,Hammersmith and Fulham 013,10,105,20,0,5,20,1510,115,45,160,Hammersmith and Fulham
+E02000385,Hammersmith and Fulham 014,0,15,5,0,0,5,355,15,10,25,Hammersmith and Fulham
+E02000386,Hammersmith and Fulham 015,0,30,5,0,0,0,330,30,5,35,Hammersmith and Fulham
+E02000387,Hammersmith and Fulham 016,0,15,10,0,0,5,235,15,15,30,Hammersmith and Fulham
+E02000388,Hammersmith and Fulham 017,5,45,10,0,10,5,665,50,25,75,Hammersmith and Fulham
+E02000389,Hammersmith and Fulham 018,0,30,15,0,5,5,635,30,25,55,Hammersmith and Fulham
+E02000390,Hammersmith and Fulham 019,0,10,5,0,0,10,400,10,15,25,Hammersmith and Fulham
+E02000391,Hammersmith and Fulham 020,0,40,25,0,0,15,765,40,40,80,Hammersmith and Fulham
+E02000392,Hammersmith and Fulham 021,0,60,45,0,5,10,915,60,60,120,Hammersmith and Fulham
+E02000393,Hammersmith and Fulham 022,0,10,10,0,0,5,330,10,15,25,Hammersmith and Fulham
+E02000394,Hammersmith and Fulham 023,5,25,20,0,0,10,805,30,30,60,Hammersmith and Fulham
+E02000395,Hammersmith and Fulham 024,5,30,20,0,0,15,875,35,35,70,Hammersmith and Fulham
+E02000396,Hammersmith and Fulham 025,0,25,25,0,0,10,580,25,35,60,Hammersmith and Fulham
+E02000397,Haringey 001,0,15,15,0,0,0,370,15,15,30,Haringey
+E02000398,Haringey 002,0,15,0,0,0,0,395,15,0,15,Haringey
+E02000400,Haringey 004,0,15,15,0,0,0,450,15,15,30,Haringey
+E02000401,Haringey 005,0,10,0,0,0,0,165,10,0,10,Haringey
+E02000402,Haringey 006,0,5,0,0,0,0,140,5,0,5,Haringey
+E02000403,Haringey 007,0,25,10,0,35,5,425,25,50,75,Haringey
+E02000404,Haringey 008,0,10,0,0,5,0,230,10,5,15,Haringey
+E02000405,Haringey 009,0,15,25,0,0,10,400,15,35,50,Haringey
+E02000406,Haringey 010,0,10,5,0,0,0,185,10,5,15,Haringey
+E02000407,Haringey 011,0,20,0,0,5,0,310,20,5,25,Haringey
+E02000408,Haringey 012,0,20,0,0,5,0,245,20,5,25,Haringey
+E02000409,Haringey 013,0,10,5,0,0,0,190,10,5,15,Haringey
+E02000410,Haringey 014,0,25,40,0,5,5,445,25,50,75,Haringey
+E02000411,Haringey 015,0,15,10,0,0,5,445,15,15,30,Haringey
+E02000412,Haringey 016,5,55,5,0,15,5,665,60,25,85,Haringey
+E02000413,Haringey 017,5,10,30,0,0,5,425,15,35,50,Haringey
+E02000414,Haringey 018,0,10,10,0,0,0,205,10,10,20,Haringey
+E02000415,Haringey 019,0,25,10,0,0,0,295,25,10,35,Haringey
+E02000416,Haringey 020,0,30,20,0,0,5,375,30,25,55,Haringey
+E02000417,Haringey 021,0,25,35,0,0,5,535,25,40,65,Haringey
+E02000418,Haringey 022,0,10,35,0,0,5,365,10,40,50,Haringey
+E02000419,Haringey 023,0,45,15,0,5,0,490,45,20,65,Haringey
+E02000420,Haringey 024,0,30,5,0,5,0,320,30,10,40,Haringey
+E02000421,Haringey 025,0,35,20,0,0,5,545,35,25,60,Haringey
+E02000422,Haringey 026,0,15,5,0,0,0,230,15,5,20,Haringey
+E02000423,Haringey 027,0,20,5,0,5,0,310,20,10,30,Haringey
+E02000424,Haringey 028,0,10,40,0,0,5,375,10,45,55,Haringey
+E02000425,Haringey 029,0,10,0,0,0,0,450,10,0,10,Haringey
+E02000426,Haringey 030,5,20,30,0,0,5,570,25,35,60,Haringey
+E02000427,Haringey 031,5,25,5,0,0,5,320,30,10,40,Haringey
+E02000428,Haringey 032,0,15,5,0,0,5,380,15,10,25,Haringey
+E02000429,Haringey 033,0,5,25,0,0,5,395,5,30,35,Haringey
+E02000430,Haringey 034,0,55,40,0,5,5,695,55,50,105,Haringey
+E02000431,Haringey 035,0,30,35,0,0,5,505,30,40,70,Haringey
+E02000432,Haringey 036,0,10,30,0,0,0,310,10,30,40,Haringey
+E02000433,Harrow 001,0,25,5,0,0,5,775,25,10,35,Harrow
+E02000434,Harrow 002,5,35,20,0,0,5,990,40,25,65,Harrow
+E02000435,Harrow 003,0,10,0,0,0,0,365,10,0,10,Harrow
+E02000436,Harrow 004,0,5,0,0,0,5,390,5,5,10,Harrow
+E02000437,Harrow 005,0,10,10,0,0,0,415,10,10,20,Harrow
+E02000438,Harrow 006,0,30,5,0,0,5,465,30,10,40,Harrow
+E02000439,Harrow 007,0,20,5,0,5,5,1035,20,15,35,Harrow
+E02000440,Harrow 008,0,15,5,0,0,5,530,15,10,25,Harrow
+E02000441,Harrow 009,0,5,5,0,0,5,400,5,10,15,Harrow
+E02000442,Harrow 010,5,15,0,0,0,5,425,20,5,25,Harrow
+E02000443,Harrow 011,0,15,5,0,0,0,470,15,5,20,Harrow
+E02000444,Harrow 012,0,15,0,0,5,0,380,15,5,20,Harrow
+E02000445,Harrow 013,0,25,0,0,5,5,525,25,10,35,Harrow
+E02000447,Harrow 015,0,10,5,0,0,0,345,10,5,15,Harrow
+E02000448,Harrow 016,0,40,5,0,0,0,630,40,5,45,Harrow
+E02000449,Harrow 017,0,0,0,0,0,0,305,0,0,0,Harrow
+E02000451,Harrow 019,0,15,5,0,0,5,410,15,10,25,Harrow
+E02000452,Harrow 020,5,40,15,0,5,5,845,45,25,70,Harrow
+E02000453,Harrow 021,0,10,5,0,0,5,585,10,10,20,Harrow
+E02000454,Harrow 022,0,5,5,0,0,0,445,5,5,10,Harrow
+E02000455,Harrow 023,20,60,10,0,0,10,1485,80,20,100,Harrow
+E02000456,Harrow 024,0,5,0,0,0,0,290,5,0,5,Harrow
+E02000457,Harrow 025,0,15,5,0,0,0,455,15,5,20,Harrow
+E02000459,Harrow 027,0,20,5,0,0,5,530,20,10,30,Harrow
+E02000460,Harrow 028,0,5,0,0,0,0,215,5,0,5,Harrow
+E02000461,Harrow 029,0,25,5,0,0,5,490,25,10,35,Harrow
+E02000462,Harrow 030,5,30,0,0,5,0,460,35,5,40,Harrow
+E02000463,Harrow 031,0,10,0,0,0,0,245,10,0,10,Harrow
+E02000464,Havering 001,0,10,0,0,0,5,205,10,5,15,Havering
+E02000465,Havering 002,0,10,0,0,0,5,255,10,5,15,Havering
+E02000466,Havering 003,0,10,0,0,0,5,255,10,5,15,Havering
+E02000467,Havering 004,0,10,0,0,5,0,340,10,5,15,Havering
+E02000468,Havering 005,0,25,0,0,5,0,310,25,5,30,Havering
+E02000469,Havering 006,0,10,0,0,0,0,195,10,0,10,Havering
+E02000470,Havering 007,0,20,0,0,0,5,630,20,5,25,Havering
+E02000471,Havering 008,0,5,0,0,0,0,265,5,0,5,Havering
+E02000472,Havering 009,0,10,0,0,0,0,270,10,0,10,Havering
+E02000473,Havering 010,0,20,5,0,0,5,380,20,10,30,Havering
+E02000474,Havering 011,0,10,0,0,0,0,275,10,0,10,Havering
+E02000475,Havering 012,5,25,0,0,0,5,460,30,5,35,Havering
+E02000476,Havering 013,10,95,5,0,10,10,1190,105,25,130,Havering
+E02000477,Havering 014,0,10,0,0,0,0,385,10,0,10,Havering
+E02000478,Havering 015,0,10,5,0,0,0,355,10,5,15,Havering
+E02000479,Havering 016,0,25,0,0,0,0,460,25,0,25,Havering
+E02000480,Havering 017,0,25,0,0,0,5,520,25,5,30,Havering
+E02000481,Havering 018,0,15,0,0,0,5,310,15,5,20,Havering
+E02000482,Havering 019,0,15,0,0,0,5,340,15,5,20,Havering
+E02000483,Havering 020,0,65,0,0,5,5,545,65,10,75,Havering
+E02000484,Havering 021,0,10,0,0,0,10,330,10,10,20,Havering
+E02000485,Havering 022,0,60,0,0,0,0,470,60,0,60,Havering
+E02000486,Havering 023,0,20,0,0,0,0,275,20,0,20,Havering
+E02000487,Havering 024,0,15,5,0,0,10,355,15,15,30,Havering
+E02000488,Havering 025,0,5,0,0,0,0,215,5,0,5,Havering
+E02000489,Havering 026,0,10,0,0,0,0,230,10,0,10,Havering
+E02000490,Havering 027,0,10,0,0,0,0,225,10,0,10,Havering
+E02000491,Havering 028,5,20,0,0,0,0,580,25,0,25,Havering
+E02000492,Havering 029,0,5,0,0,0,5,390,5,5,10,Havering
+E02000493,Havering 030,0,25,0,0,5,0,250,25,5,30,Havering
+E02000494,Hillingdon 001,0,10,5,0,0,5,480,10,10,20,Hillingdon
+E02000495,Hillingdon 002,5,50,10,0,5,10,875,55,25,80,Hillingdon
+E02000496,Hillingdon 003,0,20,10,0,0,0,400,20,10,30,Hillingdon
+E02000497,Hillingdon 004,0,15,5,0,0,5,435,15,10,25,Hillingdon
+E02000498,Hillingdon 005,5,5,5,0,0,5,265,10,10,20,Hillingdon
+E02000499,Hillingdon 006,0,25,0,0,0,0,495,25,0,25,Hillingdon
+E02000500,Hillingdon 007,0,55,5,0,5,0,815,55,10,65,Hillingdon
+E02000501,Hillingdon 008,0,20,5,0,0,0,440,20,5,25,Hillingdon
+E02000502,Hillingdon 009,0,20,5,0,0,5,365,20,10,30,Hillingdon
+E02000503,Hillingdon 010,0,5,5,0,0,0,360,5,5,10,Hillingdon
+E02000504,Hillingdon 011,0,10,10,0,0,0,390,10,10,20,Hillingdon
+E02000506,Hillingdon 013,0,15,0,0,0,5,425,15,5,20,Hillingdon
+E02000507,Hillingdon 014,0,10,5,0,0,0,285,10,5,15,Hillingdon
+E02000508,Hillingdon 015,0,65,5,0,0,5,780,65,10,75,Hillingdon
+E02000509,Hillingdon 016,0,55,5,0,0,5,1075,55,10,65,Hillingdon
+E02000510,Hillingdon 017,0,15,5,0,0,0,375,15,5,20,Hillingdon
+E02000511,Hillingdon 018,0,15,5,0,5,5,355,15,15,30,Hillingdon
+E02000512,Hillingdon 019,0,5,0,0,0,0,270,5,0,5,Hillingdon
+E02000513,Hillingdon 020,0,15,0,0,5,0,200,15,5,20,Hillingdon
+E02000514,Hillingdon 021,0,30,0,0,5,0,430,30,5,35,Hillingdon
+E02000515,Hillingdon 022,5,25,5,0,5,5,505,30,15,45,Hillingdon
+E02000516,Hillingdon 023,0,10,0,0,0,0,215,10,0,10,Hillingdon
+E02000517,Hillingdon 024,0,10,0,0,0,0,275,10,0,10,Hillingdon
+E02000518,Hillingdon 025,0,15,0,0,0,5,340,15,5,20,Hillingdon
+E02000519,Hillingdon 026,0,15,0,0,0,0,365,15,0,15,Hillingdon
+E02000520,Hillingdon 027,0,60,5,0,10,10,1250,60,25,85,Hillingdon
+E02000521,Hillingdon 028,0,10,0,0,0,0,365,10,0,10,Hillingdon
+E02000522,Hillingdon 029,0,25,0,0,0,0,420,25,0,25,Hillingdon
+E02000523,Hillingdon 030,0,20,0,0,0,0,565,20,0,20,Hillingdon
+E02000524,Hillingdon 031,25,120,5,0,0,0,1115,145,5,150,Hillingdon
+E02000525,Hillingdon 032,10,15,0,0,0,5,320,25,5,30,Hillingdon
+E02000526,Hounslow 001,5,40,35,0,0,15,825,45,50,95,Hounslow
+E02000528,Hounslow 003,5,45,20,5,0,5,680,50,30,80,Hounslow
+E02000529,Hounslow 004,0,20,0,0,5,0,310,20,5,25,Hounslow
+E02000530,Hounslow 005,0,10,0,0,0,5,385,10,5,15,Hounslow
+E02000531,Hounslow 006,10,35,15,0,5,5,880,45,25,70,Hounslow
+E02000532,Hounslow 007,0,20,35,0,0,15,595,20,50,70,Hounslow
+E02000533,Hounslow 008,0,25,30,0,0,5,585,25,35,60,Hounslow
+E02000534,Hounslow 009,5,35,5,0,0,10,605,40,15,55,Hounslow
+E02000535,Hounslow 010,0,15,0,0,0,0,350,15,0,15,Hounslow
+E02000536,Hounslow 011,0,20,0,0,0,0,400,20,0,20,Hounslow
+E02000537,Hounslow 012,5,20,0,0,0,5,440,25,5,30,Hounslow
+E02000538,Hounslow 013,5,25,5,0,5,5,435,30,15,45,Hounslow
+E02000539,Hounslow 014,0,35,15,0,0,5,605,35,20,55,Hounslow
+E02000540,Hounslow 015,0,50,0,0,5,5,640,50,10,60,Hounslow
+E02000541,Hounslow 016,0,25,0,0,5,0,445,25,5,30,Hounslow
+E02000542,Hounslow 017,5,20,0,0,0,0,575,25,0,25,Hounslow
+E02000543,Hounslow 018,10,65,5,0,10,5,940,75,20,95,Hounslow
+E02000544,Hounslow 019,0,5,0,0,0,5,315,5,5,10,Hounslow
+E02000545,Hounslow 020,0,20,10,0,0,5,365,20,15,35,Hounslow
+E02000546,Hounslow 021,0,10,0,0,0,0,330,10,0,10,Hounslow
+E02000547,Hounslow 022,0,30,0,0,0,0,540,30,0,30,Hounslow
+E02000548,Hounslow 023,0,20,0,0,0,5,360,20,5,25,Hounslow
+E02000549,Hounslow 024,5,25,0,0,0,5,445,30,5,35,Hounslow
+E02000550,Hounslow 025,0,20,0,0,5,0,410,20,5,25,Hounslow
+E02000551,Hounslow 026,0,15,0,0,0,0,385,15,0,15,Hounslow
+E02000552,Hounslow 027,0,25,0,0,0,5,380,25,5,30,Hounslow
+E02000553,Hounslow 028,0,5,0,0,0,0,215,5,0,5,Hounslow
+E02000554,Islington 001,0,15,20,0,0,5,400,15,25,40,Islington
+E02000555,Islington 002,5,20,35,0,0,5,485,25,40,65,Islington
+E02000556,Islington 003,0,65,25,0,5,5,595,65,35,100,Islington
+E02000557,Islington 004,0,60,15,0,0,0,460,60,15,75,Islington
+E02000558,Islington 005,5,25,5,0,0,0,315,30,5,35,Islington
+E02000559,Islington 006,0,40,25,0,5,5,560,40,35,75,Islington
+E02000560,Islington 007,5,50,20,0,10,5,585,55,35,90,Islington
+E02000561,Islington 008,5,10,45,0,0,5,410,15,50,65,Islington
+E02000562,Islington 009,0,10,25,0,0,5,430,10,30,40,Islington
+E02000563,Islington 010,0,20,5,0,0,5,265,20,10,30,Islington
+E02000564,Islington 011,0,40,25,0,5,5,590,40,35,75,Islington
+E02000565,Islington 012,0,25,10,0,5,0,410,25,15,40,Islington
+E02000566,Islington 013,0,65,30,0,5,15,675,65,50,115,Islington
+E02000567,Islington 014,0,20,35,0,0,5,585,20,40,60,Islington
+E02000568,Islington 015,0,30,25,5,0,10,700,30,40,70,Islington
+E02000569,Islington 016,0,40,25,5,0,5,565,40,35,75,Islington
+E02000570,Islington 017,0,25,40,5,0,5,595,25,50,75,Islington
+E02000571,Islington 018,0,25,20,0,0,0,520,25,20,45,Islington
+E02000572,Islington 019,0,25,5,0,0,0,300,25,5,30,Islington
+E02000573,Islington 020,5,135,55,0,5,10,1500,140,70,210,Islington
+E02000574,Islington 021,10,100,45,0,0,5,1025,110,50,160,Islington
+E02000575,Islington 022,30,250,120,5,5,30,4795,280,160,440,Islington
+E02000576,Islington 023,25,170,85,5,10,50,5635,195,150,345,Islington
+E02000577,Kensington and Chelsea 001,0,45,35,0,0,10,805,45,45,90,Kensington and Chelsea
+E02000578,Kensington and Chelsea 002,0,15,10,0,0,5,305,15,15,30,Kensington and Chelsea
+E02000579,Kensington and Chelsea 003,0,15,45,0,0,5,540,15,50,65,Kensington and Chelsea
+E02000580,Kensington and Chelsea 004,5,55,35,0,5,10,710,60,50,110,Kensington and Chelsea
+E02000581,Kensington and Chelsea 005,0,15,5,0,0,5,320,15,10,25,Kensington and Chelsea
+E02000582,Kensington and Chelsea 006,10,45,45,0,0,5,825,55,50,105,Kensington and Chelsea
+E02000583,Kensington and Chelsea 007,5,35,35,0,0,5,700,40,40,80,Kensington and Chelsea
+E02000584,Kensington and Chelsea 008,10,75,35,5,5,10,1285,85,55,140,Kensington and Chelsea
+E02000585,Kensington and Chelsea 009,5,20,20,0,0,5,585,25,25,50,Kensington and Chelsea
+E02000586,Kensington and Chelsea 010,15,60,20,0,0,20,970,75,40,115,Kensington and Chelsea
+E02000587,Kensington and Chelsea 011,10,40,15,0,0,10,875,50,25,75,Kensington and Chelsea
+E02000588,Kensington and Chelsea 012,20,80,35,5,5,5,1665,100,50,150,Kensington and Chelsea
+E02000589,Kensington and Chelsea 013,30,40,15,0,0,5,805,70,20,90,Kensington and Chelsea
+E02000590,Kensington and Chelsea 014,10,65,5,0,0,5,885,75,10,85,Kensington and Chelsea
+E02000591,Kensington and Chelsea 015,35,25,10,0,0,0,405,60,10,70,Kensington and Chelsea
+E02000592,Kensington and Chelsea 016,15,75,10,0,5,10,755,90,25,115,Kensington and Chelsea
+E02000593,Kensington and Chelsea 017,10,35,10,0,0,5,495,45,15,60,Kensington and Chelsea
+E02000594,Kensington and Chelsea 018,5,50,25,5,0,10,860,55,40,95,Kensington and Chelsea
+E02000595,Kensington and Chelsea 019,5,55,20,0,0,5,760,60,25,85,Kensington and Chelsea
+E02000596,Kensington and Chelsea 020,0,55,25,0,0,10,705,55,35,90,Kensington and Chelsea
+E02000597,Kensington and Chelsea 021,5,30,30,0,0,5,670,35,35,70,Kensington and Chelsea
+E02000598,Kingston upon Thames 001,0,10,10,0,0,5,420,10,15,25,Kingston upon Thames
+E02000599,Kingston upon Thames 002,0,25,5,0,0,5,475,25,10,35,Kingston upon Thames
+E02000600,Kingston upon Thames 003,0,15,10,0,0,10,435,15,20,35,Kingston upon Thames
+E02000601,Kingston upon Thames 004,0,20,20,0,0,5,690,20,25,45,Kingston upon Thames
+E02000602,Kingston upon Thames 005,0,30,15,5,0,0,535,30,20,50,Kingston upon Thames
+E02000603,Kingston upon Thames 006,0,15,0,0,0,5,310,15,5,20,Kingston upon Thames
+E02000604,Kingston upon Thames 007,5,50,10,0,5,5,790,55,20,75,Kingston upon Thames
+E02000605,Kingston upon Thames 008,0,20,5,0,0,0,540,20,5,25,Kingston upon Thames
+E02000606,Kingston upon Thames 009,5,145,15,0,5,10,1390,150,30,180,Kingston upon Thames
+E02000607,Kingston upon Thames 010,0,10,10,0,0,5,355,10,15,25,Kingston upon Thames
+E02000608,Kingston upon Thames 011,0,55,10,0,5,10,755,55,25,80,Kingston upon Thames
+E02000609,Kingston upon Thames 012,0,10,5,0,0,0,280,10,5,15,Kingston upon Thames
+E02000610,Kingston upon Thames 013,0,15,5,0,0,5,410,15,10,25,Kingston upon Thames
+E02000611,Kingston upon Thames 014,0,5,0,0,0,5,325,5,5,10,Kingston upon Thames
+E02000612,Kingston upon Thames 015,0,5,5,0,0,5,385,5,10,15,Kingston upon Thames
+E02000613,Kingston upon Thames 016,0,15,5,0,0,10,420,15,15,30,Kingston upon Thames
+E02000614,Kingston upon Thames 017,0,35,5,0,5,10,695,35,20,55,Kingston upon Thames
+E02000615,Kingston upon Thames 018,0,20,5,0,0,5,395,20,10,30,Kingston upon Thames
+E02000616,Kingston upon Thames 019,0,5,0,0,0,0,195,5,0,5,Kingston upon Thames
+E02000617,Kingston upon Thames 020,5,10,0,0,0,10,325,15,10,25,Kingston upon Thames
+E02000619,Lambeth 002,5,25,20,0,0,5,480,30,25,55,Lambeth
+E02000620,Lambeth 003,5,50,30,0,10,5,790,55,45,100,Lambeth
+E02000621,Lambeth 004,10,50,20,0,5,10,810,60,35,95,Lambeth
+E02000622,Lambeth 005,5,35,25,0,0,10,515,40,35,75,Lambeth
+E02000623,Lambeth 006,0,15,15,0,0,5,230,15,20,35,Lambeth
+E02000624,Lambeth 007,0,20,15,0,5,5,300,20,25,45,Lambeth
+E02000625,Lambeth 008,0,30,10,0,0,0,280,30,10,40,Lambeth
+E02000626,Lambeth 009,0,15,10,0,0,0,220,15,10,25,Lambeth
+E02000627,Lambeth 010,0,25,20,0,0,5,370,25,25,50,Lambeth
+E02000628,Lambeth 011,10,90,10,5,5,5,695,100,25,125,Lambeth
+E02000629,Lambeth 012,10,40,15,0,0,5,680,50,20,70,Lambeth
+E02000630,Lambeth 013,0,40,25,0,0,5,605,40,30,70,Lambeth
+E02000631,Lambeth 014,0,20,30,0,0,5,450,20,35,55,Lambeth
+E02000632,Lambeth 015,0,20,10,0,0,5,525,20,15,35,Lambeth
+E02000633,Lambeth 016,0,30,20,0,0,5,505,30,25,55,Lambeth
+E02000634,Lambeth 017,10,40,5,0,5,0,345,50,10,60,Lambeth
+E02000635,Lambeth 018,0,35,25,0,0,5,500,35,30,65,Lambeth
+E02000636,Lambeth 019,5,15,15,0,0,5,425,20,20,40,Lambeth
+E02000637,Lambeth 020,0,25,30,0,0,5,405,25,35,60,Lambeth
+E02000638,Lambeth 021,0,20,10,0,0,5,325,20,15,35,Lambeth
+E02000639,Lambeth 022,0,5,5,0,0,5,175,5,10,15,Lambeth
+E02000640,Lambeth 023,0,10,10,0,0,5,430,10,15,25,Lambeth
+E02000641,Lambeth 024,0,10,5,0,0,0,165,10,5,15,Lambeth
+E02000642,Lambeth 025,0,25,15,0,0,0,395,25,15,40,Lambeth
+E02000643,Lambeth 026,0,15,10,0,5,5,395,15,20,35,Lambeth
+E02000644,Lambeth 027,0,15,20,0,0,0,325,15,20,35,Lambeth
+E02000645,Lambeth 028,0,45,25,0,0,5,610,45,30,75,Lambeth
+E02000646,Lambeth 029,5,45,20,0,5,10,575,50,35,85,Lambeth
+E02000647,Lambeth 030,0,5,10,0,0,0,290,5,10,15,Lambeth
+E02000648,Lambeth 031,0,10,0,0,0,0,165,10,0,10,Lambeth
+E02000649,Lambeth 032,0,45,20,0,5,5,590,45,30,75,Lambeth
+E02000650,Lambeth 033,0,20,15,0,0,0,330,20,15,35,Lambeth
+E02000651,Lambeth 034,0,25,10,0,0,0,390,25,10,35,Lambeth
+E02000652,Lambeth 035,0,10,5,0,0,0,205,10,5,15,Lambeth
+E02000653,Lewisham 001,0,10,5,0,0,5,360,10,10,20,Lewisham
+E02000654,Lewisham 002,0,40,5,0,5,0,300,40,10,50,Lewisham
+E02000655,Lewisham 003,0,25,20,0,0,5,370,25,25,50,Lewisham
+E02000657,Lewisham 005,0,40,15,0,0,0,395,40,15,55,Lewisham
+E02000658,Lewisham 006,0,20,15,0,0,0,285,20,15,35,Lewisham
+E02000659,Lewisham 007,0,10,15,0,0,5,370,10,20,30,Lewisham
+E02000660,Lewisham 008,0,25,20,0,0,5,385,25,25,50,Lewisham
+E02000661,Lewisham 009,0,35,10,0,0,0,420,35,10,45,Lewisham
+E02000662,Lewisham 010,0,10,15,0,0,5,305,10,20,30,Lewisham
+E02000663,Lewisham 011,0,5,15,0,0,5,260,5,20,25,Lewisham
+E02000664,Lewisham 012,0,50,10,0,10,5,735,50,25,75,Lewisham
+E02000665,Lewisham 013,0,30,10,0,5,0,360,30,15,45,Lewisham
+E02000666,Lewisham 014,0,15,15,0,0,0,260,15,15,30,Lewisham
+E02000667,Lewisham 015,0,20,15,0,0,0,290,20,15,35,Lewisham
+E02000668,Lewisham 016,0,20,10,0,0,0,345,20,10,30,Lewisham
+E02000669,Lewisham 017,0,20,15,0,0,5,310,20,20,40,Lewisham
+E02000670,Lewisham 018,0,5,5,0,0,5,170,5,10,15,Lewisham
+E02000671,Lewisham 019,0,65,20,0,0,0,500,65,20,85,Lewisham
+E02000672,Lewisham 020,0,40,10,0,10,5,415,40,25,65,Lewisham
+E02000673,Lewisham 021,0,25,25,0,0,5,420,25,30,55,Lewisham
+E02000674,Lewisham 022,0,5,5,0,0,0,225,5,5,10,Lewisham
+E02000675,Lewisham 023,0,20,0,0,0,0,270,20,0,20,Lewisham
+E02000676,Lewisham 024,0,5,20,0,0,0,295,5,20,25,Lewisham
+E02000677,Lewisham 025,0,25,5,0,5,5,360,25,15,40,Lewisham
+E02000678,Lewisham 026,0,5,0,0,0,0,120,5,0,5,Lewisham
+E02000679,Lewisham 027,0,15,20,0,0,0,285,15,20,35,Lewisham
+E02000680,Lewisham 028,0,20,15,0,0,0,275,20,15,35,Lewisham
+E02000681,Lewisham 029,0,20,5,0,0,5,250,20,10,30,Lewisham
+E02000682,Lewisham 030,0,10,0,0,0,0,170,10,0,10,Lewisham
+E02000683,Lewisham 031,0,10,0,0,0,0,160,10,0,10,Lewisham
+E02000685,Lewisham 033,0,5,10,0,0,5,275,5,15,20,Lewisham
+E02000686,Lewisham 034,0,10,0,0,0,5,195,10,5,15,Lewisham
+E02000687,Lewisham 035,0,30,10,0,0,0,360,30,10,40,Lewisham
+E02000689,Merton 001,0,25,10,0,0,5,705,25,15,40,Merton
+E02000690,Merton 002,5,15,10,0,0,10,465,20,20,40,Merton
+E02000691,Merton 003,5,45,15,0,5,5,715,50,25,75,Merton
+E02000692,Merton 004,5,45,10,0,0,10,960,50,20,70,Merton
+E02000693,Merton 005,0,35,15,0,0,0,540,35,15,50,Merton
+E02000694,Merton 006,0,30,10,0,0,10,635,30,20,50,Merton
+E02000695,Merton 007,0,15,5,0,0,0,285,15,5,20,Merton
+E02000696,Merton 008,0,15,5,0,0,0,515,15,5,20,Merton
+E02000697,Merton 009,5,45,20,0,5,15,1060,50,40,90,Merton
+E02000698,Merton 010,0,10,10,0,0,15,510,10,25,35,Merton
+E02000699,Merton 011,0,15,10,0,0,5,435,15,15,30,Merton
+E02000700,Merton 012,0,15,10,0,0,5,580,15,15,30,Merton
+E02000701,Merton 013,0,30,0,0,5,5,310,30,10,40,Merton
+E02000702,Merton 014,0,10,0,0,0,0,185,10,0,10,Merton
+E02000703,Merton 015,0,15,10,0,0,5,450,15,15,30,Merton
+E02000704,Merton 016,0,40,5,0,0,5,680,40,10,50,Merton
+E02000705,Merton 017,0,15,5,0,0,0,315,15,5,20,Merton
+E02000706,Merton 018,0,15,0,0,5,0,345,15,5,20,Merton
+E02000707,Merton 019,0,5,5,0,0,0,160,5,5,10,Merton
+E02000708,Merton 020,0,20,10,0,0,5,455,20,15,35,Merton
+E02000709,Merton 021,0,5,0,0,0,0,285,5,0,5,Merton
+E02000710,Merton 022,0,25,5,0,0,10,610,25,15,40,Merton
+E02000711,Merton 023,0,45,5,0,5,0,605,45,10,55,Merton
+E02000712,Merton 024,0,15,0,0,0,5,405,15,5,20,Merton
+E02000713,Merton 025,0,10,5,0,0,0,310,10,5,15,Merton
+E02000714,Newham 001,0,15,5,0,0,0,325,15,5,20,Newham
+E02000715,Newham 002,0,15,0,0,0,0,190,15,0,15,Newham
+E02000716,Newham 003,0,15,0,0,0,0,230,15,0,15,Newham
+E02000717,Newham 004,0,25,0,0,0,0,365,25,0,25,Newham
+E02000718,Newham 005,0,5,0,0,0,0,150,5,0,5,Newham
+E02000719,Newham 006,0,10,0,0,0,0,285,10,0,10,Newham
+E02000720,Newham 007,0,10,5,0,0,0,295,10,5,15,Newham
+E02000721,Newham 008,5,35,10,0,5,0,545,40,15,55,Newham
+E02000722,Newham 009,0,10,5,0,0,0,255,10,5,15,Newham
+E02000723,Newham 010,0,20,0,0,5,0,375,20,5,25,Newham
+E02000724,Newham 011,0,10,0,0,0,0,205,10,0,10,Newham
+E02000725,Newham 012,5,80,10,0,10,5,1740,85,25,110,Newham
+E02000726,Newham 013,10,90,10,0,0,20,1235,100,30,130,Newham
+E02000727,Newham 014,0,25,0,0,10,0,430,25,10,35,Newham
+E02000728,Newham 015,0,10,0,0,0,0,195,10,0,10,Newham
+E02000729,Newham 016,0,10,5,0,0,0,215,10,5,15,Newham
+E02000730,Newham 017,0,15,0,0,0,5,355,15,5,20,Newham
+E02000731,Newham 018,0,40,0,0,10,5,555,40,15,55,Newham
+E02000732,Newham 019,0,10,0,0,0,0,190,10,0,10,Newham
+E02000733,Newham 020,5,15,5,0,0,0,240,20,5,25,Newham
+E02000734,Newham 021,0,15,0,0,5,0,190,15,5,20,Newham
+E02000735,Newham 022,0,10,0,0,0,0,225,10,0,10,Newham
+E02000736,Newham 023,0,15,5,0,0,0,210,15,5,20,Newham
+E02000737,Newham 024,0,10,0,0,0,0,250,10,0,10,Newham
+E02000738,Newham 025,0,15,0,0,0,0,240,15,0,15,Newham
+E02000739,Newham 026,0,10,0,0,0,0,240,10,0,10,Newham
+E02000740,Newham 027,0,15,0,0,0,0,250,15,0,15,Newham
+E02000741,Newham 028,0,15,0,0,0,0,395,15,0,15,Newham
+E02000742,Newham 029,0,10,0,0,0,0,195,10,0,10,Newham
+E02000743,Newham 030,0,45,0,0,5,0,365,45,5,50,Newham
+E02000744,Newham 031,0,20,0,0,0,0,260,20,0,20,Newham
+E02000745,Newham 032,0,0,0,0,0,0,230,0,0,0,Newham
+E02000746,Newham 033,0,35,0,0,0,5,460,35,5,40,Newham
+E02000747,Newham 034,5,35,5,0,0,5,645,40,10,50,Newham
+E02000748,Newham 035,5,10,0,0,0,5,315,15,5,20,Newham
+E02000749,Newham 036,5,25,0,0,0,0,325,30,0,30,Newham
+E02000750,Newham 037,0,40,10,0,0,10,1190,40,20,60,Newham
+E02000751,Redbridge 001,0,25,10,0,0,5,655,25,15,40,Redbridge
+E02000752,Redbridge 002,0,15,5,0,0,5,485,15,10,25,Redbridge
+E02000753,Redbridge 003,0,5,0,0,0,0,230,5,0,5,Redbridge
+E02000754,Redbridge 004,0,5,5,0,0,0,305,5,5,10,Redbridge
+E02000755,Redbridge 005,0,15,0,0,0,0,275,15,0,15,Redbridge
+E02000756,Redbridge 006,0,35,10,0,5,10,725,35,25,60,Redbridge
+E02000757,Redbridge 007,0,55,10,0,5,5,1010,55,20,75,Redbridge
+E02000758,Redbridge 008,0,5,0,0,0,0,230,5,0,5,Redbridge
+E02000759,Redbridge 009,0,20,10,0,5,5,670,20,20,40,Redbridge
+E02000760,Redbridge 010,0,15,0,0,5,0,310,15,5,20,Redbridge
+E02000762,Redbridge 012,0,15,0,0,0,5,370,15,5,20,Redbridge
+E02000763,Redbridge 013,0,5,0,0,0,10,350,5,10,15,Redbridge
+E02000764,Redbridge 014,0,40,20,0,0,0,745,40,20,60,Redbridge
+E02000765,Redbridge 015,0,25,0,0,0,0,360,25,0,25,Redbridge
+E02000767,Redbridge 017,0,10,0,0,0,0,405,10,0,10,Redbridge
+E02000768,Redbridge 018,0,5,0,0,0,10,245,5,10,15,Redbridge
+E02000769,Redbridge 019,0,15,0,0,5,0,570,15,5,20,Redbridge
+E02000770,Redbridge 020,0,15,0,0,0,0,315,15,0,15,Redbridge
+E02000772,Redbridge 022,0,15,0,0,0,5,475,15,5,20,Redbridge
+E02000773,Redbridge 023,0,15,0,0,0,0,510,15,0,15,Redbridge
+E02000774,Redbridge 024,0,20,5,0,5,0,320,20,10,30,Redbridge
+E02000776,Redbridge 026,5,10,0,0,0,0,360,15,0,15,Redbridge
+E02000777,Redbridge 027,0,5,5,0,0,5,225,5,10,15,Redbridge
+E02000779,Redbridge 029,20,35,5,0,0,5,755,55,10,65,Redbridge
+E02000780,Redbridge 030,5,55,0,5,10,5,1040,60,20,80,Redbridge
+E02000781,Redbridge 031,0,10,0,0,0,0,535,10,0,10,Redbridge
+E02000782,Redbridge 032,0,20,0,0,5,0,400,20,5,25,Redbridge
+E02000783,Redbridge 033,0,5,0,0,0,0,215,5,0,5,Redbridge
+E02000784,Richmond upon Thames 001,0,30,40,5,0,10,700,30,55,85,Richmond upon Thames
+E02000785,Richmond upon Thames 002,5,45,25,5,0,20,810,50,50,100,Richmond upon Thames
+E02000786,Richmond upon Thames 003,5,30,40,0,0,10,860,35,50,85,Richmond upon Thames
+E02000787,Richmond upon Thames 004,0,15,30,0,0,10,750,15,40,55,Richmond upon Thames
+E02000788,Richmond upon Thames 005,0,45,30,0,0,5,835,45,35,80,Richmond upon Thames
+E02000789,Richmond upon Thames 006,5,10,20,0,0,5,540,15,25,40,Richmond upon Thames
+E02000790,Richmond upon Thames 007,0,20,30,0,0,5,555,20,35,55,Richmond upon Thames
+E02000791,Richmond upon Thames 008,15,100,45,5,5,10,1400,115,65,180,Richmond upon Thames
+E02000792,Richmond upon Thames 009,0,20,25,5,0,10,595,20,40,60,Richmond upon Thames
+E02000793,Richmond upon Thames 010,0,25,5,0,5,5,440,25,15,40,Richmond upon Thames
+E02000794,Richmond upon Thames 011,5,10,5,0,0,10,435,15,15,30,Richmond upon Thames
+E02000795,Richmond upon Thames 012,0,25,30,0,0,15,515,25,45,70,Richmond upon Thames
+E02000796,Richmond upon Thames 013,0,15,0,0,0,5,390,15,5,20,Richmond upon Thames
+E02000797,Richmond upon Thames 014,5,75,20,0,5,10,935,80,35,115,Richmond upon Thames
+E02000798,Richmond upon Thames 015,0,20,20,0,0,5,585,20,25,45,Richmond upon Thames
+E02000799,Richmond upon Thames 016,5,20,10,0,0,5,390,25,15,40,Richmond upon Thames
+E02000800,Richmond upon Thames 017,0,5,10,0,0,5,205,5,15,20,Richmond upon Thames
+E02000801,Richmond upon Thames 018,0,30,15,0,0,10,650,30,25,55,Richmond upon Thames
+E02000802,Richmond upon Thames 019,0,20,20,0,0,10,495,20,30,50,Richmond upon Thames
+E02000803,Richmond upon Thames 020,0,10,5,0,0,5,315,10,10,20,Richmond upon Thames
+E02000804,Richmond upon Thames 021,0,45,15,0,0,10,715,45,25,70,Richmond upon Thames
+E02000805,Richmond upon Thames 022,0,30,30,0,0,10,760,30,40,70,Richmond upon Thames
+E02000806,Richmond upon Thames 023,0,25,25,5,0,10,815,25,40,65,Richmond upon Thames
+E02000807,Southwark 001,0,5,5,0,0,0,380,5,5,10,Southwark
+E02000808,Southwark 002,30,235,110,5,5,30,3285,265,150,415,Southwark
+E02000809,Southwark 003,20,140,55,5,0,20,2590,160,80,240,Southwark
+E02000810,Southwark 004,5,30,15,0,0,5,710,35,20,55,Southwark
+E02000812,Southwark 006,5,65,25,0,5,10,1015,70,40,110,Southwark
+E02000813,Southwark 007,0,45,10,0,5,5,600,45,20,65,Southwark
+E02000814,Southwark 008,0,20,10,0,0,5,500,20,15,35,Southwark
+E02000815,Southwark 009,0,25,15,0,5,10,510,25,30,55,Southwark
+E02000816,Southwark 010,0,25,10,0,5,0,335,25,15,40,Southwark
+E02000817,Southwark 011,0,20,5,0,0,0,275,20,5,25,Southwark
+E02000818,Southwark 012,0,20,10,0,5,5,365,20,20,40,Southwark
+E02000819,Southwark 013,0,10,5,0,0,0,210,10,5,15,Southwark
+E02000820,Southwark 014,0,15,15,0,0,0,360,15,15,30,Southwark
+E02000821,Southwark 015,0,25,5,0,0,0,235,25,5,30,Southwark
+E02000822,Southwark 016,5,10,5,0,0,0,190,15,5,20,Southwark
+E02000823,Southwark 017,0,20,15,0,5,0,335,20,20,40,Southwark
+E02000824,Southwark 018,0,30,15,0,0,5,365,30,20,50,Southwark
+E02000825,Southwark 019,0,0,0,0,0,5,165,0,5,5,Southwark
+E02000826,Southwark 020,0,10,5,0,0,5,230,10,10,20,Southwark
+E02000827,Southwark 021,0,35,15,0,10,5,415,35,30,65,Southwark
+E02000828,Southwark 022,0,25,5,0,10,0,305,25,15,40,Southwark
+E02000829,Southwark 023,0,15,5,0,0,0,320,15,5,20,Southwark
+E02000830,Southwark 024,0,55,35,0,0,0,490,55,35,90,Southwark
+E02000831,Southwark 025,0,75,50,0,5,10,680,75,65,140,Southwark
+E02000832,Southwark 026,0,25,15,0,0,5,315,25,20,45,Southwark
+E02000833,Southwark 027,0,5,5,0,0,5,190,5,10,15,Southwark
+E02000834,Southwark 028,0,35,25,0,0,5,515,35,30,65,Southwark
+E02000835,Southwark 029,0,10,25,0,0,5,270,10,30,40,Southwark
+E02000836,Southwark 030,0,45,30,0,0,5,575,45,35,80,Southwark
+E02000837,Southwark 031,0,35,25,0,0,10,615,35,35,70,Southwark
+E02000838,Southwark 032,0,25,30,0,0,0,425,25,30,55,Southwark
+E02000839,Southwark 033,0,15,15,0,0,5,330,15,20,35,Southwark
+E02000840,Sutton 001,0,10,0,0,0,0,175,10,0,10,Sutton
+E02000841,Sutton 002,0,15,0,0,0,0,255,15,0,15,Sutton
+E02000842,Sutton 003,0,20,5,0,0,0,515,20,5,25,Sutton
+E02000843,Sutton 004,0,20,5,0,0,0,385,20,5,25,Sutton
+E02000844,Sutton 005,0,20,0,0,0,5,290,20,5,25,Sutton
+E02000845,Sutton 006,0,30,5,0,0,0,475,30,5,35,Sutton
+E02000846,Sutton 007,0,10,5,0,0,0,275,10,5,15,Sutton
+E02000847,Sutton 008,0,15,5,0,0,0,415,15,5,20,Sutton
+E02000848,Sutton 009,0,25,0,0,0,5,370,25,5,30,Sutton
+E02000849,Sutton 010,0,15,5,0,0,0,275,15,5,20,Sutton
+E02000850,Sutton 011,0,20,5,0,0,5,560,20,10,30,Sutton
+E02000851,Sutton 012,0,60,5,0,10,5,830,60,20,80,Sutton
+E02000852,Sutton 013,0,15,5,0,0,0,360,15,5,20,Sutton
+E02000853,Sutton 014,0,10,0,0,0,5,280,10,5,15,Sutton
+E02000854,Sutton 015,0,25,5,0,0,5,420,25,10,35,Sutton
+E02000855,Sutton 016,0,35,0,0,0,5,530,35,5,40,Sutton
+E02000856,Sutton 017,0,35,5,0,5,5,525,35,15,50,Sutton
+E02000857,Sutton 018,5,20,5,0,0,0,415,25,5,30,Sutton
+E02000858,Sutton 019,0,15,5,0,5,5,280,15,15,30,Sutton
+E02000859,Sutton 020,0,20,0,0,0,5,365,20,5,25,Sutton
+E02000860,Sutton 021,5,5,0,0,0,5,305,10,5,15,Sutton
+E02000861,Sutton 022,0,10,5,0,0,5,465,10,10,20,Sutton
+E02000863,Sutton 024,0,10,5,0,0,5,325,10,10,20,Sutton
+E02000864,Tower Hamlets 001,0,35,20,0,5,5,500,35,30,65,Tower Hamlets
+E02000865,Tower Hamlets 002,0,35,20,0,0,5,485,35,25,60,Tower Hamlets
+E02000866,Tower Hamlets 003,0,35,15,0,0,0,460,35,15,50,Tower Hamlets
+E02000867,Tower Hamlets 004,0,20,25,0,0,5,585,20,30,50,Tower Hamlets
+E02000868,Tower Hamlets 005,0,30,20,0,5,10,500,30,35,65,Tower Hamlets
+E02000869,Tower Hamlets 006,0,30,30,0,0,5,445,30,35,65,Tower Hamlets
+E02000870,Tower Hamlets 007,0,15,10,0,0,0,265,15,10,25,Tower Hamlets
+E02000871,Tower Hamlets 008,0,15,5,0,0,0,340,15,5,20,Tower Hamlets
+E02000872,Tower Hamlets 009,0,60,20,5,5,5,605,60,35,95,Tower Hamlets
+E02000873,Tower Hamlets 010,0,15,5,0,5,0,300,15,10,25,Tower Hamlets
+E02000874,Tower Hamlets 011,0,20,40,0,0,5,345,20,45,65,Tower Hamlets
+E02000875,Tower Hamlets 012,0,10,5,0,5,0,335,10,10,20,Tower Hamlets
+E02000876,Tower Hamlets 013,0,50,15,0,10,10,500,50,35,85,Tower Hamlets
+E02000877,Tower Hamlets 014,0,30,5,0,0,5,450,30,10,40,Tower Hamlets
+E02000878,Tower Hamlets 015,15,195,60,5,5,10,2220,210,80,290,Tower Hamlets
+E02000879,Tower Hamlets 016,0,30,5,0,0,5,305,30,10,40,Tower Hamlets
+E02000880,Tower Hamlets 017,0,25,5,0,5,5,395,25,15,40,Tower Hamlets
+E02000881,Tower Hamlets 018,0,10,5,0,0,0,265,10,5,15,Tower Hamlets
+E02000882,Tower Hamlets 019,0,10,5,0,0,0,275,10,5,15,Tower Hamlets
+E02000883,Tower Hamlets 020,0,25,0,0,5,0,260,25,5,30,Tower Hamlets
+E02000884,Tower Hamlets 021,15,105,15,0,5,15,1695,120,35,155,Tower Hamlets
+E02000885,Tower Hamlets 022,0,15,5,0,5,5,205,15,15,30,Tower Hamlets
+E02000886,Tower Hamlets 023,0,20,10,0,0,5,445,20,15,35,Tower Hamlets
+E02000887,Tower Hamlets 024,5,15,0,0,0,5,265,20,5,25,Tower Hamlets
+E02000888,Tower Hamlets 025,0,30,5,0,5,5,450,30,15,45,Tower Hamlets
+E02000889,Tower Hamlets 026,0,20,5,0,0,5,525,20,10,30,Tower Hamlets
+E02000890,Tower Hamlets 027,5,60,15,5,0,10,805,65,30,95,Tower Hamlets
+E02000891,Tower Hamlets 028,15,50,10,0,0,20,1530,65,30,95,Tower Hamlets
+E02000893,Tower Hamlets 030,0,10,5,0,0,0,275,10,5,15,Tower Hamlets
+E02000894,Tower Hamlets 031,0,20,10,0,0,0,550,20,10,30,Tower Hamlets
+E02000895,Waltham Forest 001,0,10,5,0,0,5,295,10,10,20,Waltham Forest
+E02000896,Waltham Forest 002,0,45,10,0,5,10,645,45,25,70,Waltham Forest
+E02000897,Waltham Forest 003,0,5,0,0,0,10,275,5,10,15,Waltham Forest
+E02000898,Waltham Forest 004,0,10,0,0,0,5,230,10,5,15,Waltham Forest
+E02000899,Waltham Forest 005,0,40,0,0,5,5,445,40,10,50,Waltham Forest
+E02000900,Waltham Forest 006,0,10,0,0,0,5,340,10,5,15,Waltham Forest
+E02000901,Waltham Forest 007,0,30,5,0,5,5,500,30,15,45,Waltham Forest
+E02000902,Waltham Forest 008,0,5,10,0,0,0,305,5,10,15,Waltham Forest
+E02000903,Waltham Forest 009,0,15,5,0,0,0,330,15,5,20,Waltham Forest
+E02000904,Waltham Forest 010,0,10,5,0,0,5,420,10,10,20,Waltham Forest
+E02000905,Waltham Forest 011,0,30,10,0,0,0,405,30,10,40,Waltham Forest
+E02000906,Waltham Forest 012,0,20,10,0,0,5,350,20,15,35,Waltham Forest
+E02000907,Waltham Forest 013,0,25,10,0,5,0,350,25,15,40,Waltham Forest
+E02000908,Waltham Forest 014,0,20,15,0,0,5,455,20,20,40,Waltham Forest
+E02000909,Waltham Forest 015,0,20,15,0,0,0,420,20,15,35,Waltham Forest
+E02000910,Waltham Forest 016,5,25,20,0,0,0,605,30,20,50,Waltham Forest
+E02000911,Waltham Forest 017,0,65,10,0,10,0,735,65,20,85,Waltham Forest
+E02000912,Waltham Forest 018,0,5,10,0,0,0,275,5,10,15,Waltham Forest
+E02000913,Waltham Forest 019,0,15,5,0,0,0,330,15,5,20,Waltham Forest
+E02000914,Waltham Forest 020,0,35,5,0,5,5,530,35,15,50,Waltham Forest
+E02000915,Waltham Forest 021,0,10,15,0,0,0,360,10,15,25,Waltham Forest
+E02000916,Waltham Forest 022,0,35,20,0,5,5,765,35,30,65,Waltham Forest
+E02000917,Waltham Forest 023,0,15,10,0,0,5,385,15,15,30,Waltham Forest
+E02000918,Waltham Forest 024,0,30,10,0,5,5,605,30,20,50,Waltham Forest
+E02000919,Waltham Forest 025,0,25,5,0,5,0,390,25,10,35,Waltham Forest
+E02000920,Waltham Forest 026,0,30,10,0,0,5,980,30,15,45,Waltham Forest
+E02000921,Waltham Forest 027,0,20,5,0,0,0,385,20,5,25,Waltham Forest
+E02000922,Waltham Forest 028,0,20,10,0,0,5,410,20,15,35,Waltham Forest
+E02000923,Wandsworth 001,5,30,30,0,0,15,615,35,45,80,Wandsworth
+E02000924,Wandsworth 002,5,70,15,0,0,5,1110,75,20,95,Wandsworth
+E02000925,Wandsworth 003,0,25,10,0,0,5,315,25,15,40,Wandsworth
+E02000926,Wandsworth 004,5,50,30,0,0,10,965,55,40,95,Wandsworth
+E02000927,Wandsworth 005,0,25,15,0,0,0,375,25,15,40,Wandsworth
+E02000928,Wandsworth 006,0,40,35,0,0,10,680,40,45,85,Wandsworth
+E02000929,Wandsworth 007,0,5,5,0,0,5,195,5,10,15,Wandsworth
+E02000930,Wandsworth 008,0,80,15,0,0,10,825,80,25,105,Wandsworth
+E02000931,Wandsworth 009,5,20,20,0,0,5,495,25,25,50,Wandsworth
+E02000932,Wandsworth 010,5,100,35,0,5,20,1525,105,60,165,Wandsworth
+E02000933,Wandsworth 011,0,15,15,0,0,10,545,15,25,40,Wandsworth
+E02000934,Wandsworth 012,5,50,20,0,5,15,710,55,40,95,Wandsworth
+E02000935,Wandsworth 013,0,10,5,0,0,10,175,10,15,25,Wandsworth
+E02000936,Wandsworth 014,0,15,5,0,0,0,530,15,5,20,Wandsworth
+E02000937,Wandsworth 015,0,10,15,0,0,5,560,10,20,30,Wandsworth
+E02000938,Wandsworth 016,0,10,5,0,0,5,380,10,10,20,Wandsworth
+E02000939,Wandsworth 017,0,5,15,0,0,0,465,5,15,20,Wandsworth
+E02000940,Wandsworth 018,0,40,20,0,0,10,600,40,30,70,Wandsworth
+E02000941,Wandsworth 019,0,20,20,0,0,10,650,20,30,50,Wandsworth
+E02000942,Wandsworth 020,0,20,15,0,0,5,600,20,20,40,Wandsworth
+E02000943,Wandsworth 021,5,55,20,0,5,10,725,60,35,95,Wandsworth
+E02000944,Wandsworth 022,0,5,0,0,0,0,195,5,0,5,Wandsworth
+E02000945,Wandsworth 023,0,20,0,0,0,5,190,20,5,25,Wandsworth
+E02000946,Wandsworth 024,0,35,10,0,0,5,530,35,15,50,Wandsworth
+E02000947,Wandsworth 025,0,25,10,0,0,5,530,25,15,40,Wandsworth
+E02000948,Wandsworth 026,0,10,20,0,0,5,445,10,25,35,Wandsworth
+E02000949,Wandsworth 027,5,35,20,0,0,0,625,40,20,60,Wandsworth
+E02000950,Wandsworth 028,0,5,5,0,0,5,290,5,10,15,Wandsworth
+E02000951,Wandsworth 029,0,30,10,0,5,5,400,30,20,50,Wandsworth
+E02000952,Wandsworth 030,0,10,10,0,0,5,265,10,15,25,Wandsworth
+E02000953,Wandsworth 031,0,20,10,0,0,5,440,20,15,35,Wandsworth
+E02000954,Wandsworth 032,0,15,15,0,0,0,305,15,15,30,Wandsworth
+E02000955,Wandsworth 033,0,15,10,0,5,5,370,15,20,35,Wandsworth
+E02000956,Wandsworth 034,0,30,5,0,0,5,310,30,10,40,Wandsworth
+E02000957,Wandsworth 035,5,60,5,0,10,5,645,65,20,85,Wandsworth
+E02000958,Wandsworth 036,0,10,10,0,0,0,300,10,10,20,Wandsworth
+E02000959,Wandsworth 037,0,10,10,0,0,0,285,10,10,20,Wandsworth
+E02000960,Westminster 001,5,25,10,5,0,5,520,30,20,50,Westminster
+E02000961,Westminster 002,0,25,10,0,0,5,490,25,15,40,Westminster
+E02000962,Westminster 003,0,5,5,0,0,5,420,5,10,15,Westminster
+E02000963,Westminster 004,0,10,20,0,0,5,345,10,25,35,Westminster
+E02000964,Westminster 005,0,30,10,0,5,5,535,30,20,50,Westminster
+E02000965,Westminster 006,0,25,25,0,0,10,505,25,35,60,Westminster
+E02000966,Westminster 007,10,40,45,5,0,5,745,50,55,105,Westminster
+E02000967,Westminster 008,20,85,140,5,5,20,1495,105,170,275,Westminster
+E02000968,Westminster 009,10,60,10,0,5,5,660,70,20,90,Westminster
+E02000969,Westminster 010,0,20,10,0,0,5,400,20,15,35,Westminster
+E02000970,Westminster 011,80,255,215,5,10,45,6815,335,275,610,Westminster
+E02000971,Westminster 012,30,110,35,0,10,15,2285,140,60,200,Westminster
+E02000972,Westminster 013,90,890,1085,15,10,160,17200,980,1270,2250,Westminster
+E02000973,Westminster 014,10,45,35,0,0,5,785,55,40,95,Westminster
+E02000974,Westminster 015,90,125,25,0,5,10,1190,215,40,255,Westminster
+E02000975,Westminster 016,45,75,20,0,5,5,1185,120,30,150,Westminster
+E02000976,Westminster 017,45,75,15,0,5,5,870,120,25,145,Westminster
+E02000977,Westminster 018,120,845,395,30,40,90,14305,965,555,1520,Westminster
+E02000978,Westminster 019,20,95,20,5,5,25,1750,115,55,170,Westminster
+E02000979,Westminster 020,25,195,20,10,5,25,3180,220,60,280,Westminster
+E02000980,Westminster 021,10,55,15,0,0,5,675,65,20,85,Westminster
+E02000981,Westminster 022,45,60,10,0,5,5,915,105,20,125,Westminster
+E02000982,Westminster 023,10,105,20,0,5,5,1325,115,30,145,Westminster
+E02000983,Westminster 024,0,15,10,0,0,5,325,15,15,30,Westminster
+E02006782,Bromley 040,0,10,5,0,0,0,265,10,5,15,Bromley
+E02006783,Lewisham 037,0,15,0,0,0,5,170,15,5,20,Lewisham
+E02006784,Lewisham 038,0,20,0,0,5,5,245,20,10,30,Lewisham
+E02006785,Bexley 029,0,10,0,0,0,0,175,10,0,10,Bexley
+E02006786,Greenwich 033,0,15,5,0,0,0,190,15,5,20,Greenwich
+E02006787,Bromley 041,0,30,0,0,0,5,435,30,5,35,Bromley
+E02006788,Croydon 045,0,10,5,0,0,0,185,10,5,15,Croydon
+E02006789,Bromley 042,0,25,5,0,0,15,495,25,20,45,Bromley
+E02006791,Ealing 040,0,10,15,0,0,5,425,10,20,30,Ealing
+E02006792,Hounslow 029,5,90,40,0,5,65,1635,95,110,205,Hounslow
+E02006793,Enfield 037,0,10,0,0,0,0,315,10,0,10,Enfield
+E02006794,Haringey 037,0,30,0,0,5,5,315,30,10,40,Haringey
+E02006795,Harrow 032,0,20,0,0,0,0,390,20,0,20,Harrow
+E02006796,Hillingdon 033,10,25,5,0,0,10,570,35,15,50,Hillingdon
+E02006798,Lewisham 039,0,55,20,0,5,5,435,55,30,85,Lewisham
+E02006799,Barking and Dagenham 023,0,35,0,0,5,0,450,35,5,40,Barking and Dagenham
+E02006800,Redbridge 034,0,25,5,0,5,0,695,25,10,35,Redbridge
+E02006801,Lambeth 036,25,165,50,5,5,15,1290,190,75,265,Lambeth
+E02006802,Southwark 034,5,60,35,5,0,5,795,65,45,110,Southwark
+E02006836,Sutton 025,0,10,5,0,0,5,500,10,10,20,Sutton
+E02006853,Tower Hamlets 032,0,10,0,0,0,5,560,10,5,15,Tower Hamlets
+E02006854,Tower Hamlets 033,10,165,10,0,5,25,2605,175,40,215,Tower Hamlets
+E02006882,Harrow 033,5,20,0,0,5,10,815,25,15,40,Harrow
+E02006918,Hackney 028,0,15,10,0,0,5,335,15,15,30,Hackney
+E02006921,Hackney 029,0,5,5,0,0,0,315,5,5,10,Hackney
+E02006924,Redbridge 035,5,25,0,0,0,5,640,30,5,35,Redbridge
+E02006925,Redbridge 036,0,20,15,0,0,5,790,20,20,40,Redbridge
+E02006927,Greenwich 034,0,20,5,0,0,10,430,20,15,35,Greenwich
+E02006928,Greenwich 035,5,30,30,0,0,10,655,35,40,75,Greenwich
+E02006929,Greenwich 036,0,65,5,0,0,10,930,65,15,80,Greenwich
+E02006930,Greenwich 037,0,55,15,0,5,5,560,55,25,80,Greenwich
+E02006931,Greenwich 038,5,75,20,5,0,5,765,80,30,110,Greenwich

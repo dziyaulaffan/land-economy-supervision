@@ -1,6 +1,6 @@
 # Question
 
-- Question:
-- Theory or mechanism:
-- Expected pattern:
-- Scope:
+- Question: How much do young adults value living in dense places, how much of that value comes from a preference for variety in consumption, and did dense places regain their young residents once the COVID-19 closures ended?
+- Theory or mechanism: People and firms locate in large cities despite higher costs because of agglomeration benefits. Part of the benefit to consumers is a preference for variety in consumption (Glaeser's consumer city), which is paid for through the same rent as every other benefit of density. The COVID-19 closures removed access to restaurants, bars, theatres, cinemas and gyms for about a year and restored it on known dates, so the migration response of young adults, who rent and move most easily, is a measure of the value they place on that variety. The recovery after reopening is tested against the single-equilibrium benchmark of Davis and Weinstein and the persistence in commuting found by Monte, Porcher and Rossi-Hansberg.
+- Expected pattern: Relative to older residents of the same place and year, young adults leave denser places in 2020 and return in 2022 once venues reopen. If the residential value of density rests on fundamentals, the young population of dense places recovers after 2021.
+- Scope: The 32 London boroughs, then 316 local authority districts and 7,262 small areas (MSOAs) of England and Wales, with net migration for the years to June 2016 to 2025 and small-area population to mid-2024.

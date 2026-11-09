@@ -1,0 +1,6 @@
+variable,n_boroughs,max_abs_diff,corr
+telework_share,32,5.551115123125783e-17,1.0
+garden_share,32,0.0,1.0
+private_rent_share,32,8.326672684688674e-17,0.9999999999999998
+age20_39_share,32,8.326672684688674e-17,1.0
+student_share,32,9.71445146547012e-17,1.0

@@ -1,0 +1,16 @@
+es_level: 36 warnings, distinct: critical value for uniform confidence band is somehow smaller than
+            critical value for pointwise confidence interval...using pointwise
+            confidence interal
+es_level: ok
+es_slope: 48 warnings, distinct: critical value for uniform confidence band is somehow smaller than
+            critical value for pointwise confidence interval...using pointwise
+            confidence interal
+es_slope: ok
+dose_level: 1 warnings, distinct: critical value for uniform confidence band is somehow smaller than
+            critical value for pointwise confidence interval...using pointwise
+            confidence interal
+dose_level: ok
+dose_slope: 2 warnings, distinct: critical value for uniform confidence band is somehow smaller than
+            critical value for pointwise confidence interval...using pointwise
+            confidence interal
+dose_slope: ok

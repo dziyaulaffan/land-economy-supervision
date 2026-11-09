@@ -1,0 +1,8 @@
+step,n
+"London district sales 2017-2023 (all categories, incl. City)",798102
+Category A,634527
+Property type D/S/T/F,634527
+"Price >= 10,000",634525
+Postcode matched in NSPL to a 2011 MSOA in the 32 boroughs,632938
+Merged to MSOA amenity and controls,632938
+Tenure F or L (drops U),632938

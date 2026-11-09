@@ -1,0 +1,96 @@
+census_year,check,value,reference,diff_pct,note
+2011,"residents, sum of MSOAs",56075912.0,56075912.0,0.0,UKMIG008 England + Wales
+2011,"migrants, sum of MSOAs",6841130.0,6841130.0,0.0,UKMIG008 England + Wales
+2011,"residents, sum of MSOAs vs KS101EW",56075912.0,56075912.0,0.0,KS101EW England and Wales
+2011,"residents, sum of 2011 OAs (KS101EW, weights)",56075912.0,56075912.0,0.0,
+2011,"band 0-4 residents, sum of MSOAs",3496750.0,,,rate per 1000 151.7
+2011,"band 5-15 residents, sum of MSOAs",7082382.0,,,rate per 1000 90.5
+2011,"band 16-19 residents, sum of MSOAs",2851391.0,,,rate per 1000 181.7
+2011,"band 20-24 residents, sum of MSOAs",3807245.0,,,rate per 1000 352.8
+2011,"band 25-34 residents, sum of MSOAs",7520524.0,,,rate per 1000 239.0
+2011,"band 35-49 residents, sum of MSOAs",11931776.0,,,rate per 1000 98.3
+2011,"band 50-64 residents, sum of MSOAs",10162771.0,,,rate per 1000 50.0
+2011,"band 65-74 residents, sum of MSOAs",4852833.0,,,rate per 1000 32.6
+2011,"band 75+ residents, sum of MSOAs",4370240.0,,,rate per 1000 39.5
+2001,"residents, sum of OAs (KS024 all people)",52041916.0,52041916.0,0.0,KS024 England and Wales
+2001,"migrants, sum of OAs (KS024)",6338051.0,6338041.0,0.0002,KS024 England and Wales
+2001,"migrants excl. no usual address, sum of OAs (KS024)",5917165.0,5917931.0,-0.0129,KS024 England and Wales
+2001,residents by band summed (UV004 MSOA),52041852.0,52041916.0,-0.0001,UV004 England and Wales
+2001,band 0 migrants (estimate) vs ST008 E&W,130696.0449687998,131630.0,-0.7095,rate est 222.9 vs ST008 224.5
+2001,band 0 migrants excl. no usual address (estimate) vs ST008 E&W,122113.20349675018,123113.0,-0.8121,
+2001,band 1-3 migrants (estimate) vs ST008 E&W,315368.36643503007,315784.0,-0.1316,rate est 169.6 vs ST008 169.9
+2001,band 1-3 migrants excl. no usual address (estimate) vs ST008 E&W,283745.0886505558,284024.0,-0.0982,
+2001,band 4 migrants (estimate) vs ST008 E&W,86523.5401331556,87312.0,-0.903,rate est 133.3 vs ST008 134.6
+2001,band 4 migrants excl. no usual address (estimate) vs ST008 E&W,79609.51046289824,80244.0,-0.7907,
+2001,band 5-9 migrants (estimate) vs ST008 E&W,354071.09033040015,354021.0,0.0141,rate est 107.0 vs ST008 107.0
+2001,band 5-9 migrants excl. no usual address (estimate) vs ST008 E&W,338664.6267599743,338793.0,-0.0379,
+2001,band 10-14 migrants (estimate) vs ST008 E&W,294118.5636645232,294734.0,-0.2088,rate est 85.9 vs ST008 86.1
+2001,band 10-14 migrants excl. no usual address (estimate) vs ST008 E&W,280878.05934300274,281554.0,-0.2401,
+2001,band 15 migrants (estimate) vs ST008 E&W,47837.02892908632,48525.0,-1.4178,rate est 72.3 vs ST008 73.3
+2001,band 15 migrants excl. no usual address (estimate) vs ST008 E&W,45491.92814778809,46080.0,-1.2762,
+2001,band 16-17 migrants (estimate) vs ST008 E&W,119113.431700302,120786.0,-1.3847,rate est 91.2 vs ST008 92.5
+2001,band 16-17 migrants excl. no usual address (estimate) vs ST008 E&W,112173.89453965343,113844.0,-1.467,
+2001,band 18-19 migrants (estimate) vs ST008 E&W,314642.3218254808,318738.0,-1.285,rate est 251.9 vs ST008 255.2
+2001,band 18-19 migrants excl. no usual address (estimate) vs ST008 E&W,300784.5652714773,304837.0,-1.3294,
+2001,band 20-24 migrants (estimate) vs ST008 E&W,1129716.7659252367,1125447.0,0.3794,rate est 361.8 vs ST008 360.5
+2001,band 20-24 migrants excl. no usual address (estimate) vs ST008 E&W,1061326.7757856194,1057413.0,0.3701,
+2001,band 25-29 migrants (estimate) vs ST008 E&W,953620.24918312,950184.0,0.3616,rate est 277.6 vs ST008 276.6
+2001,band 25-29 migrants excl. no usual address (estimate) vs ST008 E&W,882556.5485196766,879786.0,0.3149,
+2001,band 30-34 migrants (estimate) vs ST008 E&W,726709.5784504729,724640.0,0.2856,rate est 182.4 vs ST008 181.9
+2001,band 30-34 migrants excl. no usual address (estimate) vs ST008 E&W,675884.0589886969,673952.0,0.2867,
+2001,band 35-39 migrants (estimate) vs ST008 E&W,509902.4127643993,508828.0,0.2112,rate est 124.6 vs ST008 124.3
+2001,band 35-39 migrants excl. no usual address (estimate) vs ST008 E&W,474655.02924292715,473604.0,0.2219,
+2001,band 40-44 migrants (estimate) vs ST008 E&W,326799.9428149087,325786.0,0.3112,rate est 89.4 vs ST008 89.1
+2001,band 40-44 migrants excl. no usual address (estimate) vs ST008 E&W,302970.1210142571,302195.0,0.2565,
+2001,band 45-49 migrants (estimate) vs ST008 E&W,224072.16397309964,223415.0,0.2941,rate est 68.0 vs ST008 67.8
+2001,band 45-49 migrants excl. no usual address (estimate) vs ST008 E&W,207344.2276588964,206745.0,0.2898,
+2001,band 50-54 migrants (estimate) vs ST008 E&W,200936.50924838387,200058.0,0.4391,rate est 56.0 vs ST008 55.7
+2001,band 50-54 migrants excl. no usual address (estimate) vs ST008 E&W,186741.4642444912,185796.0,0.5089,
+2001,band 55-59 migrants (estimate) vs ST008 E&W,142455.06634002435,141962.0,0.3473,rate est 48.1 vs ST008 47.9
+2001,band 55-59 migrants excl. no usual address (estimate) vs ST008 E&W,132427.30538417512,132039.0,0.2941,
+2001,band 60-64 migrants (estimate) vs ST008 E&W,111690.9158046612,111524.0,0.1497,rate est 43.9 vs ST008 43.8
+2001,band 60-64 migrants excl. no usual address (estimate) vs ST008 E&W,103771.51159975879,103625.0,0.1414,
+2001,band 65-69 migrants (estimate) vs ST008 E&W,86759.39185328328,86760.0,-0.0007,rate est 37.8 vs ST008 37.8
+2001,band 65-69 migrants excl. no usual address (estimate) vs ST008 E&W,80650.30883954998,80405.0,0.3051,
+2001,band 70-74 migrants (estimate) vs ST008 E&W,70811.7384357352,70844.0,-0.0455,rate est 34.1 vs ST008 34.1
+2001,band 70-74 migrants excl. no usual address (estimate) vs ST008 E&W,65448.86028269996,65412.0,0.0564,
+2001,band 75-79 migrants (estimate) vs ST008 E&W,63076.55410904504,63338.0,-0.4128,rate est 35.9 vs ST008 36.1
+2001,band 75-79 migrants excl. no usual address (estimate) vs ST008 E&W,58250.8367199823,58506.0,-0.4361,
+2001,band 80-84 migrants (estimate) vs ST008 E&W,55005.11569308062,55720.0,-1.283,rate est 46.7 vs ST008 47.3
+2001,band 80-84 migrants excl. no usual address (estimate) vs ST008 E&W,51265.41015073503,51895.0,-1.2132,
+2001,band 85-89 migrants (estimate) vs ST008 E&W,43808.68561827191,45547.0,-3.8165,rate est 64.7 vs ST008 67.3
+2001,band 85-89 migrants excl. no usual address (estimate) vs ST008 E&W,41597.62428722028,43135.0,-3.5641,
+2001,band 90+ migrants (estimate) vs ST008 E&W,30315.52179949957,32459.0,-6.6036,rate est 90.3 vs ST008 96.7
+2001,band 90+ migrants excl. no usual address (estimate) vs ST008 E&W,28814.040609213807,30935.0,-6.8562,
+2011,All ages migrants on MSOA21 vs native,6841130.0,6841130.0,0.0,mapping preserves totals
+2011,All ages residents on MSOA21 vs native,56075912.0,56075912.0,0.0,mapping preserves totals
+2011,20-24 migrants on MSOA21 vs native,1343037.001,1343037.0,0.0,mapping preserves totals
+2011,20-24 residents on MSOA21 vs native,3807244.999,3807245.0,-0.0,mapping preserves totals
+2011,25-34 migrants on MSOA21 vs native,1797380.0,1797380.0,0.0,mapping preserves totals
+2011,25-34 residents on MSOA21 vs native,7520524.0,7520524.0,0.0,mapping preserves totals
+2001,All ages migrants on MSOA21 vs native,6338051.001,6338051.0,0.0,mapping preserves totals
+2001,All ages residents on MSOA21 vs native,52041916.0,52041916.0,0.0,mapping preserves totals
+2001,20-24 migrants on MSOA21 vs native,1129716.771,1129716.7659252367,0.0,mapping preserves totals
+2001,20-24 residents on MSOA21 vs native,3122212.0,3122212.0,0.0,mapping preserves totals
+2001,25-34 migrants on MSOA21 vs native,1680329.8669999999,1680329.827633593,0.0,mapping preserves totals
+2001,25-34 residents on MSOA21 vs native,7418929.001,7418929.0,0.0,mapping preserves totals
+2021,All ages migrants on MSOA21 (B2 file),6493460.0,6493688.0,-0.0035,TS019 E&W migrants aged 1+
+2021,20-24 migrants on MSOA21 (B2 file),1179617.0,,,rate 329.6; MSOAs 7203
+2021,25-34 migrants on MSOA21 (B2 file),1767598.0,,,rate 221.1; MSOAs 7203
+2011,MSOA01->MSOA11: OA-based weight outside official target for U/M MSOAs (sum of shares),0.0,,,7100 U/M MSOAs
+2011,MSOA11->MSOA21: OA-based weight outside official target for U/M MSOAs (sum of shares),0.0,,,7118 U/M MSOAs
+2001,estimator diagnostic: n_oa,175434.0,,,
+2001,estimator diagnostic: n_msoa,7194.0,,,
+2001,estimator diagnostic: oa_on_district_rate,148.0,,,
+2001,estimator diagnostic: pop_on_district_rate,44961.0,,,
+2001,estimator diagnostic: rake_min,0.5791416703732379,,,
+2001,estimator diagnostic: rake_p05,0.8543171087777529,,,
+2001,estimator diagnostic: rake_med,1.0024598103387106,,,
+2001,estimator diagnostic: rake_p95,1.1436838323083716,,,
+2001,estimator diagnostic: rake_max,2.0251735858985174,,,
+2001,estimator diagnostic: capped_cells,0.0,,,
+2001,estimator diagnostic: capped_cells_excl_nua,0.0,,,
+2001,estimator diagnostic: rake_excl_nua_p05,0.8531653307482239,,,
+2001,estimator diagnostic: rake_excl_nua_p95,1.1423457796930425,,,
+2011,"estimator test, band 20-24: correlation of estimated and true MSOA rates (district rates, raked)",0.9045,,,median abs error 32.6 per 1000; true median rate 253.2
+2011,"estimator test, band 25-34: correlation of estimated and true MSOA rates (district rates, raked)",0.9044,,,median abs error 17.4 per 1000; true median rate 212.2
