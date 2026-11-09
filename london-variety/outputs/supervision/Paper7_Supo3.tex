@@ -1,5 +1,4 @@
 \documentclass[11pt,a4paper]{article}
-% Built by scripts/99_supervision.py from scripts/supervision_template.tex and the estimation outputs.
 \usepackage[hmargin=2.4cm,vmargin=2.2cm]{geometry}
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
@@ -114,6 +113,8 @@ In the test of Davis and Weinstein the change in an area's young population duri
 The research was carried out with Claude Code, an LLM coding assistant, under a division of labour in which the questions and decisions were mine and the data work was delegated. I set the question, suggested each source, measure of density, comparison group and test, and interpreted each result, and Claude Code wrote and ran the Python for each step and reported the output back for the next decision. The delegated work included downloading the data from the ONS, Nomis, the Food Standards Agency and OpenStreetMap, coding the 42 closure rules from the regulations on legislation.gov.uk, building the access and variety-days-lost measures, and estimating the triple differences with the wild cluster bootstrap.
 
 To ensure that every result could be checked and that each verdict was fixed before its result was seen, three safeguards were enforced, namely (i) the decision rules for the national, venue-mix and recovery tests were written into pre-analysis plans and fixed with a SHA-256 checksum, a digital fingerprint that changes if the file is edited, before those tests were run (Table~\ref{tab:registered}), (ii) every judgement call, departure from a plan and blocked source was recorded in a notes file as it arose, with analyses chosen after the registered results labelled as such, and (iii) each closure rule was checked against the text of its regulation, and the national estimation code was checked by reproducing the London estimates exactly.
+
+The code, cleaned data, notes and pre-analysis plans are available on the \texttt{my-supervision} branch at \url{https://github.com/dziyaulaffan/land-economy-supervision/tree/my-supervision}, with the sources, the steps to reproduce each result and the decision log set out in the \texttt{templates} folder and the scripts and data in the \texttt{london-variety} folder.
 %======================================================================
 \section{Methodology}
 %======================================================================

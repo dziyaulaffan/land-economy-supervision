@@ -2,7 +2,7 @@
 
 | File | Description | Created by |
 | --- | --- | --- |
-| [`Paper7_Supo3.pdf`](../london-variety/outputs/supervision/Paper7_Supo3.pdf) | Supervision summary, seven pages | `Paper7_Supo3.tex`, compiled with pdflatex |
+| [`Paper7_Supo3.pdf`](../london-variety/outputs/supervision/Paper7_Supo3.pdf) | Supervision summary, eight pages | `Paper7_Supo3.tex`, compiled with pdflatex |
 | [`report.pdf`](../london-variety/outputs/report/report.pdf) | Full research report, 26 pages | `scripts/99_report.py`, then pdflatex |
 | [`brief.md`](../london-variety/outputs/report/brief.md) | Two-page research brief | Written from the notes files |
 | `outputs/event_study/preperiod_check.csv` | London triple-difference coefficients, Figure 1a and Table 2 | `scripts/97_preperiod_check.py` |

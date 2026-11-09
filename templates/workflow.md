@@ -18,7 +18,7 @@ The full log of every decision, check, departure and blocked source is [`london-
 
 ## Step 3. Venue-mix design
 
-- Action and reason: The closure rules for seven venue types were coded from 42 regulations, each checked against its legal text, and combined with each small area's mix of venues.
+- Action and reason: Forty-two closure rules for seven venue types were coded from the coronavirus regulations, each checked against its legal text, and combined with each small area's mix of venues.
 - Change made: A second plan was fixed before any outcome was opened, after a stopping rule on the residual variation of the treatment was passed.
 - Check and result: The headline was negative and significant, and the 2001 to 2011 placebo was larger and of opposite sign, so under the registered rule the variety channel was not supported.
 - Next step: Test whether dense places recovered after reopening.
@@ -32,7 +32,7 @@ The full log of every decision, check, departure and blocked source is [`london-
 
 ## Step 5. Write-up
 
-- Action and reason: The results were written into a full report and a seven-page supervision summary, with every figure taken from the notes or the estimation outputs.
+- Action and reason: The results were written into a full report and an eight-page supervision summary, with every figure taken from the notes or the estimation outputs.
 - Change made: Sample sizes were checked against the code (7,262 small areas for the recovery design and 6,797 for the venue-mix design), and the check of the 2026 food register against 2019 Business Counts was recomputed on the 316 districts used elsewhere.
 - Check and result: Both documents compile without LaTeX warnings.
 - Next step: Supervision discussion.
